@@ -1,3 +1,6 @@
+html .vc_row-fluid {
+    z-index: 0;
+}
 .cv_banner-principal>.vc_column-inner{
     max-width: 100%;
     padding-left: 0px;
