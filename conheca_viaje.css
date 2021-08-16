@@ -1,9 +1,38 @@
+html .vc_row-fluid{
+    z-index: -1;
+}
+.promotions.horizontal {
+    display: table-cell;
+    border-collapse: separate;
+    table-layout: fixed;
+    width: 50%;
+    vertical-align: middle;
+    text-align: center;
+}
+.tg_title {
+    display: table-cell;
+    width: 50%;
+    vertical-align: middle;
+    font-size: 44px;
+    line-height: 60px;
+}
+.wpb_wrapper {
+    display: table !important;
+    padding: 30px 0px;
+    width: 100%;
+}
+
+.fullsection>.vc_column_container>.vc_column-inner {
+    max-width: 1140px;
+    margin: 0px auto;
+}
 .promotions.horizontal > li {
-    width: 300px !important;
+    width: 290px !important;
     text-align: center;
 }
 .promotions a {
     width: 290px !important;
+    background-color: #fff;
 }
 .promotions a:hover{
     box-shadow: 0 12px 20px rgb(68 68 68 / 20%);
@@ -36,8 +65,8 @@
     text-align: center;
     padding: 5px;
     position: absolute;
-    top: 142px;
-    left: 230px;
+    top: 170px;
+    right: 343px;
 }
 
 .titulo {
@@ -76,6 +105,8 @@ strong.total {
     color: #fe7000 !important;
     width: 112px;
     float: left;
+    text-align: left;
+    padding-left: 5px;
 }
 .bypersonal {
     margin: 8px 0;
