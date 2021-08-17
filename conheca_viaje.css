@@ -46,6 +46,14 @@ ul#cv_banner_pacote li h1 {
     vertical-align: middle;
     text-align: center;
 }
+.cv_promo_pacotes>.vc_column-inner>.wpb_wrapper>.vc_row.wpb_row.vc_inner.vc_row-fluid{
+    display: table-cell;
+    width: 50%;
+    vertical-align: middle;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: right;
+}
 .cv_promo_pacotes>.vc_column-inner>.wpb_wrapper>.tg_title {
     display: table-cell;
     width: 50%;
