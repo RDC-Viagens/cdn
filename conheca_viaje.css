@@ -43,4 +43,17 @@ ul#cv_banner_pacote li h1 {
         padding-left: 0px;
         padding-right: 0px;
     }
+
+    ul#cv_banner_pacote {
+        position: absolute;
+        top: 0px;
+        right: 19px;
+    }
+    ul#cv_banner_pacote li{
+        font-size: 28px;
+    }
+    ul#cv_banner_pacote li h1 {
+        font-size: 40px;
+    }
+    
 }
