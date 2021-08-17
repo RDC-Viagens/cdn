@@ -11,7 +11,6 @@ html .vc_row-fluid{
     z-index: -1;
 }
 
-
 /* Configuração Section Banner*/
 ul#cv_banner_pacote {
     position: absolute;
@@ -26,4 +25,3 @@ ul#cv_promo_pacote li h1 {
     color: #fff;
     text-shadow: 2px 2px 2px #000;
 }
-
