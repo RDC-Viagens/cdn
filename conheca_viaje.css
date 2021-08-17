@@ -20,6 +20,7 @@ ul#cv_banner_pacote {
 ul#cv_banner_pacote li{
     list-style: none;;
     font-size: 28px;
+    line-height: 0px;
     color: #fe7000;
     text-shadow: 2px 2px 2px #000;
 }
