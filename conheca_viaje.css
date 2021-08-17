@@ -12,6 +12,9 @@ html .vc_row-fluid{
 }
 
 /* Configuração Section Banner*/
+.wpb_single_image.wpb_content_element.vc_align_center{
+    margin-bottom: 0px;
+}
 ul#cv_banner_pacote {
     position: absolute;
     top: 87px;
@@ -31,6 +34,9 @@ ul#cv_banner_pacote li h1 {
 }
 
 @media screen and (max-width: 700px) {
+    .wpb_single_image.wpb_content_element.vc_align_center{
+        margin-bottom: 0px;
+    }
     .cv_banner-principal>.vc_column-inner>.wpb_wrapper {
         padding-left: 0px !important;
         padding-right: 0px !important;
