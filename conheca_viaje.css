@@ -36,6 +36,24 @@ ul#cv_banner_pacote li h1 {
     text-shadow: 2px 2px 2px #000;
 }
 
+/* Configuração Section Promoção Pacote*/
+
+.cv_promo_pacotes ul.promotions.horizontal {
+    display: table-cell;
+    border-collapse: separate;
+    table-layout: fixed;
+    width: 50%;
+    vertical-align: middle;
+    text-align: center;
+}
+.cv_promo_pacotes>.tg_title {
+    display: table-cell;
+    width: 50%;
+    vertical-align: middle;
+    font-size: 44px;
+    line-height: 60px;
+}
+
 @media screen and (max-width: 700px) {
     .wpb_single_image.wpb_content_element.vc_align_center{
         margin-bottom: 0px;
