@@ -60,6 +60,7 @@ ul#cv_banner_pacote li h1 {
     .promotions.horizontal > li {
         width: 290px !important;
         text-align: center;
+        padding: 20px 0px;
     }
     .promotions a {
         width: 290px !important;
