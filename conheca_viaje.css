@@ -97,8 +97,8 @@ ul#cv_banner_pacote li h1 {
         text-align: center;
         padding: 5px;
         position: absolute;
-        top: 170px;
-        right: 343px;
+        top: 164px;
+        right: 203px;
     }
     
     .titulo {
@@ -160,6 +160,7 @@ ul#cv_banner_pacote li h1 {
         font-weight: 700;
         letter-spacing: -.22px;
         padding: 0px 5px;
+        text-align: left;
     }
 
 @media screen and (max-width: 700px) {
