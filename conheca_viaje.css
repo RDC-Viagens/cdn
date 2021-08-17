@@ -17,10 +17,10 @@ ul#cv_banner_pacote {
     top: 96px;
     right: 200px;
 }
-ul#cv_promo_pacote li{
+ul#cv_banner_pacote li{
     list-style: none;
 }
-ul#cv_promo_pacote li h1 {
+ul#cv_banner_pacote li h1 {
     font-size: 80px;
     color: #fff;
     text-shadow: 2px 2px 2px #000;
