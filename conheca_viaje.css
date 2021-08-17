@@ -31,11 +31,11 @@ ul#cv_banner_pacote li h1 {
 }
 
 @media screen and (max-width: 700px) {
-    .cv_banner-principal>.vc_column-inner>.wpb_wrapper{
+    .cv_banner-principal>.vc_column-inner>.wpb_wrapper {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    .cv_banner-principal>.vc_column-inner>figure.wpb_wrapper.vc_figure {
+    .cv_banner-principal>.vc_column-inner figure.wpb_wrapper.vc_figure {
         padding-left: 0px;
         padding-right: 0px;
     }
