@@ -38,7 +38,7 @@ ul#cv_banner_pacote li h1 {
 
 /* Configuração Section Promoção Pacote*/
 
-.cv_promo_pacotes ul.promotions.horizontal {
+.cv_promo_pacotes>.vc_column-inner>.wpb_wrapper>ul.promotions.horizontal {
     display: table-cell;
     border-collapse: separate;
     table-layout: fixed;
@@ -46,7 +46,7 @@ ul#cv_banner_pacote li h1 {
     vertical-align: middle;
     text-align: center;
 }
-.cv_promo_pacotes>.tg_title {
+.cv_promo_pacotes>.vc_column-inner>.wpb_wrapper>.tg_title {
     display: table-cell;
     width: 50%;
     vertical-align: middle;
