@@ -31,5 +31,8 @@ ul#cv_banner_pacote li h1 {
 }
 
 @media screen and (max-width: 700px) {
-    
+    .cv_banner-principal>.wpb_wrapper{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
 }
