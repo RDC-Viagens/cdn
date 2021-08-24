@@ -41,15 +41,16 @@ ul.promotions.horizontal{
     display: block !important;
 }
 ul.promotions.horizontal li{
-    width: 500% !important;
-    animation-name: animacao !important;
-    animation-duration: 20s !important;
-    animation-iteration-count: infinite !important;
+    
     display: block !important;
 }
 ul.promotions.horizontal li a{
     width: 19.9% !important;
     display: block !important;
+    width: 500% !important;
+    animation-name: animacao !important;
+    animation-duration: 20s !important;
+    animation-iteration-count: infinite !important;
 }
 @keyframes animacao {
     0%{margin-left: 0;}
