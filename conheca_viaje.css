@@ -39,6 +39,7 @@ ul.promotions.horizontal{
     height: 360px !important;
     background-color: black !important;
     overflow: hidden !important;
+    display: block !important;
 }
 ul.promotions.horizontal li{
     width: 500% !important;
