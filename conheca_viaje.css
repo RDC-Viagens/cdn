@@ -32,3 +32,20 @@ ul#cv_banner_pacote li h1 {
     color: #fff;
     text-shadow: 2px 2px 2px #000;
 }
+
+
+ul.promotions.horizontal{
+    width: 640px;
+    height: 360px;
+    background-color: black;
+    overflow: hidden;
+}
+ul.promotions.horizontal li{
+    width: 500%;
+    animation-name: animacao;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+ul.promotions.horizontal li a{
+    width: 19.9%;
+}
