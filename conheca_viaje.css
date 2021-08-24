@@ -45,9 +45,11 @@ ul.promotions.horizontal li{
     animation-name: animacao !important;
     animation-duration: 20s !important;
     animation-iteration-count: infinite !important;
+    display: block !important;
 }
 ul.promotions.horizontal li a{
     width: 19.9% !important;
+    display: block !important;
 }
 @keyframes animacao {
     0%{margin-left: 0;}
