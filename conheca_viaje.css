@@ -37,7 +37,6 @@ ul#cv_banner_pacote li h1 {
 ul.promotions.horizontal{
     width: 640px !important;
     height: 360px !important;
-    background-color: black !important;
     overflow: hidden !important;
     display: block !important;
 }
