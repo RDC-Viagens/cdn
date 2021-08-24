@@ -1,0 +1,4 @@
+/* Configuração da Pagina */
+html .vc_row-fluid{
+    z-index: -1;
+}
