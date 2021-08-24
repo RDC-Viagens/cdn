@@ -35,17 +35,29 @@ ul#cv_banner_pacote li h1 {
 
 
 ul.promotions.horizontal{
-    width: 640px;
-    height: 360px;
-    background-color: black;
-    overflow: hidden;
+    width: 640px !important;
+    height: 360px !important;
+    background-color: black !important;
+    overflow: hidden !important;
 }
 ul.promotions.horizontal li{
-    width: 500%;
-    animation-name: animacao;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
+    width: 500% !important;
+    animation-name: animacao !important;
+    animation-duration: 20s !important;
+    animation-iteration-count: infinite !important;
 }
 ul.promotions.horizontal li a{
-    width: 19.9%;
+    width: 19.9% !important;
+}
+@keyframes animacao {
+    0%{margin-left: 0;}
+    20%{margin-left: 0;}
+    25%{margin-left: -100%;}
+    45%{margin-left: -100%;}
+    50%{margin-left: -200%;}
+    70%{margin-left: -200%;}
+    75%{margin-left: -300%;}
+    95%{margin-left: -300%;}
+    100%{margin-left: -400%;}
+
 }
