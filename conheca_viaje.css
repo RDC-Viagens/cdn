@@ -38,6 +38,7 @@ ul#cv_banner_pacote li h1 {
     width: 300px !important;
     height: 352.8px;
     margin: 10px;
+    background-color: #fff !important
 }
 .sliders-promo-pacotes ul.promotions.horizontal.slider li a{
     background-color: #fff !important;
