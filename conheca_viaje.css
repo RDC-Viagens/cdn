@@ -60,11 +60,14 @@ ul#cv_banner_pacote li h1 {
 }
 .night {
     position: relative;
-    top: -163px;
+    top: -150px;
     color: #fff;
     left: 224px;
     display: initial;
     padding: 5px;
+}
+.master_title {
+    margin-top: -15px;
 }
 h2.title {
     width: 100%;
