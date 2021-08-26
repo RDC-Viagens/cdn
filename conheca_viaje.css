@@ -34,6 +34,12 @@ ul#cv_banner_pacote li h1 {
 }
 
 /* Configuração Pacote */
+.sliders-promo-pacotes ul.promotions.horizontal.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: center;
+}
 .sliders-promo-pacotes ul.promotions.horizontal.slider li{
     width: 300px !important;
     height: 352.8px;
