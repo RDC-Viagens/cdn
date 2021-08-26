@@ -35,10 +35,10 @@ ul#cv_banner_pacote li h1 {
 
 /* Configuração Pacote */
 .sliders-promo-pacotes ul.promotions.horizontal.slider li{
-    width: 300px;
+    width: 300px !important;
 }
 .sliders-promo-pacotes figure {
-    width: 300px;
-    height: 169px;
+    width: 300px !important;
+    height: 169px !important;
     max-width: 300px !important;
 }
