@@ -43,7 +43,6 @@ ul#cv_banner_pacote li h1 {
     max-width: 300px !important;
 }
 .sliders-promo-pacotes figure img{
-    object-fit: cover !important;
-    width: 100%;
-    height: 100%;
+    width: 100% !important;
+    height: 100% !important;
 }
