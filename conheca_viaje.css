@@ -59,10 +59,10 @@ ul#cv_banner_pacote li h1 {
     height: 100% !important;
 }
 .night {
-    position: absolute;
-    top: 11px;
+    position: relative;
+    top: -163px;
     color: #fff;
-    left: 242px;
+    left: 224px;
     display: initial;
     padding: 5px;
 }
