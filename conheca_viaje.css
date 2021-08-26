@@ -122,3 +122,12 @@ strong.total {
     padding: 0px 5px;
     text-align: left;
 }
+h1.tg_title {
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: right;
+    height: 372px;
+}
