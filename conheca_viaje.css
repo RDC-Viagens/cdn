@@ -80,7 +80,7 @@ p.obs {
 .price {
     width: 100%;
     padding: 0px 5px 5px 5px;
-    display: table;
+    display: table !important;
 }
 span.price_conection{
     color: #fe7000 !important;
