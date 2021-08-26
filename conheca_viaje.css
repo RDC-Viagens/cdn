@@ -46,3 +46,22 @@ ul#cv_banner_pacote li h1 {
     width: 100% !important;
     height: 100% !important;
 }
+.night {
+    position: absolute;
+    top: 1px;
+    color: #fff;
+    left: 242px;
+    display: initial;
+    padding: 5px;
+}
+h2.title {
+    width: 100%;
+}
+.titulo {
+    padding: 5px;
+    color: #2400f6 !important;
+    text-align: justify;
+    text-shadow: 0.05em 0.05em 0.1em black;
+    font-weight: 300;
+    font-size: 14px;
+}
