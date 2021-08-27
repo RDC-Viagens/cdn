@@ -161,3 +161,9 @@ h1.tg_title {
 h2.vc_custom_heading{
     color: #777;
 }
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3,
+.cv_promo_servicos_4 {
+    margin: 0px 9px;
+}
