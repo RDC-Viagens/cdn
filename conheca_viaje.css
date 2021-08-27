@@ -158,3 +158,9 @@ h1.tg_title {
     border-radius: 12px;
     height: 132px;
 }
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3,
+.cv_promo_servicos_4 h2{
+    color: #777;
+}
