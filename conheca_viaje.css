@@ -131,3 +131,30 @@ h1.tg_title {
     text-align: right;
     height: 372px;
 }
+
+
+/* Configuração Ingresso */
+.cv_promo_servicos_1 {
+    background-color: #f9e8e7;
+    border: 1px solid #f90c51;
+    border-radius: 12px;
+    height: 132px;
+}
+.cv_promo_servicos_2 {
+    background-color: #f9e8e7;
+    border: 1px solid #f90c51;
+    border-radius: 12px;
+    height: 132px;
+}
+.cv_promo_servicos_3 {
+    background-color: #f9e8e7;
+    border: 1px solid #f90c51;
+    border-radius: 12px;
+    height: 132px;
+}
+.cv_promo_servicos_4 {
+    background-color: #f9e8e7;
+    border: 1px solid #f90c51;
+    border-radius: 12px;
+    height: 132px;
+}
