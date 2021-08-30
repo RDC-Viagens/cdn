@@ -188,3 +188,14 @@ h2.vc_custom_heading{
     background-color: #fff !important;
 }
 
+
+.cv_service figure{
+    width: 300px !important;
+    height: 169px !important;
+    max-width: 300px !important;
+}
+
+.cv_service figure img{
+    width: 100% !important;
+    height: 100% !important;
+}
