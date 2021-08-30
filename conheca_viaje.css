@@ -239,6 +239,9 @@ h1.tg_title {
 .cv_service span.price_conection {
     width: 72px !important;
 }
+.cv_service .atention{
+    padding-bottom: 5px !important;
+}
 
 .cv_nao_deixe_conhecer{
     padding-top: 10px;
