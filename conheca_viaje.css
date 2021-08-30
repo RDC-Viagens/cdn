@@ -167,3 +167,26 @@ h2.vc_custom_heading{
     margin: 0px 9px;
 }
 
+ul.promotions.horizontal {
+    width: 300px;
+    margin: 0px auto;
+}
+ul.promotions.horizontal li{
+    width: 300px;
+    height: 352.8px;
+    margin: 0px auto;
+    margin: 10px;
+}
+
+ul.promotions.horizontal li a{
+    background-color: #fff !important;
+}
+ul.promotions.horizontal li a figure{
+    width: 300px !important;
+    height: 169px !important;
+    max-width: 300px !important;
+}
+ul.promotions.horizontal li a figure img{
+    width: 100% !important;
+    height: 100% !important;
+}
