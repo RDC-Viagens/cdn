@@ -183,8 +183,8 @@ h2.vc_custom_heading{
 .cv_service li{
     width: 300px !important;
     height: 352.8px !important;
-    vertical-align: middle;
-    display: table-cell;
+    vertical-align: middle !important;
+    display: table-cell !important;
 }
 .cv_service li a{
     background-color: #fff !important;
