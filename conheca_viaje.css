@@ -12,6 +12,9 @@ html .vc_row-fluid{
 .espacamento-cv h2.vc_custom_heading {
     font-weight: 600;
 }
+.cv_apresentacao{
+    padding: 0px 0px 20px 0px;
+}
 
 /* Configuração Section Banner*/
 .cv_banner-principal>.vc_column-inner{
@@ -214,7 +217,6 @@ h1.tg_title {
 
 .cv_service{
     width: 300px !important;
-    height: 100%;
     margin: 0px auto !important;
 }
 .cv_service li{
