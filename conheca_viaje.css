@@ -196,7 +196,7 @@ h1.tg_title {
     height: 64px;
 }
 h2.vc_custom_heading{
-    color: #777;
+    color: #000;
 }
 
 .cv_service{
@@ -229,7 +229,6 @@ h2.vc_custom_heading{
 .cv_service .master_title {
     margin: 0px;
 }
-
 
 .cv_service span.price_conection {
     width: 72px !important;
