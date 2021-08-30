@@ -209,7 +209,7 @@ h2.vc_custom_heading{
     height: 352.8px !important;
     vertical-align: middle !important;
     display: table-cell !important;
-    padding-top: 40px;
+    padding: 10px 0px;
 }
 .cv_service li a{
     background-color: #fff !important;
@@ -228,4 +228,9 @@ h2.vc_custom_heading{
 }
 .cv_service .master_title {
     margin: 0px;
+}
+
+
+.cv_service span.price_conection {
+    width: 72px !important;
 }
