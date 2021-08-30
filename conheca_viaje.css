@@ -139,54 +139,64 @@ h1.tg_title {
     border: 1px solid #f90c51;
     border-radius: 12px;
     height: 132px;
+    margin: 0px 9px;
 }
 .cv_promo_servicos_2 {
     background-color: #e8d8ff;
     border: 1px solid #2400f6;
     border-radius: 12px;
     height: 132px;
+    margin: 0px 9px;
 }
 .cv_promo_servicos_3 {
     background-color: #fdf2e6;
     border: 1px solid #fe7000;
     border-radius: 12px;
     height: 132px;
+    margin: 0px 9px;
 }
 .cv_promo_servicos_4 {
     background-color: #e6daed;
     border: 1px solid #662e91;
     border-radius: 12px;
     height: 132px;
+    margin: 0px 9px;
 }
 h2.vc_custom_heading{
     color: #777;
 }
+
+
 .cv_promo_servicos_1,
 .cv_promo_servicos_2,
-.cv_promo_servicos_3{
-    margin: 0px 9px;
-}
-
-ul.promotions.horizontal {
+.cv_promo_servicos_3 ul.promotions.horizontal {
     width: 300px;
     margin: 0px auto;
 }
-ul.promotions.horizontal li{
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3 ul.promotions.horizontal li{
     width: 300px;
     height: 352.8px;
     margin: 0px auto;
     margin: 10px;
 }
 
-ul.promotions.horizontal li a{
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3 ul.promotions.horizontal li a{
     background-color: #fff !important;
 }
-ul.promotions.horizontal li a figure{
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3 ul.promotions.horizontal li a figure{
     width: 300px !important;
     height: 169px !important;
     max-width: 300px !important;
 }
-ul.promotions.horizontal li a figure img{
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3 ul.promotions.horizontal li a figure img{
     width: 100% !important;
     height: 100% !important;
 }
