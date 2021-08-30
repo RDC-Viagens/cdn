@@ -6,6 +6,10 @@ html .vc_row-fluid{
     font-size: 33px !important;
 }
 
+.espacamento-cv{
+    padding: 15px 0px !important;
+}
+
 /* Configuração Section Banner*/
 .cv_banner-principal>.vc_column-inner{
     max-width: 100%;
