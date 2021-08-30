@@ -151,6 +151,11 @@ h1.tg_title {
     width: 30%;
     margin: 0px 5px;
 }
+.cv_promo_servicos_1 h2.vc_custom_heading {
+    padding: 5px 0px;
+    width: 310px;
+    height: 64px;
+}
 .cv_promo_servicos_2 {
     background-color: #e8d8ff;
     border: 1px solid #2400f6;
@@ -158,6 +163,11 @@ h1.tg_title {
     height: 100%;
     width: 30%;
     margin: 0px 5px;
+}
+.cv_promo_servicos_2 h2.vc_custom_heading {
+    padding: 5px 0px;
+    width: 310px;
+    height: 64px;
 }
 .cv_promo_servicos_3 {
     background-color: #fdf2e6;
@@ -167,6 +177,11 @@ h1.tg_title {
     width: 30%;
     margin: 0px 5px;
 }
+.cv_promo_servicos_3 h2.vc_custom_heading {
+    padding: 5px 0px;
+    width: 310px;
+    height: 64px;
+}
 .cv_promo_servicos_4 {
     background-color: #e6daed;
     border: 1px solid #662e91;
@@ -174,6 +189,11 @@ h1.tg_title {
     height: 100%;
     width: 30%;
     margin: 0px 5px;
+}
+.cv_promo_servicos_4 h2.vc_custom_heading {
+    padding: 5px 0px;
+    width: 310px;
+    height: 64px;
 }
 h2.vc_custom_heading{
     color: #777;
