@@ -188,17 +188,3 @@ h2.vc_custom_heading{
     background-color: #fff !important;
 }
 
-
-.cv_promo_servicos_1,
-.cv_promo_servicos_2,
-.cv_promo_servicos_3 ul.promotions.horizontal li a figure{
-    width: 300px !important;
-    height: 169px !important;
-    max-width: 300px !important;
-}
-.cv_promo_servicos_1,
-.cv_promo_servicos_2,
-.cv_promo_servicos_3 ul.promotions.horizontal li a figure img{
-    width: 100% !important;
-    height: 100% !important;
-}
