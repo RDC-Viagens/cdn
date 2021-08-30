@@ -138,28 +138,32 @@ h1.tg_title {
     background-color: #f9e8e7;
     border: 1px solid #f90c51;
     border-radius: 12px;
-    height: 132px;
+    height: 373px;
+    width: 30%;
     margin: 0px 5px;
 }
 .cv_promo_servicos_2 {
     background-color: #e8d8ff;
     border: 1px solid #2400f6;
     border-radius: 12px;
-    height: 132px;
+    height: 373px;
+    width: 30%;
     margin: 0px 5px;
 }
 .cv_promo_servicos_3 {
     background-color: #fdf2e6;
     border: 1px solid #fe7000;
     border-radius: 12px;
-    height: 132px;
+    height: 373px;
+    width: 30%;
     margin: 0px 5px;
 }
 .cv_promo_servicos_4 {
     background-color: #e6daed;
     border: 1px solid #662e91;
     border-radius: 12px;
-    height: 132px;
+    height: 373px;
+    width: 30%;
     margin: 0px 5px;
 }
 h2.vc_custom_heading{
