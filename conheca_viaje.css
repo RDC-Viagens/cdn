@@ -134,6 +134,12 @@ h1.tg_title {
 
 
 /* Configuração Serviços */
+.cv_ofertas-Servicos {
+    margin: 0px auto;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+}
 .cv_promo_servicos_1 {
     background-color: #f9e8e7;
     border: 1px solid #f90c51;
@@ -170,3 +176,29 @@ h2.vc_custom_heading{
     color: #777;
 }
 
+.cv_service{
+    width: 300px !important;
+    margin: 0px auto !important;
+}
+.cv_service li{
+    width: 300px !important;
+    height: 352.8px !important;
+}
+.cv_service li li a{
+    background-color: #fff !important;
+}
+
+
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3 ul.promotions.horizontal li a figure{
+    width: 300px !important;
+    height: 169px !important;
+    max-width: 300px !important;
+}
+.cv_promo_servicos_1,
+.cv_promo_servicos_2,
+.cv_promo_servicos_3 ul.promotions.horizontal li a figure img{
+    width: 100% !important;
+    height: 100% !important;
+}
