@@ -133,7 +133,7 @@ h1.tg_title {
 }
 
 
-/* Configuração Ingresso */
+/* Configuração Serviços */
 .cv_promo_servicos_1 {
     background-color: #f9e8e7;
     border: 1px solid #f90c51;
@@ -163,7 +163,7 @@ h2.vc_custom_heading{
 }
 .cv_promo_servicos_1,
 .cv_promo_servicos_2,
-.cv_promo_servicos_3,
-.cv_promo_servicos_4 {
+.cv_promo_servicos_3{
     margin: 0px 9px;
 }
+
