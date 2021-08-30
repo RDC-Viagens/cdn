@@ -155,6 +155,8 @@ h1.tg_title {
     padding: 5px 0px;
     width: 310px;
     height: 64px;
+    color: #000;
+    font-weight: 600;
 }
 .cv_promo_servicos_2 {
     background-color: #e8d8ff;
@@ -168,6 +170,8 @@ h1.tg_title {
     padding: 5px 0px;
     width: 310px;
     height: 64px;
+    color: #000;
+    font-weight: 600;
 }
 .cv_promo_servicos_3 {
     background-color: #fdf2e6;
@@ -181,6 +185,8 @@ h1.tg_title {
     padding: 5px 0px;
     width: 310px;
     height: 64px;
+    color: #000;
+    font-weight: 600;
 }
 .cv_promo_servicos_4 {
     background-color: #e6daed;
@@ -194,10 +200,10 @@ h1.tg_title {
     padding: 5px 0px;
     width: 310px;
     height: 64px;
-}
-h2.vc_custom_heading{
     color: #000;
+    font-weight: 600;
 }
+
 
 .cv_service{
     width: 300px !important;
