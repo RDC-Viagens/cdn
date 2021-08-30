@@ -138,7 +138,7 @@ h1.tg_title {
 
 /* Configuração Serviços */
 .cv_ofertas-Servicos {
-    margin: 0px auto;
+    padding-bottom: 15px;
     display: flex;
     flex-direction: center;
     justify-content: center;
