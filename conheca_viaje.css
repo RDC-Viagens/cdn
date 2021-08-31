@@ -352,6 +352,13 @@ h1.tg_title {
 @media screen and (max-width: 700px){
     h1.tg_title{
         height: min-content !important;
-        padding: 5px 0px;
+        padding: 10px 0px;
+        font-size: 27px;
+    }
+    .vc_separator.wpb_content_element.vc_separator_align_center.vc_sep_width_100.vc_sep_double.vc_sep_pos_align_center.vc_separator-has-text h4 {
+        font-size: 25px !important;
+    }
+    .vc_separator.vc_sep_double {
+        height: min-content;
     }
 }
