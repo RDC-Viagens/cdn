@@ -361,4 +361,13 @@ h1.tg_title {
     .vc_separator.vc_sep_double {
         height: min-content;
     }
+    .direita{
+        right: -150px;
+    }
+    .wpb_text_column p{
+        text-align: justify;
+    }
+    .wpb_video_widget.wpb_content_element.vc_clearfix.vc_video-aspect-ratio-169.vc_video-el-width-100.vc_video-align-center {
+        padding-bottom: 15px;
+    }
 }
