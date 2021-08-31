@@ -147,6 +147,9 @@ h1.tg_title {
 
 /* Slider Pacotes */
 
+#slider li{
+    opacity: 0;
+}
 
 #slider li.selected{
     opacity: 1;
