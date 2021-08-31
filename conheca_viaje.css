@@ -1,45 +1,56 @@
 /* Configuração da Pagina */
-html .vc_row-fluid{
+
+html .vc_row-fluid {
     z-index: -1;
 }
+
 .vc_separator.wpb_content_element.vc_separator_align_center.vc_sep_width_100.vc_sep_double.vc_sep_pos_align_center.vc_separator-has-text h4 {
     font-size: 33px !important;
 }
 
-.espacamento-cv{
+.espacamento-cv {
     padding: 15px 0px !important;
 }
+
 .espacamento-cv h2.vc_custom_heading {
     font-weight: 600;
 }
-.cv_apresentacao{
+
+.cv_apresentacao {
     padding: 0px 0px 20px 0px;
 }
 
 /* Configuração Section Banner*/
-.cv_banner-principal>.vc_column-inner{
+
+.cv_banner-principal>.vc_column-inner {
     max-width: 100%;
     padding-left: 0px !important;
     padding-right: 0px !important;
 }
-.wpb_single_image.wpb_content_element.vc_align_center{
+
+.wpb_single_image.wpb_content_element.vc_align_center {
     margin-bottom: 0px;
 }
-.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li{
+
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
     margin-bottom: 0px;
 }
+
 ul#cv_banner_pacote {
     position: absolute;
     top: 87px;
     right: 200px;
 }
-ul#cv_banner_pacote li{
-    list-style: none;;
+
+ul#cv_banner_pacote li {
+    list-style: none;
+    ;
     font-size: 28px;
     line-height: 0px;
     color: #fe7000;
     text-shadow: 2px 2px 2px #000;
 }
+
 ul#cv_banner_pacote li h1 {
     font-size: 80px;
     color: #fff;
@@ -47,28 +58,28 @@ ul#cv_banner_pacote li h1 {
 }
 
 /* Configuração Pacote */
+
 .sliders-promo-pacotes ul.promotions.horizontal.slider {
     width: 100%;
-            /* max-width: 500px; */
-            height: 100%;
-            /*
-            max-height: 150px;
-*/
-            position: relative;
-            /*
+    /* max-width: 500px; */
+    height: 100%;
+    /*max-height: 150px;*/
+    position: relative;
+    /*
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: center;
     */
 }
-.sliders-promo-pacotes ul.promotions.horizontal.slider li{
+
+.sliders-promo-pacotes ul.promotions.horizontal.slider li {
     list-style: none;
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            /*
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /*
             opacity: 0;
             
     width: 300px !important;
@@ -78,19 +89,21 @@ ul#cv_banner_pacote li h1 {
     */
 }
 
-
-.sliders-promo-pacotes ul.promotions.horizontal.slider li a{
+.sliders-promo-pacotes ul.promotions.horizontal.slider li a {
     background-color: #fff !important;
 }
+
 .sliders-promo-pacotes figure {
     width: 300px !important;
     height: 169px !important;
     max-width: 300px !important;
 }
-.sliders-promo-pacotes figure img{
+
+.sliders-promo-pacotes figure img {
     width: 100% !important;
     height: 100% !important;
 }
+
 .night {
     position: relative;
     top: -150px;
@@ -99,12 +112,15 @@ ul#cv_banner_pacote li h1 {
     display: initial;
     padding: 5px;
 }
+
 .master_title {
     margin-top: -15px;
 }
+
 h2.title {
     width: 100%;
 }
+
 .titulo {
     padding: 5px;
     color: #2400f6 !important;
@@ -113,26 +129,30 @@ h2.title {
     font-weight: 300;
     font-size: 14px;
 }
+
 p.obs {
     margin: 0px;
     padding: 5px !important;
     text-align: justify;
     height: 60px;
 }
+
 .price {
     width: 100%;
     padding: 0px 5px 5px 5px;
     display: table !important;
 }
-span.price_conection{
-    
+
+span.price_conection {
     display: table-cell !important;
     vertical-align: middle !important;
     width: 83px !important;
 }
+
 strong.total {
     color: #fe7000 !important;
 }
+
 .bypersonal {
     margin: 8px 0;
     font-weight: 400;
@@ -147,6 +167,7 @@ strong.total {
     color: #7d7d7d;
     padding: 0px 5px;
 }
+
 .atention {
     color: #777;
     font-size: 9px !important;
@@ -155,6 +176,7 @@ strong.total {
     padding: 0px 5px;
     text-align: left;
 }
+
 h1.tg_title {
     display: table-cell;
     width: 100%;
@@ -167,11 +189,11 @@ h1.tg_title {
 
 /* Slider Pacotes */
 
-#sliders li{
+#sliders li {
     opacity: 0;
 }
 
-#sliders li.selected{
+#sliders li.selected {
     opacity: 1;
 }
 
@@ -192,7 +214,8 @@ h1.tg_title {
     justify-content: center;
     align-items: center;
 }
-.direita{
+
+.direita {
     font-size: 45px;
     position: relative;
     top: 0px;
@@ -212,14 +235,15 @@ h1.tg_title {
     float: right;
 }
 
-
 /* Configuração Serviços */
+
 .cv_ofertas-Servicos {
     padding-bottom: 15px;
     display: flex;
     flex-direction: center;
     justify-content: center;
 }
+
 .cv_promo_servicos_1 {
     background-color: #f9e8e7;
     border: 1px solid #f90c51;
@@ -228,6 +252,7 @@ h1.tg_title {
     width: 30%;
     margin: 0px 5px;
 }
+
 .cv_promo_servicos_1 h2.vc_custom_heading {
     padding: 5px 0px;
     width: 310px;
@@ -235,6 +260,7 @@ h1.tg_title {
     color: #000;
     font-weight: 500;
 }
+
 .cv_promo_servicos_2 {
     background-color: #e8d8ff;
     border: 1px solid #2400f6;
@@ -243,6 +269,7 @@ h1.tg_title {
     width: 30%;
     margin: 0px 5px;
 }
+
 .cv_promo_servicos_2 h2.vc_custom_heading {
     padding: 5px 0px;
     width: 310px;
@@ -250,6 +277,7 @@ h1.tg_title {
     color: #000;
     font-weight: 500;
 }
+
 .cv_promo_servicos_3 {
     background-color: #fdf2e6;
     border: 1px solid #fe7000;
@@ -258,6 +286,7 @@ h1.tg_title {
     width: 30%;
     margin: 0px 5px;
 }
+
 .cv_promo_servicos_3 h2.vc_custom_heading {
     padding: 5px 0px;
     width: 310px;
@@ -265,6 +294,7 @@ h1.tg_title {
     color: #000;
     font-weight: 500;
 }
+
 .cv_promo_servicos_4 {
     background-color: #e6daed;
     border: 1px solid #662e91;
@@ -273,6 +303,7 @@ h1.tg_title {
     width: 30%;
     margin: 0px 5px;
 }
+
 .cv_promo_servicos_4 h2.vc_custom_heading {
     padding: 5px 0px;
     width: 310px;
@@ -281,33 +312,34 @@ h1.tg_title {
     font-weight: 500;
 }
 
-
-.cv_service{
+.cv_service {
     width: 300px !important;
     margin: 0px auto !important;
 }
-.cv_service li{
+
+.cv_service li {
     width: 300px !important;
     height: 352.8px !important;
     vertical-align: middle !important;
     display: table-cell !important;
     padding: 10px 0px;
 }
-.cv_service li a{
+
+.cv_service li a {
     background-color: #fff !important;
 }
 
-
-.cv_service figure{
+.cv_service figure {
     width: 300px !important;
     height: 169px !important;
     max-width: 300px !important;
 }
 
-.cv_service figure img{
+.cv_service figure img {
     width: 100% !important;
     height: 100% !important;
 }
+
 .cv_service .master_title {
     margin: 0px;
 }
@@ -315,14 +347,16 @@ h1.tg_title {
 .cv_service span.price_conection {
     width: 72px !important;
 }
-.cv_service .atention{
+
+.cv_service .atention {
     padding-bottom: 5px !important;
 }
 
-.cv_nao_deixe_conhecer{
+.cv_nao_deixe_conhecer {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.cv_conheca_tambem{
+
+.cv_conheca_tambem {
     padding: 15px 0px;
 }
