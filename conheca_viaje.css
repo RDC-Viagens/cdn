@@ -64,7 +64,7 @@ ul#cv_banner_pacote li h1 {
     top: 24px;
     z-index: 1;
     cursor: pointer;
-    height: 353px;
+    height: 370px;
     background-color: #f5f5f5;
     opacity: 0.4;
     width: 35px;
@@ -84,7 +84,7 @@ ul#cv_banner_pacote li h1 {
     right: 0px;
     z-index: 1;
     cursor: pointer;
-    height: 353px;
+    height: 370px;
     background-color: #f5f5f5;
     opacity: 0.4;
     width: 35px;
@@ -99,16 +99,14 @@ ul#cv_banner_pacote li h1 {
 
 .sliders-promo-pacotes ul.promotions.horizontal.slider {
     width: 100%;
-    /* max-width: 500px; */
-    /* height: 100%; */
-    /*max-height: 150px;*/
+    height: 370px;
     position: relative;
-    /*
+    
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: center;
-    */
+    
 }
 
 .sliders-promo-pacotes ul.promotions.horizontal.slider li {
