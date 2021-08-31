@@ -349,7 +349,7 @@ h1.tg_title {
     padding: 15px 0px;
 }
 
-@media screen and (max-width 768px){
+@media screen and (max-width: 700px){
     h1.tg_title{
         height: min-content !important;
         padding: 5px 0px;
