@@ -59,6 +59,44 @@ ul#cv_banner_pacote li h1 {
 
 /* Configuração Pacote */
 
+.esquerda {
+    font-size: 45px;
+    position: fixed;
+    top: 24px;
+    z-index: 1;
+    cursor: pointer;
+    height: 417px;
+    background-color: #f5f5f5;
+    opacity: 0.4;
+    width: 35px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.direita {
+    font-size: 45px;
+    position: relative;
+    top: 0px;
+    right: -566px;
+    z-index: 1;
+    cursor: pointer;
+    height: 417px;
+    background-color: #f5f5f5;
+    opacity: 0.4;
+    width: 35px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
+
 .sliders-promo-pacotes ul.promotions.horizontal.slider {
     width: 100%;
     /* max-width: 500px; */
@@ -87,6 +125,10 @@ ul#cv_banner_pacote li h1 {
     margin: 10px;
     background-color: #fff !important
     */
+}
+
+#sliders li.selected {
+    opacity: 1;
 }
 
 .sliders-promo-pacotes ul.promotions.horizontal.slider li a {
@@ -185,50 +227,6 @@ h1.tg_title {
     line-height: 60px;
     text-align: right;
     height: 372px;
-}
-
-/* Slider Pacotes */
-
-#sliders li.selected {
-    opacity: 1;
-}
-
-.esquerda {
-    font-size: 45px;
-    position: fixed;
-    top: 24px;
-    z-index: 1;
-    cursor: pointer;
-    height: 417px;
-    background-color: #f5f5f5;
-    opacity: 0.4;
-    width: 35px;
-    text-align: center;
-    vertical-align: middle;
-    display: flex;
-    flex-direction: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.direita {
-    font-size: 45px;
-    position: relative;
-    top: 0px;
-    right: -566px;
-    z-index: 1;
-    cursor: pointer;
-    height: 417px;
-    background-color: #f5f5f5;
-    opacity: 0.4;
-    width: 35px;
-    text-align: center;
-    vertical-align: middle;
-    display: flex;
-    flex-direction: center;
-    justify-content: center;
-    align-items: center;
-    float: right;
 }
 
 /* Configuração Serviços */
