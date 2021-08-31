@@ -348,3 +348,10 @@ h1.tg_title {
 .cv_conheca_tambem {
     padding: 15px 0px;
 }
+
+@media screen and (max-width 768px){
+    h1.tg_title{
+        height: min-content !important;
+        padding: 5px 0px;
+    }
+}
