@@ -147,11 +147,11 @@ h1.tg_title {
 
 /* Slider Pacotes */
 
-#slider li{
+#sliders li{
     opacity: 0;
 }
 
-#slider li.selected{
+#sliders li.selected{
     opacity: 1;
 }
 
