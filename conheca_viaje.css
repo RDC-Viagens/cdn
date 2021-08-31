@@ -1,7 +1,7 @@
 /* Configuração da Pagina */
 
 .cv_index {
-    z-index: -1;
+    z-index: -1 !important;
 }
 
 .vc_separator.wpb_content_element.vc_separator_align_center.vc_sep_width_100.vc_sep_double.vc_sep_pos_align_center.vc_separator-has-text h4 {
