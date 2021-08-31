@@ -75,13 +75,15 @@ ul#cv_banner_pacote li h1 {
     justify-content: center;
     align-items: center;
     float: left;
+    position: relative;
+    left: -153px;
 }
 
 .direita {
     font-size: 45px;
     position: relative;
     top: 0px;
-    right: 0px;
+    right: -144px;
     z-index: 1;
     cursor: pointer;
     height: 370px;
@@ -94,7 +96,6 @@ ul#cv_banner_pacote li h1 {
     flex-direction: center;
     justify-content: center;
     align-items: center;
-    float: right;
 }
 
 .sliders-promo-pacotes ul.promotions.horizontal.slider {
