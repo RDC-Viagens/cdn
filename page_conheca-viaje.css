@@ -3,7 +3,9 @@
     padding-left: 0px !important;
     padding-right: 0px !important;
 }
-
+.wpb_single_image.wpb_content_element.vc_align_center{
+    margin-bottom: 0px;
+}
 
 /* BANNER */
 .conheca-viaje-svg-banner {
