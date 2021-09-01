@@ -90,3 +90,8 @@ ul#topico_menu li a {
 ul#topico_menu li a:hover {
     color: #f90c51;
 }
+
+/* PACOTES */
+.cv_pacotes_em_destaque {
+    border-top: 1px solid rgb(5, 64, 211);
+}
