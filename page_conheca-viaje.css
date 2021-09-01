@@ -56,7 +56,9 @@
     display: inline-block;
     float: left;
 }
-
+.secao_menu_topicos{
+    height: 40px;
+}
 ul#topico_menu {
     float: left;
     padding: 0;
