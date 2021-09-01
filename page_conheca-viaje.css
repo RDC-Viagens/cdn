@@ -26,6 +26,7 @@
     width: 100%;
     font-size: 115px;
     left: 98px;
+    text-shadow: 2px 2px 2px #000;
 }
 .h2_banner {
     position: absolute;
