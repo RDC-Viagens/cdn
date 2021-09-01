@@ -84,3 +84,6 @@ ul#topico_menu li {
 ul#topico_menu li a {
     text-decoration: none;
 }
+ul#topico_menu li a:hover {
+    color: #f90c51;
+}
