@@ -14,3 +14,27 @@
     -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
     filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
 }
+.h1_banner {
+    position: absolute;
+    top: 123px;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: 600;
+    width: 100%;
+    font-size: 45px;
+}
+.h2_banner {
+    position: absolute;
+    top: 123px;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: 600;
+    width: 100%;
+    font-size: 45px;
+}
