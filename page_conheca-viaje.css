@@ -1,0 +1,9 @@
+.conheca-viaje-svg-banner {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+.conheca-viaje-svg-banner svg {
+    -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+    filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+}
