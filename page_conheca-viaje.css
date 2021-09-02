@@ -116,7 +116,7 @@ code {
     flex-direction: center;
     justify-content: center;
     align-items: center;
-    height: min-content;
+    height: 350px;
     text-align: justify;
     padding: 10px;
     border-top: 1px solid #f90c51;
