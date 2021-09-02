@@ -95,3 +95,17 @@ ul#topico_menu li a:hover {
 .cv_pacotes_em_destaque {
     border-top: 1px solid rgb(5, 64, 211);
 }
+
+/* HISTORIA DESTINO */
+code {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    height: min-content;
+    text-align: justify;
+    padding: 10px;
+    border-top: 1px solid #f90c51;
+    border-right: 1px solid #f90c51;
+    border-bottom: 1px solid #f90c51;
+}
