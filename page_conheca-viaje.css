@@ -97,6 +97,12 @@ ul#topico_menu li a:hover {
 }
 
 /* HISTORIA DESTINO */
+
+.cv_historia_video{
+    height: 352px;
+    vertical-align: middle;
+    padding: 15px 0px 0px 0px;
+}
 code {
     display: flex;
     flex-direction: center;
