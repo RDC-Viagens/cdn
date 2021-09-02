@@ -100,6 +100,9 @@ ul#topico_menu li a:hover {
 .wpb_video_widget.wpb_content_element.vc_clearfix.vc_video-aspect-ratio-169.vc_video-el-width-100.vc_video-align-left{
     margin-bottom: 0px;
 }
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li{
+    margin-bottom: 0px;
+}
 .cv_historia_video{
     height: 352px;
     vertical-align: middle;
