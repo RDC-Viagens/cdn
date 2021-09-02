@@ -119,7 +119,11 @@ code {
     height: 350px;
     text-align: justify;
     padding: 10px;
+    margin-left: 140px;
+}
+.cv_historia_texto>.vc_column-inne>.wpb_wrapper p{
     border-top: 3px solid #f90c51;
     border-right: 3px solid #f90c51;
     border-bottom: 3px solid #f90c51;
+    margin-left: -140px;
 }
