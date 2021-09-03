@@ -19,29 +19,29 @@
 }
 .h1_banner {
     position: absolute;
-    top: 169px;
+    top: 163px;
     flex-direction: center;
     justify-content: center;
     align-items: center;
     color: #fff;
     font-weight: 600;
-    width: 100%;
+    width: 50%;
     font-size: 115px;
-    left: 803px;
+    left: 95px;
     text-shadow: 2px 2px 2px #000;
 }
 .h2_banner {
     position: absolute;
     top: 131px;
-    display: flex;
+    /* display: flex; */
     flex-direction: center;
     justify-content: center;
     align-items: center;
     color: #fff;
     font-weight: 600;
-    width: 100%;
+    width: 50%;
     font-size: 45px;
-    left: 10px;
+    left: 100px;
 }
 
 /* MENU */
