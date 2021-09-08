@@ -129,3 +129,10 @@ code {
     border-bottom: 3px solid #f90c51;
     margin-left: -140px;
 }
+.fullwidthbanner-container .fullwidthabanner{
+    display: flex !important;
+    height: 352px !important;
+}
+.fullwidthbanner-container .fullwidthabanner ul li {
+    visibility: visible !important;
+}
