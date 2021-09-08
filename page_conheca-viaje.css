@@ -108,10 +108,10 @@ ul#topico_menu li a:hover {
     padding: 0px;
 }
 div#rev_slider_87_1_wrapper {
-    height: 352px;
+    height: 352px !important;
 }
 .cv_historia_texto{
-    height: 352px;
+    height: 352px !important;
 }
 code {
     display: flex;
