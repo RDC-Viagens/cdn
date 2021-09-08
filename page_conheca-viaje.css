@@ -105,7 +105,10 @@ ul#topico_menu li a:hover {
 .cv_historia_video{
     height: 352px;
     vertical-align: middle;
-    padding: 15px 0px 0px 0px;
+    padding: 0px;
+}
+div#rev_slider_87_1_wrapper {
+    height: 352px;
 }
 .cv_historia_texto{
     height: 352px;
