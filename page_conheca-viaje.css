@@ -141,14 +141,16 @@ code {
 .separador-titulo {
     float: left;
     width: 100%;
-    display: flex;
+    display: inline-flex;
     flex-direction: center;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
 }
 .separador-titulo h1 {
     float: left;
     padding: 0px 10px;
+    width: 240px;
+    color: #fe7000;
 }
 .separador-titulo>.separador1 {
     width: 5%;
