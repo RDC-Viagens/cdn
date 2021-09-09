@@ -136,3 +136,9 @@ code {
 .fullwidthbanner-container .fullwidthabanner ul li {
     visibility: visible !important;
 }
+
+/* ONDE FICAR */
+.vc_separator.vc_separator_align_center h4 {
+    padding: 0 .8em;
+    font-size: 35px;
+}
