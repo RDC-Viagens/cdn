@@ -6,6 +6,10 @@
 .wpb_single_image.wpb_content_element.vc_align_center{
     margin-bottom: 0px;
 }
+.wpb_text_column p {
+    padding: 15px 0px 0px 0px;
+    text-align: justify;
+}
 
 /* SEPARADORES */
 .vc_separator.vc_separator_align_left h4 {
