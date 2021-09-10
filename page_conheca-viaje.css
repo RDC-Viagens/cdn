@@ -140,12 +140,14 @@ code {
 /* ONDE FICAR */
 #qdo-ir {
     text-align: center;
+
 }
 
 #qdo-ir ul {
-    margin: 0px;
-    padding: 0px;
+    margin: 15px 0px;
+    padding: 5px 0px;
     display: inline-flex;
+
 }
 
 #qdo-ir ul li {
@@ -153,19 +155,34 @@ code {
     padding: 0px 6px;
     margin: 0px 10px;
     height: 30px;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
-#qdo-ir ul li span{
+
+#qdo-ir ul li span {
     position: relative;
     top: 32px;
     color: #fe7000;
 }
-.qdo-ir1{
+
+#qdo-ir ul li p {
+    margin: 0px;
+    padding: 0px;
+    color: #fe7000;
+    font-weight: 600;
+}
+
+.qdo-ir1 {
     background-color: #fe7000;
 }
-.qdo-ir2{
+
+.qdo-ir2 {
     background-color: #fea966;
 }
-.qdo-ir3{
+
+.qdo-ir3 {
     background-color: #fef0e5;
 }
 
