@@ -206,3 +206,9 @@ code {
     color: #428cca;
     font-weight: 600;
 }
+.promotions.horizontal > li .price {
+    width: 100%;
+}
+.promotions.horizontal > li span.preco {
+    color: #fe7000;
+}
