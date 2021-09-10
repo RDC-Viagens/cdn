@@ -6,6 +6,10 @@
 .wpb_single_image.wpb_content_element.vc_align_center{
     margin-bottom: 0px;
 }
+.promotions figure img{
+    width: 300px;
+    height: 169px;
+}
 
 /* SEPARADORES */
 .vc_separator.vc_separator_align_left h4 {
