@@ -216,3 +216,9 @@ code {
 .promotions.horizontal > li span.preco {
     color: #fe7000;
 }
+
+/* Regionalidade */
+.text_regionalidade p {
+    padding: 10px;
+    text-align: justify;
+}
