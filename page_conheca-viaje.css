@@ -219,6 +219,10 @@ code {
 
 /* Regionalidade */
 .text_regionalidade p {
-    padding: 10px;
-    text-align: justify;
+    padding: 10px !important;
+    text-align: justify !important;
+}
+img.vc_single_image-img.attachment-large {
+    width: 380px;
+    height: 211px;
 }
