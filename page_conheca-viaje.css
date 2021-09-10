@@ -7,6 +7,12 @@
     margin-bottom: 0px;
 }
 
+/* SEPARADORES */
+.vc_separator.vc_separator_align_left h4 {
+    padding: 0 .8em 0 0;
+    font-size: 25px;
+}
+
 /* BANNER */
 .conheca-viaje-svg-banner {
     position: absolute;
