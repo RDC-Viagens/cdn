@@ -23,3 +23,7 @@ label.label.name_hotel {
 a#btnSearch {
     float: right;
 }
+
+.search_engine_v2 label.select:after{
+    display: none !important;
+}
