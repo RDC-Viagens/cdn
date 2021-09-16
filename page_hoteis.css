@@ -2,6 +2,9 @@
     background-color: transparent;
 }
 
+div#searchEngine {
+    background-color: #f90c51;
+}
 label.label.name_hotel {
     display: none !important;
 }
