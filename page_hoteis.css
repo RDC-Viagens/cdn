@@ -14,3 +14,6 @@ label.label.name_hotel {
 .search_engine_v2.hotel.custom_engine > .content .rooms > li .select {
     width: 15% !important;
 }
+.search_engine_v2 .content .advanced.travelers label {
+    display: none;
+}
