@@ -3,11 +3,11 @@
 }
 
 label.label.name_hotel {
-    display: none;
+    display: none !important;
 }
 .search_engine_v2.hotel.custom_engine > .content .date {
-    width: 10%;
+    width: 10% !important;
 }
 .search_engine_v2.hotel.custom_engine > .content .destination {
-    width: 25%;
+    width: 25% !important;
 }
