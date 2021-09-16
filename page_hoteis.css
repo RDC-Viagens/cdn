@@ -5,3 +5,6 @@
 label.label.name_hotel {
     display: none;
 }
+.search_engine_v2.hotel.custom_engine > .content .date {
+    width: 10%;
+}
