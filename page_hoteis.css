@@ -34,3 +34,9 @@ label.select.adults p{
 label.select.children p{
     padding: 3px 5px;
 }
+select#drpAdultsQtdRoom0 {
+    width: 15%;
+}
+select#drpChildrenQtdRoom0 {
+    width: 15%;
+}
