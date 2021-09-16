@@ -27,3 +27,10 @@ a#btnSearch {
 .search_engine_v2 label.select:after{
     display: none !important;
 }
+
+label.select.adults p{
+    padding: 3px 5px;
+}
+label.select.children p{
+    padding: 3px 5px;
+}
