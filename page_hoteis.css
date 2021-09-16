@@ -8,3 +8,6 @@ label.label.name_hotel {
 .search_engine_v2.hotel.custom_engine > .content .date {
     width: 10%;
 }
+.search_engine_v2.hotel.custom_engine > .content .destination {
+    width: 25%;
+}
