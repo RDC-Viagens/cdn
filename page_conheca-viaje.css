@@ -10,7 +10,9 @@
     padding: 15px 0px 0px 0px;
     text-align: justify;
 }
-
+.vc_row.wpb_row.vc_row-fluid.fullsection.cv_sub-menu {
+    border: 1px solid rgb(5, 64, 211);
+}
 /* SEPARADORES */
 .vc_separator.vc_separator_align_left h4 {
     padding: 0 .8em 0 0;
