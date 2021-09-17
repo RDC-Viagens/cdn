@@ -226,6 +226,16 @@ ul.promotions.horizontal {
 .promotions.horizontal > li span.preco {
     color: #fe7000;
 }
+.night {
+    color: #fff;
+    display: block;
+    width: 100%;
+    text-align: right;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px #000;
+    top: -25px;
+    position: relative;
+}
 
 /* Regionalidade */
 .text_regionalidade p {
