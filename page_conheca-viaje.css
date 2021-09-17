@@ -104,7 +104,11 @@ ul#topico_menu li a:hover {
 .cv_pacotes_em_destaque {
     <!-- border-top: 1px solid rgb(5, 64, 211); -->
 }
-
+div#pacotes_em_destaque {
+    margin-bottom: 12px !important;
+    border-top: 1px solid #002B97;
+    border-bottom: 1px solid #002B97;
+}
 /* HISTORIA DESTINO */
 .wpb_video_widget.wpb_content_element.vc_clearfix.vc_video-aspect-ratio-169.vc_video-el-width-100.vc_video-align-left{
     margin-bottom: 0px;
