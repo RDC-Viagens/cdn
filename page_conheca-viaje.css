@@ -204,6 +204,9 @@ ul.promotions.horizontal {
     justify-content: center;
     align-items: center;
 }
+.promotions.horizontal > li {
+    width: 300px !important;
+}
 .promotions figure img{
     width: 300px;
     height: 169px;
