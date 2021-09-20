@@ -297,4 +297,9 @@ img.vc_single_image-img.attachment-large {
         font-size: 35px;
         left: 20px;
     }
+
+    /* SUBMENU */
+    .cv_sub-menu>.wpb_column>.vc_column-inner>.wpb_wrapper {
+        padding: 0px !important;
+    }
 }
