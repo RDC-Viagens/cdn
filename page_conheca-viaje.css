@@ -373,6 +373,7 @@ img.vc_single_image-img.attachment-large {
     ul.promotions.horizontal{
         display: flex !important;
         overflow-x: auto;
+        justify-content: left;
     }
     .promotions.horizontal>li {
         flex: none;
