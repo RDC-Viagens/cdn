@@ -267,7 +267,9 @@ span.price_conection {
     padding: 0px;
 }
 
-
+.master_title {
+    padding: 5px;
+}
 #card-promocoes>li span.preco {
     color: #fe7000;
 }
