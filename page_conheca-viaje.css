@@ -260,6 +260,9 @@ strong.total {
     margin: -2px 0 0;
     padding: 0px 5px 5px;
 }
+p.obs {
+    height: 78px;
+}
 
 /* Regionalidade */
 .text_regionalidade p {
