@@ -366,10 +366,6 @@ img.vc_single_image-img.attachment-large {
         overflow-x: auto;
         justify-content: left;
     }
-    #card-promocoes>li {
-        flex: none;
-        width: 300px !important;
-    }
     #card-promocoes li {
         flex: none;
         width: 300px !important;
