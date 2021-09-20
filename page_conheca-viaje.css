@@ -229,12 +229,12 @@ ul#card-promocoes {
     align-items: center;
 }
 
-#card-promocoes>li {
+#card-promocoes li {
     width: 300px !important;
     background-color: #fff;
 }
 
-.promotions figure img {
+#card-promocoes figure img {
     width: 300px;
     height: 169px;
 }
@@ -357,6 +357,7 @@ img.vc_single_image-img.attachment-large {
         vertical-align: middle;
         display: table-cell !important;
     }
+
     /* CARDS PACOTES PROMOCIONAIS */
     div#pacotes_em_destaque>.wpb_column>.vc_column-inner>.wpb_wrapper {
         width: 100vw !important;
