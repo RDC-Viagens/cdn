@@ -350,7 +350,6 @@ img.vc_single_image-img.attachment-large {
         padding: 0px 2px;
         vertical-align: middle;
         height: 42px;
-        width: 300px !important;
     }
     ul#topico_menu li a {
         font-size: 12px;
@@ -369,6 +368,7 @@ img.vc_single_image-img.attachment-large {
     }
     .promotions.horizontal>li {
         flex: none;
+        width: 300px !important;
     }
     .promotions.horizontal>li a{
         width: 300px;
