@@ -370,6 +370,10 @@ img.vc_single_image-img.attachment-large {
         flex: none;
         width: 300px !important;
     }
+    .promotions.horizontal li {
+        flex: none;
+        width: 300px !important;
+    }
     .promotions.horizontal>li a{
         width: 300px;
         height: 100%;
