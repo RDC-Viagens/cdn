@@ -372,5 +372,13 @@ img.vc_single_image-img.attachment-large {
     }
     ul.promotions.horizontal{
         display: flex !important;
+        overflow-x: auto;
+    }
+    .promotions.horizontal>li {
+        flex: none;
+    }
+    .promotions.horizontal>li a{
+        width: 100%;
+        height: 100%;
     }
 }
