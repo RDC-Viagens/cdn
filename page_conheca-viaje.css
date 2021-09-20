@@ -114,11 +114,6 @@ ul#topico_menu li a:hover {
 
 /* PACOTES */
 
-.cv_pacotes_em_destaque {
-    <!-- border-top: 1px solid rgb(5, 64, 211);
-    -->
-}
-
 div#pacotes_em_destaque {
     margin-bottom: 12px !important;
     border-top: 1px solid #002B97;
@@ -355,6 +350,7 @@ img.vc_single_image-img.attachment-large {
         padding: 0px 2px;
         vertical-align: middle;
         height: 42px;
+        width: 300px !important;
     }
     ul#topico_menu li a {
         font-size: 12px;
