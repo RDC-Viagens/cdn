@@ -253,13 +253,18 @@ ul#card-promocoes {
     color: #428cca;
     font-weight: 600;
 }
-
+span.price_conection {
+    display: table-cell !important;
+    vertical-align: middle;
+    height: 30px;
+}
 #card-promocoes>li .price {
     width: 100%;
     display: table !important;
     vertical-align: middle !important;
     height: 30px;
 }
+
 
 #card-promocoes>li span.preco {
     color: #fe7000;
