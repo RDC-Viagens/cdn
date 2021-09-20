@@ -328,8 +328,11 @@ img.vc_single_image-img.attachment-large {
     }
 
     /* CARDS PACOTES PROMOCIONAIS */
-    ul.promotions.horizontal {
-        display: table !important;
-        width: 300px;  
+    div#pacotes_em_destaque>.wpb_column>.vc_column-inner >.wpb_wrapper {
+        width: 100vw !important;
+    }
+    div#pacotes_em_destaque>.wpb_column>.vc_column-inner >.wpb_wrapper ul li a{
+        width: 100%;
+        height: 100%;
     }
 }
