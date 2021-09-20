@@ -281,10 +281,20 @@ img.vc_single_image-img.attachment-large {
 
 @media screen and (max-width: 700px){
     /* BANNER PRINCIPAL */
-    .cv_banner_principal>.wpb_wrapper{
+    .cv_banner_principal>.wpb_column>.vc_column-inner>.wpb_wrapper {
         padding: 0px !important;
     }
     figure.wpb_wrapper.vc_figure {
         padding: 0px !important;
+    }
+    .h2_banner {
+        top: 19px;
+        font-size: 16px;
+        left: 22px;
+    }
+    .h1_banner {
+        top: 30px;
+        font-size: 35px;
+        left: 20px;
     }
 }
