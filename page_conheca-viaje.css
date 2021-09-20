@@ -241,6 +241,12 @@ ul.promotions.horizontal {
     top: -25px;
     position: relative;
 }
+strong.total {
+    color: #fe7000 !important;
+    width: 108px;
+    display: inherit !important;
+    margin-left: 5px;
+}
 
 /* Regionalidade */
 .text_regionalidade p {
