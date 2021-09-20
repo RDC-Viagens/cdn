@@ -219,6 +219,7 @@ code {
     background-color: #ccd4ea;
 }
 
+
 /* Configuração Card */
 
 p.ref {
@@ -288,7 +289,7 @@ span.price_conection {
     font-weight: 600;
     text-shadow: 2px 2px 2px #000;
     top: -25px;
-    right: 11px;
+    right: 0px;
     position: relative;
 }
 
