@@ -264,6 +264,7 @@ span.price_conection {
     display: table !important;
     vertical-align: middle !important;
     height: 30px;
+    padding: 0px;
 }
 
 
