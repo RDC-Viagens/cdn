@@ -256,6 +256,7 @@ ul#card-promocoes {
 
 #card-promocoes>li .price {
     width: 100%;
+    padding: 0px;
 }
 
 #card-promocoes>li span.preco {
