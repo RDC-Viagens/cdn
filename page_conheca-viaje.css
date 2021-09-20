@@ -305,6 +305,17 @@ img.vc_single_image-img.attachment-large {
     .cv_sub-menu>.wpb_column>.vc_column-inner>.wpb_wrapper>.wpb_raw_code>.wpb_wrapper {
         padding: 0px !important;
     }
+    ul#topico_menu {
+        float: left !important;
+        display: table;
+        width: 90%;
+    }
+    ul#topico_menu li {
+        display: table-column !important;
+        width: 14%;
+        padding: 0px;
+        text-align: center;
+    }
     ul#topico_menu li a {
         font-size: 12px;
     }
