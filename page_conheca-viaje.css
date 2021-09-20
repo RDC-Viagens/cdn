@@ -311,10 +311,12 @@ img.vc_single_image-img.attachment-large {
         width: 90%;
     }
     ul#topico_menu li {
-        display: table-column !important;
+        display: table-cell !important;
         width: 14%;
         padding: 0px;
         text-align: center;
+        padding: 0px 2px;
+        vertical-align: middle;
     }
     ul#topico_menu li a {
         font-size: 12px;
