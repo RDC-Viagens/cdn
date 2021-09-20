@@ -263,6 +263,11 @@ strong.total {
 p.obs {
     height: 78px;
 }
+.extra {
+    font-size: 12px !important;
+    color: #7d7d7d !important;
+    padding: 5px;
+}
 
 /* Regionalidade */
 .text_regionalidade p {
