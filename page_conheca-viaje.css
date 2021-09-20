@@ -221,7 +221,7 @@ code {
 
 /* Configuração Card */
 
-ul.promotions.horizontal {
+ul#card-promocoes {
     display: inline-flex !important;
     width: 100%;
     flex-direction: center;
@@ -229,7 +229,7 @@ ul.promotions.horizontal {
     align-items: center;
 }
 
-.promotions.horizontal>li {
+#card-promocoes>li {
     width: 300px !important;
     background-color: #fff;
 }
@@ -239,7 +239,7 @@ ul.promotions.horizontal {
     height: 169px;
 }
 
-.promotions.horizontal>li h2.title {
+#card-promocoes>li h2.title {
     font-size: 17px;
     width: 100%;
     text-align: justify;
@@ -249,11 +249,11 @@ ul.promotions.horizontal {
     font-weight: 600;
 }
 
-.promotions.horizontal>li .price {
+#card-promocoes>li .price {
     width: 100%;
 }
 
-.promotions.horizontal>li span.preco {
+#card-promocoes>li span.preco {
     color: #fe7000;
 }
 
@@ -361,20 +361,20 @@ img.vc_single_image-img.attachment-large {
     div#pacotes_em_destaque>.wpb_column>.vc_column-inner>.wpb_wrapper {
         width: 100vw !important;
     }
-    ul.promotions.horizontal{
+    ul#card-promocoes{
         display: flex !important;
         overflow-x: auto;
         justify-content: left;
     }
-    .promotions.horizontal>li {
+    #card-promocoes>li {
         flex: none;
         width: 300px !important;
     }
-    .promotions.horizontal li {
+    #card-promocoes li {
         flex: none;
         width: 300px !important;
     }
-    .promotions.horizontal>li a{
+    #card-promocoes>li a{
         width: 300px;
         height: 100%;
     }
