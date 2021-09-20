@@ -309,7 +309,7 @@ img.vc_single_image-img.attachment-large {
         float: left !important;
         display: table;
         width: 90%;
-        
+
     }
     ul#topico_menu li {
         display: table-cell !important;
@@ -324,5 +324,6 @@ img.vc_single_image-img.attachment-large {
         font-size: 12px;
         height: 42px;
         vertical-align: middle;
+        display: table-cell !important;
     }
 }
