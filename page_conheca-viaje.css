@@ -302,4 +302,8 @@ img.vc_single_image-img.attachment-large {
     .cv_sub-menu>.wpb_column>.vc_column-inner>.wpb_wrapper {
         padding: 0px !important;
     }
+    .cv_sub-menu>.wpb_column>.vc_column-inner>.wpb_wrapper>.wpb_raw_code>.wpb_wrapper {
+        padding: 0px !important;
+    }
+    
 }
