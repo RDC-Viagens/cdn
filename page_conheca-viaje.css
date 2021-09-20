@@ -273,8 +273,9 @@ span.price_conection {
 }
 
 .titulo {
-    height: 52px;
+    height: 40px;
     position: relative;
+    top: -20px;
 }
 
 .night {
