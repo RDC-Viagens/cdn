@@ -281,7 +281,7 @@ img.vc_single_image-img.attachment-large {
 
 @media screen and (max-width: 700px){
     /* BANNER PRINCIPAL */
-    figure.wpb_wrapper{
+    .cv_banner_principal>.wpb_wrapper{
         padding: 0px !important;
     }
     figure.wpb_wrapper.vc_figure {
