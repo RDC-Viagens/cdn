@@ -258,6 +258,7 @@ span.price_conection {
     vertical-align: middle;
     height: 30px;
     width: 80px;
+    padding-left: 10px;
 }
 #card-promocoes>li .price {
     width: 100%;
