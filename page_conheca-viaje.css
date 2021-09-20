@@ -326,4 +326,10 @@ img.vc_single_image-img.attachment-large {
         vertical-align: middle;
         display: table-cell !important;
     }
+
+    /* CARDS PACOTES PROMOCIONAIS */
+    ul.promotions.horizontal {
+        display: table !important;
+        width: 300px;  
+    }
 }
