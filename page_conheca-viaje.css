@@ -220,9 +220,11 @@ code {
 }
 
 /* Configuração Card */
+
 p.ref {
     display: none;
 }
+
 ul#card-promocoes {
     display: inline-flex !important;
     width: 100%;
@@ -257,6 +259,13 @@ ul#card-promocoes {
 
 #card-promocoes>li span.preco {
     color: #fe7000;
+}
+
+.titulo {
+    height: 52px;
+    position: relative;
+    top: -20px;
+    padding: 5px;
 }
 
 .night {
@@ -360,12 +369,11 @@ img.vc_single_image-img.attachment-large {
         vertical-align: middle;
         display: table-cell !important;
     }
-
     /* CARDS PACOTES PROMOCIONAIS */
     div#pacotes_em_destaque>.wpb_column>.vc_column-inner>.wpb_wrapper {
         width: 100vw !important;
     }
-    ul#card-promocoes{
+    ul#card-promocoes {
         display: flex !important;
         overflow-x: auto;
         justify-content: left;
@@ -374,7 +382,7 @@ img.vc_single_image-img.attachment-large {
         flex: none;
         width: 300px !important;
     }
-    #card-promocoes>li a{
+    #card-promocoes>li a {
         width: 300px;
         height: 100%;
     }
