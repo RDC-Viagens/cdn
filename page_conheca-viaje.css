@@ -112,6 +112,12 @@ ul#topico_menu li a:hover {
     color: #f90c51;
 }
 
+/*  */
+.flexslider .slides>li {
+    display: flex !important;
+    -webkit-backface-visibility: visible !important;
+}
+
 /* PACOTES */
 
 div#pacotes_em_destaque {
