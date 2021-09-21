@@ -117,6 +117,11 @@ ul#topico_menu li a:hover {
     display: flex !important;
     -webkit-backface-visibility: visible !important;
 }
+.flexslider .slides img {
+    display: block;
+    width: 570px;
+    height: 352;
+}
 
 /* PACOTES */
 
