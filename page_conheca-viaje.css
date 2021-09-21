@@ -325,6 +325,9 @@ p.obs {
     color: #7d7d7d !important;
     padding: 5px;
 }
+#passeio_destino .titulo {
+    top: 0px;
+}
 
 /* Regionalidade */
 
