@@ -1,5 +1,7 @@
 /* RESET PAGINA */
-
+html .vc_row-fluid {
+    z-index: 2;
+}
 .vc_column-inner {
     padding-left: 0px !important;
     padding-right: 0px !important;
