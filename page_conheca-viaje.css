@@ -26,6 +26,11 @@
 }
 
 /* BANNER */
+.wpb_single_image img {
+    height: 380px;
+    max-width: 100%;
+    vertical-align: top;
+}
 
 .conheca-viaje-svg-banner {
     position: absolute;
