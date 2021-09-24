@@ -343,6 +343,12 @@ p.obs {
 #passeio_destino .titulo {
     top: 0px;
 }
+#parcelamento span {
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: #f90c51;
+}
 
 /* Regionalidade */
 
