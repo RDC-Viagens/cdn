@@ -14,14 +14,6 @@
     text-align: justify;
 }
 
-#pacotes_em_destaque{
-    background-color: #f7f7f7 !important;
-}
-#passeio_destino{
-    background-color: #f7f7f7 !important;
-}
-
-
 /* SEPARADORES */
 
 .vc_separator.vc_separator_align_left h4 {
@@ -254,13 +246,14 @@ ul#card-promocoes {
     width: 100%;
     flex-direction: center;
     justify-content: center;
-    align-items: center;
+    align-items: center;    
 }
 
 #card-promocoes li {
     width: 300px !important;
     background-color: #fff;
     margin: 0px 5px;
+    border: 1px solid #f7f7f7;
 }
 
 #card-promocoes figure img {
