@@ -28,3 +28,7 @@ code {
     right: 632px;
     text-shadow: 2px 2px 2px #000;
 }
+/* Motor Busca */
+div#searchEngine{
+    margin-top: 0px !important;
+}
