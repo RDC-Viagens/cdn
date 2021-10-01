@@ -50,3 +50,11 @@ label.from,
 label.date {
     width: 50%;
 }
+
+label small{
+    display: none;
+}
+
+.search_engine_v2 >.content .advanced.settings {
+    display: none;
+}
