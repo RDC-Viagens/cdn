@@ -44,6 +44,9 @@ div#searchEngine{
 .destination {
     width: 100%;
 }
+
+label.going_to,
+label.from,
 label.date {
     width: 50%;
 }
