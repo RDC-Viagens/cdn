@@ -222,3 +222,9 @@ label small{
         float: none !important;
     }
 }
+
+
+img.vc_single_image-img.attachment-full {
+    height: 350px;
+    object-fit: cover;
+}
