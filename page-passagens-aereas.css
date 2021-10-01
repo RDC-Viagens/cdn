@@ -32,6 +32,9 @@ code {
 div#searchEngine{
     margin-top: 0px !important;
 }
+.destinationContainer{
+    width: 100%;
+}
 .search_engine_v2 >.content >h2{
     color: #fff;
     font-weight: 600;
