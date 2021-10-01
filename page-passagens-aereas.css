@@ -1,3 +1,12 @@
+/* CONFIGURAÇÃO PAGINA */
+.vc_column_container>.vc_column-inner{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .passagens-aereas-banner{
     max-height: 424px;
+}
+.passagens-aereas-banner figure img{
+
 }
