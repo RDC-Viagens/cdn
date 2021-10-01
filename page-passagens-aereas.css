@@ -41,3 +41,9 @@ div#searchEngine{
     text-shadow: 2px 2px 2px #000;
     padding: 0px 0px 20px 0px;
 }
+.destination {
+    width: 100%;
+}
+label.date {
+    width: 50%;
+}
