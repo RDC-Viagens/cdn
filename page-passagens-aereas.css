@@ -71,6 +71,9 @@ label small{
 
 
 /* GRID DE PREÇOS AÉREO */
+.grid-promo-passagens{
+    margin: 15px 0px;
+}
 #main ul{
     width: 100%;
     height: auto;
