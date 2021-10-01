@@ -12,6 +12,9 @@
 .passagens-aereas-banner figure img{
     max-height: 424px;
 }
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li{
+    margin-bottom: 0px;
+}
 code {
     position: absolute;
     top: 224px;
