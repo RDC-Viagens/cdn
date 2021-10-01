@@ -63,5 +63,5 @@ label small{
 }
 
 .advanced.travelers.passengers {
-    width: 100%;
+    width: 100% !important;
 }
