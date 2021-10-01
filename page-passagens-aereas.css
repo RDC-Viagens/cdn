@@ -32,3 +32,12 @@ code {
 div#searchEngine{
     margin-top: 0px !important;
 }
+.search_engine_v2 >.content >h2{
+    color: #fff;
+    font-weight: 600;
+    width: auto;
+    font-size: 85px;
+    right: 632px;
+    text-shadow: 2px 2px 2px #000;
+    padding: 0px;
+}
