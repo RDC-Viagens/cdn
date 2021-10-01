@@ -7,6 +7,7 @@
 /* BANNER */
 .passagens-aereas-banner{
     max-height: 424px;
+    margin-bottom: 0px !important;
 }
 .passagens-aereas-banner figure img{
     max-height: 424px;
