@@ -327,6 +327,7 @@ h2 strong {
         flex-direction: center;
         justify-content: center;
         align-items: center;
+        border-radius: 5px;
     }
     .content.flight {
         display: block !important;
