@@ -269,6 +269,11 @@ h2 strong {
 }
 
 @media screen and (max-width: 700px) {
+    .wpb_wrapper {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
     .section-topo {}
     .section-topo .vc_column-inner {
         padding-left: 0px !important;
