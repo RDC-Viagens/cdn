@@ -307,4 +307,7 @@ h2 strong {
         padding: 0px 10px !important;
         margin: 10px 0px !important;
     }
+    img.vc_single_image-img.attachment-full {
+        height: max-content;
+    }
 }
