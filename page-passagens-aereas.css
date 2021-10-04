@@ -210,6 +210,10 @@ label small{
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
+    .code{
+        top: 7%;
+        font-size: 12vw;
+    }
     .search_engine_v2 {
         width: 100% !important;
     }
