@@ -248,3 +248,7 @@ li.vc_tta-tab {
     width: 100%;
     text-align: center;
 }
+
+h2 strong {
+    color: #fe7000;
+}
