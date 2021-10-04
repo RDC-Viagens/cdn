@@ -203,7 +203,7 @@ label small{
     color: #777777;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     .search_engine_v2 {
         width: 100% !important;
     }
