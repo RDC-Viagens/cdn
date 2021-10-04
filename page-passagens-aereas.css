@@ -211,8 +211,9 @@ label small{
         padding-right: 0px !important;
     }
     .code{
-        top: 7%;
+        top: 8%;
         font-size: 12vw;
+        text-align: center;
     }
     .search_engine_v2 {
         width: 100% !important;
