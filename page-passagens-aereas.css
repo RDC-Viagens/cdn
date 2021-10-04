@@ -337,7 +337,7 @@ h2 strong {
         text-align: center !important;
     }
     a.clearSearchParams.clear {
-        margin-top: 0px;
+        margin-top: 15px !important;
         border-radius: 5px !important;
         width: 130px;
         height: 37px !important;
