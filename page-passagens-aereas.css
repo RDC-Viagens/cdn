@@ -296,11 +296,11 @@ h2 strong {
     .titleH1 {
         font-weight: 600;
         font-size: 14px;
-        vertical-align: text-bottom;
-        display: table-cell;
+        text-align: center;
+        display: block;
         width: 100%;
     }
-    .select-aereo {;
+    .select-aereo {
         font-size: 18px;
         display: table-cell;
         vertical-align: middle;
