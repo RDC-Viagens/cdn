@@ -299,6 +299,13 @@ h2 strong {
         vertical-align: text-bottom;
         display: table-cell;
     }
+    .select-aereo {;
+        font-size: 18px;
+        display: table-cell;
+        vertical-align: middle;
+        width: 190px;
+        height: 45px;
+    }
 
 
     .section-indique-ganhe {}
