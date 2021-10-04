@@ -277,10 +277,8 @@ h2 strong {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    .section-topo .wpb_wrapper, .wpb_single_image .vc_figure, .vc_column_container>.vc_column-inner {
-        padding-left: 10px !important;
-        padding-right: 10px !important;
-    }
+    
+
     code {
         top: 3% !important;
         font-size: 7vw !important;
