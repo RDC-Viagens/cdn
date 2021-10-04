@@ -1,20 +1,25 @@
 /* CONFIGURAÇÃO PAGINA */
-.vc_column_container>.vc_column-inner{
+
+.vc_column_container>.vc_column-inner {
     padding-left: 0px;
     padding-right: 0px;
 }
 
 /* BANNER */
-.passagens-aereas-banner{
+
+.passagens-aereas-banner {
     max-height: 424px;
     margin-bottom: 0px !important;
 }
-.passagens-aereas-banner figure img{
+
+.passagens-aereas-banner figure img {
     max-height: 424px;
 }
-.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li{
+
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
     margin-bottom: 0px;
 }
+
 code {
     position: absolute;
     flex-direction: center;
@@ -28,14 +33,18 @@ code {
     top: 27%;
     display: block;
 }
+
 /* Motor Busca */
-div#searchEngine{
+
+div#searchEngine {
     margin-top: 0px !important;
 }
-.destinationContainer{
+
+.destinationContainer {
     width: 100%;
 }
-.search_engine_v2 >.content >h2{
+
+.search_engine_v2>.content>h2 {
     color: #fff;
     font-weight: 600;
     width: auto;
@@ -44,42 +53,44 @@ div#searchEngine{
     text-shadow: 2px 2px 2px #000;
     padding: 0px 0px 20px 0px;
 }
+
 .destination {
     width: 100%;
 }
 
-label.going_to,
-label.from,
-label.date {
+label.going_to, label.from, label.date {
     width: 50%;
 }
 
-label small{
+label small {
     display: none;
 }
 
-.search_engine_v2 >.content .advanced.settings {
+.search_engine_v2>.content .advanced.settings {
     display: none;
 }
 
 .advanced.travelers.passengers {
     width: 100% !important;
 }
+
 .content {
     margin-bottom: 20px;
 }
 
-
 /* GRID DE PREÇOS AÉREO */
-.grid-promo-passagens{
+
+.grid-promo-passagens {
     margin: 15px 0px;
 }
-#main ul{
+
+#main ul {
     width: 100%;
     height: auto;
     margin: 0px;
     padding: 0px;
 }
+
 #main ul li {
     width: 48%;
     height: auto;
@@ -88,7 +99,8 @@ label small{
     float: left;
     list-style: none;
 }
-#main li ul li{
+
+#main li ul li {
     width: 100%;
     height: auto;
     margin: 0px;
@@ -96,7 +108,8 @@ label small{
     float: left;
     list-style: none;
 }
-.titleH1{        
+
+.titleH1 {
     margin: 0;
     font-weight: 400;
     font-size: 24px;
@@ -106,7 +119,8 @@ label small{
     float: none;
     vertical-align: text-bottom;
 }
-#main li h3{
+
+#main li h3 {
     width: 50%;
     height: auto;
     float: left;
@@ -118,7 +132,8 @@ label small{
     letter-spacing: -.19px;
     fill: #0164bf;
 }
-#main li div{
+
+#main li div {
     width: 45%;
     height: auto;
     float: left;
@@ -130,14 +145,15 @@ label small{
     letter-spacing: -.19px;
     display: block;
 }
-#main li a{
+
+#main li a {
     display: inline;
     white-space: nowrap;
     letter-spacing: -.19px;
     margin: 0;
     vertical-align: middle;
     font-weight: 400;
-    font-size: 14px  !important;
+    font-size: 14px !important;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     -ms-transition: all .3s ease-in-out;
@@ -145,26 +161,31 @@ label small{
     transition: all .3s ease-in-out;
     color: #428cca !important;
 }
+
 #main li a:hover {
     zoom: 1;
     opacity: .8;
 }
-.escuro{
+
+.escuro {
     background-color: #ebebeb !important;
 }
-.span-idavolta{
+
+.span-idavolta {
     width: 50%;
     color: #777777;
     display: block;
     float: left;
 }
-.span-apartir{
+
+.span-apartir {
     width: 50%;
     color: #777777;
     display: block;
     float: left;
     text-align: center;
 }
+
 .select-aereo {
     margin: 0px 0px 0px 5px;
     font-weight: 400;
@@ -178,17 +199,21 @@ label small{
     width: auto;
     background-color: #fe7000 !important;
 }
-#main div{
+
+#main div {
     display: none;
 }
-#main div[id="mg"]{
+
+#main div[id="mg"] {
     display: block;
 }
-.tabela-aereo{
+
+.tabela-aereo {
     width: 100%;
     height: max-content;
 }
-.tabela-aereo td{
+
+.tabela-aereo td {
     text-align: center;
     padding: 10px 5px;
     color: #333;
@@ -196,21 +221,59 @@ label small{
     font-size: 20px;
     letter-spacing: -.2px;
 }
-.check{
+
+.check {
     color: #6aea6a !important;
 }
-.condicoes{
+
+.condicoes {
     color: #777777;
 }
 
+img.vc_single_image-img.attachment-full {
+    height: 350px;
+    object-fit: cover;
+}
+
+code.texto-conheca-viaje {
+    top: 110px;
+    left: 70px;
+    text-align: left;
+    font-size: 3vw;
+    width: 87%;
+}
+
+.vc_btn3-container.vc_btn3-inline {
+    position: absolute !important;
+    top: 189px !important;
+    left: 71px !important;
+}
+
+.vc_tta-tabs-container {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+li.vc_tta-tab {
+    display: inline-flex !important;
+    width: 33.2%;
+}
+
+.vc_tta-tab a {
+    width: 100%;
+    text-align: center;
+}
+
+h2 strong {
+    color: #fe7000;
+}
+
 @media screen and (max-width: 700px) {
-    .section-topo .wpb_wrapper,
-    .wpb_single_image .vc_figure,
-    .vc_column_container>.vc_column-inner  {
+    .section-topo .wpb_wrapper, .wpb_single_image .vc_figure, .vc_column_container>.vc_column-inner {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    .code{
+    .code {
         top: 8% !important;
         font-size: 12vw !important;
         text-align: center !important;
@@ -226,39 +289,4 @@ label small{
         width: 89% !important;
         float: none !important;
     }
-}
-
-
-img.vc_single_image-img.attachment-full {
-    height: 350px;
-    object-fit: cover;
-}
-code.texto-conheca-viaje {
-    top: 110px;
-    left: 70px;
-    text-align: left;
-    font-size: 3vw;
-    width: 87%;
-}
-.vc_btn3-container.vc_btn3-inline{
-    position: absolute !important;
-    top: 189px !important;
-    left: 71px !important;
-}
-.vc_tta-tabs-container {
-    padding: 0px !important;
-    margin: 0px !important;
-}
-
-li.vc_tta-tab {
-    display: inline-flex !important;
-    width: 33.2%;
-}
-.vc_tta-tab a {
-    width: 100%;
-    text-align: center;
-}
-
-h2 strong {
-    color: #fe7000;
 }
