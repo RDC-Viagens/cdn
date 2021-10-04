@@ -285,8 +285,27 @@ h2 strong {
         display: none !important;
     }
     a#btnSearch {
-        display: block !important;
-        width: 89% !important;
-        float: none !important;
+        width: 130px !important;
+        display: inline-block !important;
+        text-align: center !important;
+    }
+    a.clearSearchParams.clear {
+        width: 130px;
+        float: right;
+        
+
+        line-height: inherit;
+        padding: 10px 0;
+        text-indent: 5px;
+        text-indent: 0px;
+        height: auto;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        border-radius: 2px;
+        float: none;
+        margin: 15px 0 0;
+        text-align: center;
+        
+        border-bottom: 3px solid rgba(0,0,0,0.2);
     }
 }
