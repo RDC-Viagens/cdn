@@ -17,16 +17,16 @@
 }
 code {
     position: absolute;
-    top: 224px;
     flex-direction: center;
     justify-content: center;
     align-items: center;
     color: #fff;
     font-weight: 600;
-    width: auto;
+    width: 100%;
     font-size: 85px;
-    right: 632px;
     text-shadow: 2px 2px 2px #000;
+    top: 27%;
+    display: block;
 }
 /* Motor Busca */
 div#searchEngine{
