@@ -291,6 +291,7 @@ h2 strong {
     }
     a.clearSearchParams.clear {
         border-radius: 5px;
+        width: 130px;
         height: 37px !important;
         padding: 0px !important;
         margin: 0px !important;
@@ -299,5 +300,8 @@ h2 strong {
         flex-direction: center;
         justify-content: center;
         align-items: center;
+    }
+    .content.flight {
+        width: 100% !important;
     }
 }
