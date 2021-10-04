@@ -269,6 +269,7 @@ h2 strong {
 }
 
 @media screen and (max-width: 700px) {
+    .section-topo {}
     .section-topo .vc_column-inner {
         padding-left: 0px !important;
         padding-right: 0px !important;
@@ -277,8 +278,23 @@ h2 strong {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    
+    .section-promocao-aereo {}
+    .section-promocao-aereo .vc_column-inner {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .section-indique-ganhe {}
+    .section-indique-ganhe .vc_column-inner {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .section-conheca-viaje {}
+    .section-conheca-viaje .vc_column-inner {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
 
+    
     code {
         top: 3% !important;
         font-size: 7vw !important;
