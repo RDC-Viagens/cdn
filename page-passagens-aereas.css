@@ -317,6 +317,11 @@ h2 strong {
         width: 100%;
         float: left;
     }
+    #main ul {
+        width: 100% !important;
+        height: max-content !important;
+        display: inline-table;
+    }
 
     .section-indique-ganhe {}
     .section-indique-ganhe .vc_column-inner {
