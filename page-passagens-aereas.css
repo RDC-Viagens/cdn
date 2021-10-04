@@ -239,3 +239,12 @@ code.texto-conheca-viaje {
     padding: 0px !important;
     margin: 0px !important;
 }
+
+li.vc_tta-tab {
+    display: inline-flex !important;
+    width: 33.2%;
+}
+.vc_tta-tab a {
+    width: 100%;
+    text-align: center;
+}
