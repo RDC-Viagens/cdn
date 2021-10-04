@@ -207,6 +207,7 @@ label small{
     .search_engine_v2 {
         width: 100% !important;
     }
+    .wpb_single_image .vc_figure,
     .vc_column_container>.vc_column-inner {
         padding-left: 0px !important;    
         padding-right: 0px !important;
