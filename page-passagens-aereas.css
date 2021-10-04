@@ -230,8 +230,8 @@ code.texto-conheca-viaje {
     font-size: 3vw;
     width: 87%;
 }
-.vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern {
-    position: absolute;
-    top: 182px;
-    left: 103px;
+.vc_btn3-container.vc_btn3-inline{
+    position: absolute !important;
+    top: 189px !important;
+    left: 71px !important;
 }
