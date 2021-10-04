@@ -321,7 +321,7 @@ h2 strong {
         width: 130px;
         height: 37px !important;
         padding: 0px !important;
-        margin: 0px !important;
+        margin: 15px 0px 0px 0px !important;
         float: right;
         display: flex !important;
         flex-direction: center;
