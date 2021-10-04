@@ -310,7 +310,13 @@ h2 strong {
     .grid-promo-passagens label {
         width: 100% !important;
     }
-
+    .condicoes {
+        color: #777777;
+        text-align: left;
+        font-size: 10px;
+        width: 100%;
+        float: left;
+    }
 
     .section-indique-ganhe {}
     .section-indique-ganhe .vc_column-inner {
