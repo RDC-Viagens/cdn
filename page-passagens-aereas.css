@@ -270,8 +270,8 @@ h2 strong {
 
 @media screen and (max-width: 700px) {
     .section-topo .wpb_wrapper, .wpb_single_image .vc_figure, .vc_column_container>.vc_column-inner {
-        padding-left: 0px !important;
-        padding-right: 0px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
     }
     code {
         top: 9% !important;
