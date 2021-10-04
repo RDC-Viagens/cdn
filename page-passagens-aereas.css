@@ -290,22 +290,14 @@ h2 strong {
         text-align: center !important;
     }
     a.clearSearchParams.clear {
-        width: 130px;
+        border-radius: 5px;
+        height: 37px !important;
+        padding: 0px !important;
+        margin: 0px !important;
         float: right;
-        
-
-        line-height: inherit;
-        padding: 10px 0;
-        text-indent: 5px;
-        text-indent: 0px;
-        height: auto;
-        -webkit-border-radius: 2px;
-        -moz-border-radius: 2px;
-        border-radius: 2px;
-        float: none;
-        margin: 15px 0 0;
-        text-align: center;
-        
-        border-bottom: 3px solid rgba(0,0,0,0.2);
+        display: flex !important;
+        flex-direction: center;
+        justify-content: center;
+        align-items: center;
     }
 }
