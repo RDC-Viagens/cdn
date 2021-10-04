@@ -218,6 +218,9 @@ label small{
     .search_engine_v2 {
         width: 100% !important;
     }
+    small {
+        display: none !important;
+    }
     a#btnSearch {
         display: block !important;
         width: 89% !important;
