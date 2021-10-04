@@ -298,6 +298,7 @@ h2 strong {
         font-size: 14px;
         vertical-align: text-bottom;
         display: table-cell;
+        width: 100%;
     }
     .select-aereo {;
         font-size: 18px;
