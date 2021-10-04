@@ -292,6 +292,10 @@ h2 strong {
         padding: 15px 0px 0px 0px;
         text-align: justify !important;
     }
+    .grid-promo-passagens .wpb_wrapper{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
     .section-indique-ganhe {}
     .section-indique-ganhe .vc_column-inner {
         padding-left: 0px !important;
