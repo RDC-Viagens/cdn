@@ -302,6 +302,9 @@ h2 strong {
         align-items: center;
     }
     .content.flight {
-        width: 100% !important;
+        display: block !important;
+        width: 102.4% !important;
+        padding: 0px 10px !important;
+        margin: 10px 0px !important;
     }
 }
