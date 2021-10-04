@@ -293,6 +293,14 @@ h2 strong {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
+    .titleH1 {
+        font-weight: 600;
+        font-size: 14px;
+        vertical-align: text-bottom;
+        display: table-cell;
+    }
+
+
     .section-indique-ganhe {}
     .section-indique-ganhe .vc_column-inner {
         padding-left: 0px !important;
