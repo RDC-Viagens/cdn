@@ -374,4 +374,12 @@ h2 strong {
     img.vc_single_image-img.attachment-full {
         height: max-content;
     }
+
+    .vc_tta.vc_general .vc_tta-panel-body{
+        padding: 3px;
+    }
+    figure.wpb_wrapper.vc_figure {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
 }
