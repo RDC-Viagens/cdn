@@ -84,6 +84,9 @@ label small {
     width: 50%;
     float: left;
 }
+#main table a{
+    text-decoration: none;
+}
 
 .grid-promo-passagens {
     margin: 15px 0px;
