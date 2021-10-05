@@ -80,6 +80,11 @@ label small {
 
 /* GRID DE PREÇOS AÉREO */
 
+#mail table{
+    width: 50%;
+    float: left;
+}
+
 .grid-promo-passagens {
     margin: 15px 0px;
 }
