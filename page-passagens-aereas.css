@@ -85,7 +85,7 @@ label small {
     float: left;
     padding: 0px 5px 10px 5px;
 }
-#main table td{
+#main table tr td{
     cursor: pointer;
     color: #333;
 }
