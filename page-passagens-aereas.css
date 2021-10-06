@@ -80,22 +80,25 @@ label small {
 
 /* GRID DE PREÇOS AÉREO */
 
-#main table{
+#main table {
     width: 50%;
     float: left;
     padding: 0px 5px;
 }
+
 th {
     color: #fe7000;
     font-size: 18px;
     padding: 5px 0px;
 }
-#main table .titulo{
+
+#main table .titulo {
     text-align: center;
     font-weight: 600;
     padding: 5px 0px;
 }
-#main table a{
+
+#main table a {
     text-decoration: none;
 }
 
@@ -288,7 +291,6 @@ h2 strong {
 }
 
 @media screen and (max-width: 700px) {
-    
     .section-topo {}
     .section-topo .vc_column-inner {
         padding-left: 0px !important;
@@ -308,7 +310,7 @@ h2 strong {
         text-align: justify !important;
         font-size: 16px;
     }
-    .grid-promo-passagens .wpb_wrapper{
+    .grid-promo-passagens .wpb_wrapper {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
@@ -340,7 +342,7 @@ h2 strong {
         width: 100% !important;
         float: left;
     }
-    th{
+    th {
         font-size: 17px !important;
     }
     #main ul {
@@ -348,7 +350,6 @@ h2 strong {
         height: max-content !important;
         display: inline-table;
     }
-
     .section-indique-ganhe {}
     .section-indique-ganhe .vc_column-inner {
         padding-left: 0px !important;
@@ -359,8 +360,6 @@ h2 strong {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-
-    
     code {
         top: 50px !important;
         font-size: 7vw !important;
@@ -389,7 +388,6 @@ h2 strong {
         flex-direction: center;
         justify-content: center;
         align-items: center;
-
     }
     .content.flight {
         display: block !important;
@@ -400,8 +398,7 @@ h2 strong {
     img.vc_single_image-img.attachment-full {
         height: max-content;
     }
-
-    .vc_tta.vc_general .vc_tta-panel-body{
+    .vc_tta.vc_general .vc_tta-panel-body {
         padding: 3px;
     }
     figure.wpb_wrapper.vc_figure {
