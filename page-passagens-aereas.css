@@ -340,6 +340,9 @@ h2 strong {
         width: 100% !important;
         float: left;
     }
+    #main table th{
+        font-size: 17px !important;
+    }
     #main ul {
         width: 100% !important;
         height: max-content !important;
