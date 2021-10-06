@@ -83,6 +83,7 @@ label small {
 #main table{
     width: 50%;
     float: left;
+    padding: 0px 5px;
 }
 th {
     color: #fe7000;
