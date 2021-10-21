@@ -107,6 +107,10 @@ section#passagem-aerea {
     max-width: 1119px;
     width: 100%;
 }
+div#selecao-aereo {
+    padding: 5px 0px;
+    height: 50px;
+}
 div#brasilia-nac,
 div#brasilia-int,
 div#goiania-int,
