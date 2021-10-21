@@ -20,7 +20,7 @@
     margin-bottom: 0px;
 }
 
-.code {
+code {
     position: absolute;
     flex-direction: center;
     justify-content: center;
@@ -32,6 +32,7 @@
     text-shadow: 2px 2px 2px #000;
     top: 27%;
     display: block;
+    text-align: center;
 }
 
 /* Motor Busca */
@@ -148,7 +149,7 @@ label small {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    .code {
+    code {
         top: 50px !important;
         font-size: 7vw !important;
         text-align: center !important;
