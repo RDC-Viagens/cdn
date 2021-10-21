@@ -206,14 +206,17 @@ code.texto-conheca-viaje{
 }
 
 @media screen and (max-width: 700px) {
+    
     .section-topo {}
     .section-topo .vc_column-inner {
         padding-left: 0px !important;
         padding-right: 0px !important;
+        height: 100%;
     }
     .section-topo .wpb_wrapper {
         padding-left: 0px !important;
         padding-right: 0px !important;
+        height: 100%;
     }
     .section-promocao-aereo {}
     .section-promocao-aereo .vc_column-inner {
