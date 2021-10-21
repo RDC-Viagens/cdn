@@ -77,7 +77,12 @@ label small {
     font-size: 25px;
     font-weight: 500;
 }
+selecao-aereo{
 
+}
+label input[type=text], label select{
+
+}
 .advanced.travelers.passengers {
     width: 100% !important;
 }
@@ -85,6 +90,82 @@ label small {
 .content {
     margin-bottom: 20px;
 }
+
+/* Grid Aéreo */
+select-aereo{
+    width: max-content !important;
+}
+
+.titleH1{
+    max-width: 1119px;
+    width: 100%;
+}
+.falso{
+    display: none;
+}
+section#passagem-aerea {
+    max-width: 1119px;
+    width: 100%;
+}
+div#brasilia-nac,
+div#brasilia-int,
+div#goiania-int,
+div#goiania-nac,
+div#belem-int,
+div#belem-nac,
+div#sao_paulo-int,
+div#sao_paulo-nac,
+div#belo_horizonte-int,
+div#belo_horizonte-nac{
+    float: left;
+    width: 50%;
+}
+.cidade{
+    width: 57%;
+    display: inline-block;
+}
+.vlrPreco,
+.vlrPontos{
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    color: #777777;
+    padding: 10px 0px;
+}
+.title{
+    text-align: center;
+    padding: 10px 5px;
+    color: #333;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -.2px;
+    padding: 10px 0px;
+}
+.destinos{
+    width: 58%;
+    display: inline-block;
+    color: #777777;
+    padding: 10px 0px;
+}
+span.cidade {
+    height: auto;
+    font-size: 18px;
+    font-weight: 400;
+    white-space: nowrap;
+    letter-spacing: -.19px;
+    color: #0164bf;
+    fill: #0164bf;
+    padding-left: 10px;
+}
+
+.vlrValores {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    color: #fe7000;
+}
+
+
 
 @media screen and (max-width: 700px) {
     .section-topo {}
