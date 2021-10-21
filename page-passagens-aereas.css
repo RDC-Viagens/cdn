@@ -90,9 +90,10 @@ label small {
 #select-aereo{
     width: max-content !important;
 }
-#select-aereo label{
+div#selecao-aereo label{
     margin: 0 0 0px 0 !important;
     height: 50px;
+    width: 100%;
 }
 
 .titleH1{
