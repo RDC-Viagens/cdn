@@ -103,7 +103,7 @@ select#aereo {
     max-width: 1119px;
     width: 100%;
     flex-direction: center;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     display: flex;
     height: 50px;
