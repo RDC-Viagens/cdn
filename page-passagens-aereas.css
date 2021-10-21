@@ -95,7 +95,10 @@ div#selecao-aereo label{
     height: 50px;
     width: 100%;
 }
-
+select#aereo {
+    width: 150px;
+    margin-left: 10px;
+}
 .titleH1{
     max-width: 1119px;
     width: 100%;
