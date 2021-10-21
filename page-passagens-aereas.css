@@ -201,8 +201,8 @@ code.texto-conheca-viaje{
 }
 
 .vc_tta-panel-body {
-    width: 1098px;
-    height: 456px;
+    width: 1098px !important;
+    height: 456px !important;
 }
 
 @media screen and (max-width: 700px) {
