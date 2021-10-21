@@ -193,11 +193,16 @@ code.texto-conheca-viaje{
     font-weight: 600;
     width: 96%;
     font-size: 85px;
-    top: 37%;
+    top: 40%;
     justify-content: center;
     flex-direction: center;
     align-items: center;
     display: inline-flex;
+}
+
+.vc_tta-panel-body {
+    width: 1098px;
+    height: 456px;
 }
 
 @media screen and (max-width: 700px) {
