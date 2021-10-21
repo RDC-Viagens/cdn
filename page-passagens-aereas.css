@@ -92,7 +92,7 @@ label input[type=text], label select{
 }
 
 /* Grid Aéreo */
-select-aereo{
+.select-aereo{
     width: max-content !important;
 }
 
