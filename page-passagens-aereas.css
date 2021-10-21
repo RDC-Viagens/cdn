@@ -77,12 +77,7 @@ label small {
     font-size: 25px;
     font-weight: 500;
 }
-selecao-aereo{
 
-}
-label input[type=text], label select{
-
-}
 .advanced.travelers.passengers {
     width: 100% !important;
 }
@@ -95,10 +90,19 @@ label input[type=text], label select{
 .select-aereo{
     width: max-content !important;
 }
+.select-aereo label{
+    margin: 0 0 0px 0 !important;
+    height: 50px;
+}
 
 .titleH1{
     max-width: 1119px;
     width: 100%;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 50px;
 }
 .falso{
     display: none;
