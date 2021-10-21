@@ -87,10 +87,10 @@ label small {
 }
 
 /* Grid Aéreo */
-.select-aereo{
+#select-aereo{
     width: max-content !important;
 }
-.select-aereo label{
+#select-aereo label{
     margin: 0 0 0px 0 !important;
     height: 50px;
 }
@@ -206,7 +206,7 @@ span.cidade {
         display: block;
         width: 100%;
     }
-    .select-aereo {
+    #select-aereo {
         font-size: 18px;
         display: table-cell;
         vertical-align: middle;
