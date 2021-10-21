@@ -180,7 +180,25 @@ span.cidade {
     color: #fe7000;
 }
 
+code.texto-conheca-viaje{
+    width: 96%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 60px;
+}
 
+.vc_btn3-container.vc_btn3-inline {
+    position: absolute;
+    color: #fff;
+    font-weight: 600;
+    width: 96%;
+    font-size: 85px;
+    top: 37%;
+    justify-content: center;
+    flex-direction: center;
+    align-items: center;
+    display: inline-flex;
+}
 
 @media screen and (max-width: 700px) {
     .section-topo {}
