@@ -348,4 +348,9 @@ code.texto-conheca-viaje {
         width: 100%;
         display: grid;
     }
+    .vc_tta-panel-body{
+        width: 100%;
+        padding: 0px 0px !important;
+        margin: 0px;
+    }
 }
