@@ -238,7 +238,7 @@ code.texto-conheca-viaje {
     }
     .titleH1 {
         font-weight: 600;
-        font-size: 14px;
+        font-size: 18px;
         text-align: center;
         display: flex;
         width: 100%;
@@ -251,6 +251,9 @@ code.texto-conheca-viaje {
         vertical-align: middle;
         width: 150px !important;
         height: 45px;
+    }
+    select#aereo{
+        font-size: 17px;
     }
     .grid-promo-passagens label {
         width: 100% !important;
