@@ -15,7 +15,7 @@
         z-index: 0;
         display: flex !important;
         width: 100% !important;
-        justify-content: center;
+        justify-content: flex-start;
         flex-direction: center;
         align-items: center;
         position: initial;
