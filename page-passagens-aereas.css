@@ -354,6 +354,10 @@ code.texto-conheca-viaje {
         margin: 0px !important;
     }
     .vc_btn3-container.vc_btn3-inline{
-        top: 50% !important;
+        top: 29% !important;
+    }
+    .vc_btn3.vc_btn3-size-md{
+        font-size: 12px;
+        padding: 12px 18px;
     }
 }
