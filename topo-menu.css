@@ -10,6 +10,7 @@
         float: right;
     }
     header.main ul.aside {
+        padding: 0px 0 0 0 !important;
         right: 0 !important;
         top: 0 !important;
         z-index: 0 !important;
