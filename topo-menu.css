@@ -10,15 +10,15 @@
         float: right;
     }
     header.main ul.aside {
-        right: 0;
-        top: 0;
-        z-index: 0;
+        right: 0 !important;
+        top: 0 !important;
+        z-index: 0 !important;
         display: flex !important;
         width: 100% !important;
-        justify-content: flex-start;
-        flex-direction: center;
-        align-items: center;
-        position: initial;
+        justify-content: flex-start !important;
+        flex-direction: center !important;
+        align-items: center !important;
+        position: initial !important;
     }
     .user_info_container{
         margin-right: 0px !important;
