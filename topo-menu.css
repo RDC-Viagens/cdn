@@ -7,5 +7,20 @@
     }
     .wrap>.mobile_header.menuLeft {
         width: 70% !important;
+        float: right;
+    }
+    header.main ul.aside {
+        right: 0;
+        top: 0;
+        z-index: 0;
+        display: flex !important;
+        width: 100% !important;
+        justify-content: center;
+        flex-direction: center;
+        align-items: center;
+        position: initial;
+    }
+    .user_info_container{
+        margin-right: 0px !important;
     }
 }
