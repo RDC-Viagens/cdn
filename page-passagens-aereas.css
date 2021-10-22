@@ -331,10 +331,22 @@ code.texto-conheca-viaje {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    div#belo_horizonte-nac {
-        width: 100%;
-    }
-    div#belo_horizonte-int{
+    div#brasilia,
+    div#goiania,
+    div#belo_horizonte,
+    div#belem,
+    div#sao_paulo,
+    div#brasilia-nac,
+    div#brasilia-int,
+    div#goiania-nac,
+    div#goiania-int,
+    div#belo_horizonte-nac,
+    div#belo_horizonte-int,
+    div#belem-nac,
+    div#belem-int,
+    div#sao_paulo-nac,
+    div#sao_paulo-int {
+        height: 100%;
         width: 100%;
     }
 }
