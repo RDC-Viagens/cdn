@@ -349,11 +349,11 @@ code.texto-conheca-viaje {
         display: grid;
     }
     .vc_tta-panel-body{
-        width: 100%;
+        width: 100% !important;
         padding: 0px 0px !important;
-        margin: 0px;
+        margin: 0px !important;
     }
     .vc_btn3-container.vc_btn3-inline{
-        top: 50%;
+        top: 50% !important;
     }
 }
