@@ -296,7 +296,7 @@ code.texto-conheca-viaje {
     }
     code {
         top: 50px !important;
-        font-size: 7vw !important;
+        font-size: 6vw !important;
         text-align: center !important;
     }
     .search_engine_v2 {
@@ -350,11 +350,12 @@ code.texto-conheca-viaje {
     }
     .vc_tta-panel-body{
         width: 100% !important;
+        height: min-content !important;
         padding: 0px 0px !important;
         margin: 0px !important;
     }
     .vc_btn3-container.vc_btn3-inline{
-        top: 29% !important;
+        top: 41% !important;
     }
     .vc_btn3.vc_btn3-size-md{
         font-size: 12px;
