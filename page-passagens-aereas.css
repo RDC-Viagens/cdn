@@ -174,8 +174,6 @@ div#brasilia-nac, div#brasilia-int, div#goiania-int, div#goiania-nac, div#belem-
     padding: 10px 0px;
 }
 
-
-
 .vlrValores {
     font-size: 18px;
     font-weight: 400;
@@ -221,10 +219,10 @@ code.texto-conheca-viaje {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    .section-promocao-aereo .vc_column-inner .wpb_wrapper{
+    .section-promocao-aereo .vc_column-inner .wpb_wrapper {
         height: 100%;
     }
-    .section-promocao-aereo .vc_column-inner .wpb_wrapper .wpb_raw_code .wpb_wrapper{
+    .section-promocao-aereo .vc_column-inner .wpb_wrapper .wpb_raw_code .wpb_wrapper {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
@@ -233,21 +231,27 @@ code.texto-conheca-viaje {
         text-align: justify !important;
         font-size: 16px;
     }
-    .cidade{
+    .cidade {
         width: 40%;
     }
     .vlrValores {
         padding: 5px 5px;
         width: 100px;
     }
+    .destinos {
+        width: 43%;
+    }
+    .vlrPreco, .vlrPontos {
+        width: 110px;
+    }
     .grid-promo-passagens .wpb_wrapper {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    div#selecao-aereo{
+    div#selecao-aereo {
         height: 43px !important;
     }
-    div#selecao-aereo label{
+    div#selecao-aereo label {
         height: 43px !important;
     }
     .titleH1 {
@@ -266,7 +270,7 @@ code.texto-conheca-viaje {
         width: 150px !important;
         height: 45px;
     }
-    select#aereo{
+    select#aereo {
         width: 145px;
         margin-left: 5px;
         padding: 0px 0px !important;
@@ -335,21 +339,7 @@ code.texto-conheca-viaje {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
-    div#brasilia,
-    div#goiania,
-    div#belo_horizonte,
-    div#belem,
-    div#sao_paulo,
-    div#brasilia-nac,
-    div#brasilia-int,
-    div#goiania-nac,
-    div#goiania-int,
-    div#belo_horizonte-nac,
-    div#belo_horizonte-int,
-    div#belem-nac,
-    div#belem-int,
-    div#sao_paulo-nac,
-    div#sao_paulo-int {
+    div#brasilia, div#goiania, div#belo_horizonte, div#belem, div#sao_paulo, div#brasilia-nac, div#brasilia-int, div#goiania-nac, div#goiania-int, div#belo_horizonte-nac, div#belo_horizonte-int, div#belem-nac, div#belem-int, div#sao_paulo-nac, div#sao_paulo-int {
         height: 100%;
         width: 100%;
         display: grid;
