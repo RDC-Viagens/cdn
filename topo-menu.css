@@ -23,4 +23,11 @@
     .user_info_container{
         margin-right: 0px !important;
     }
+    .user_info_container .userinfo_logged_out{
+        margin-top: 20px !important;
+    }
+    .userinfo_login_container.w-100{
+        width: 185px;
+        padding: 5px !important;
+    }
 }
