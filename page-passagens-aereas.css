@@ -330,6 +330,9 @@ code.texto-conheca-viaje {
         margin: 10px 0px !important;
     }
     img.vc_single_image-img.attachment-full {
+        height: max-content;
+    }
+    .section-conheca-viaje img.vc_single_image-img.attachment-full{
         height: 270px;
     }
     .vc_tta.vc_general .vc_tta-panel-body {
