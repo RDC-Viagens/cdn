@@ -348,5 +348,6 @@ code.texto-conheca-viaje {
     div#sao_paulo-int {
         height: 100%;
         width: 100%;
+        display: grid;
     }
 }
