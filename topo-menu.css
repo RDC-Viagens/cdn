@@ -5,4 +5,7 @@
         margin: 0px 0 0 0px !important;
         margin-left: 10px !important;
     }
+    .wrap>.mobile_header.menuLeft {
+        width: 70% !important;
+    }
 }
