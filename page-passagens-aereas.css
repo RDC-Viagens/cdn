@@ -264,6 +264,8 @@ code.texto-conheca-viaje {
     select#aereo{
         width: 145px;
         margin-left: 5px;
+        padding: 0px 0px !important;
+        font-size: 18px;
     }
     .grid-promo-passagens label {
         width: 100% !important;
