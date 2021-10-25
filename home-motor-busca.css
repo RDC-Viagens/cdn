@@ -30,5 +30,25 @@ ul.tabs li {
 }
 
 @media screen and (max-width: 700px){
-
+    .vc_row.wpb_row.vc_row-fluid.NewMotors {
+        margin: 10px;
+    }
+    div#searchEngine {
+        margin-top: 0px;
+    }
+    div#searchEngine {
+        margin-top: 0px;
+        width: 100%;
+        padding: 0 0px 0px 0px !important;
+    }
+    .Ofertas-Especiais .vc_column-inner .wpb_wrapper {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #searchEngine.motor_tab_top.show_tabs .tabs {
+        margin: 0px 0px 0px 0px !important;
+        border-radius: 0px;
+        width: 100% !important;
+        position: initial;
+    }
 }
