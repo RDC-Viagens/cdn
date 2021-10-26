@@ -13,10 +13,10 @@
         height: 70px !important;
     }
     h1.logo {
-        width: 32% !important;
+        width: 28% !important;
         height: 70px !important;
         flex-direction: center !important;
-        justify-content: center !important;
+        justify-content: flex-end !important;
         align-items: center !important;
         display: inline-flex;
     }
@@ -39,7 +39,7 @@
         align-items: center !important;
     }
     .mobile_header.menuLeft {
-        width: 68% !important;
+        width: 72% !important;
         height: 70px !important;
     }
     ul.aside {
@@ -50,6 +50,9 @@
         justify-content: center !important;
         align-items: center !important;
         float: left !important;
+        padding: 0px 0 0 0 !important;
+        top: 0 !important;
+        right: 0 !important;
     }
     .menu-mobile {
         width: 20% !important;
