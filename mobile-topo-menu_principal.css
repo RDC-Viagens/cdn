@@ -14,6 +14,7 @@
     }
     h1.logo {
         width: 32% !important;
+        height: 70px !important;
     }
     img.desktop {
         display: none !important;
@@ -28,6 +29,7 @@
     }
     .mobile_header.menuLeft {
         width: 68% !important;
+        height: 70px !important;
     }
     ul.aside {
         width: 80% !important;
