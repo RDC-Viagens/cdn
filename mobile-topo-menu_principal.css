@@ -4,7 +4,7 @@
 }
 header.main {
     margin: 0px;
-    height: 63px;
+    height: 70px;
 }
 header.main .wrap{
     width: 100%;
@@ -14,7 +14,7 @@ header.main .wrap{
     align-items: center;
 }
 h1.logo {
-    width: 37%;
+    width: 32%;
 }
 img.desktop {
     display: none;
@@ -28,5 +28,5 @@ header.main .wrap h1.logo a {
     margin-left: 10px;
 }
 .mobile_header.menuLeft {
-    width: 80%;
+    width: 68%;
 }
