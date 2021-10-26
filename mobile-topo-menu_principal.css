@@ -2,6 +2,17 @@
     margin: 0px;
     padding: 0px;
 }
+header.main {
+    margin: 0px;
+    height: 70px;
+}
+header.main .wrap{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
 img.desktop {
     display: none;
 }
