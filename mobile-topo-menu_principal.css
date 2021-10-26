@@ -27,6 +27,7 @@
         display: flex !important;
         margin-left: 10px !important;
         margin: 0px 0 0 0px !important;
+        height: 70px !important;
     }
     .mobile_header.menuLeft {
         width: 68% !important;
