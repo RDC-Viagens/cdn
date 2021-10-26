@@ -53,6 +53,7 @@
         padding: 0px 0 0 0 !important;
         top: 0 !important;
         right: 0 !important;
+        position: relative !important;
     }
     .menu-mobile {
         width: 20% !important;
@@ -62,6 +63,7 @@
         justify-content: center !important;
         align-items: center !important;
         float: left !important;
+        margin: 0px 0px 0px 0px !important;
     }
     div#user_info_container {
         display: none !important;
