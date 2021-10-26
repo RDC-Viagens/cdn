@@ -30,3 +30,12 @@ header.main .wrap h1.logo a {
 .mobile_header.menuLeft {
     width: 68%;
 }
+
+.menu-mobile {
+    height: 70px;
+    display: inline-flex;
+    width: 20%;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
