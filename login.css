@@ -5,6 +5,7 @@
     }
     .userinfo_login {
         width: 100% !important;
+        background-color: transparent !important;
     }
     .userinfo_login_container.w-100{
         width: 100% !important;
