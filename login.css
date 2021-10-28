@@ -4,6 +4,6 @@
         width: 95% !important;
     }
     .userinfo_login {
-        width: 100%;
+        width: 100% !important;
     }
 }
