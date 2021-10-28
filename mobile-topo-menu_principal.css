@@ -183,6 +183,10 @@
         margin-left: 10px !important;
         text-decoration: none !important;
     }
+    #conheca-viaje:checked~ul {
+        display: block !important;
+        background: #2400f6 !important;
+    }
     #pacotes:checked~ul {
         display: block !important;
         background: #2400f6 !important;
