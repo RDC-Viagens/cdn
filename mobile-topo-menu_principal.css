@@ -246,7 +246,7 @@
         color: #fff !important;
     }
     #nav-menu-mobile {
-        /* position: absolute !important; */
+        position: absolute !important;
         top: 0 !important;
         width: 100% !important;
         background-color: rgba(0, 0, 0, 0.28) !important;
