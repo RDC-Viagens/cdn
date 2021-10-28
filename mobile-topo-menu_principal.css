@@ -85,7 +85,8 @@
         padding: 0px !important;
         display: inline-table !important;
         vertical-align: middle !important;
-        width: 34px !important;
+        width: 40px !important;
+        height: 40px;
     }
     .label-hamburger i.material-icons.outlined {
         color: #2400f6 !important;
@@ -93,6 +94,14 @@
         top: 2px !important;
         left: 1px !important;
         position: relative !important;
+    }
+    i.icons-menu {
+        width: 100%;
+        height: 100%;
+        display: inline-flex;
+        flex-direction: center;
+        justify-content: center;
+        align-items: center;
     }
     /* F. Topo */
     .provisorio {
