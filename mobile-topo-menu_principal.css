@@ -261,13 +261,13 @@
         left: 0 !important;
     }
     .close {
-        display: inline-block !important;
+        display: inline-flex !important;
         font-size: 0 !important;
+
         height: 100% !important;
         width: 30% !important;
         cursor: pointer !important;
-        position: absolute !important;
-        right: 0 !important;
+        
     }
     .icons-menu-baixo svg {
         fill: #fff;
