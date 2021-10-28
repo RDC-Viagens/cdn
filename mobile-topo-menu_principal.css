@@ -65,9 +65,7 @@
         float: left !important;
         margin: 0px 0px 0px 0px !important;
     }
-    div#user_info_container {
-        display: none !important;
-    }
+    
     #mobile-header {
         background-color: blue !important;
     }
