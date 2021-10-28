@@ -66,7 +66,6 @@
         float: left !important;
         margin: 0px 0px 0px 0px !important;
     }
-    
     #mobile-header {
         background-color: blue !important;
     }
@@ -271,26 +270,22 @@
     .close {
         display: inline-flex !important;
         font-size: 0 !important;
-
         height: 100% !important;
         width: 30% !important;
         cursor: pointer !important;
-        
     }
     .icons-menu-baixo svg {
         fill: #fff;
         position: relative;
         top: 5px;
     }
-    .icons-menu svg{
+    .icons-menu svg {
         fill: #2400f6;
     }
-
-    .topoMenuMobile{
+    .topoMenuMobile {
         text-align: center;
         padding: 10px 0px;
-    }       
-   
+    }
     /* Redes Sociais */
     #redes-sociais-menu p {
         text-align: center !important;
