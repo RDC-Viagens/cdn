@@ -246,7 +246,7 @@
         color: #fff !important;
     }
     #nav-menu-mobile {
-        position: absolute !important;
+        /* position: absolute !important; */
         top: 0 !important;
         width: 100% !important;
         background-color: rgba(0, 0, 0, 0.28) !important;
@@ -255,6 +255,7 @@
         -moz-transition: all 300ms ease !important;
         -o-transition: all 300ms ease !important;
         left: -300% !important;
+        z-index: 9;
     }
     #menu-hamburguer:checked~#nav-menu-mobile {
         left: 0 !important;
@@ -267,6 +268,11 @@
         cursor: pointer !important;
         position: absolute !important;
         right: 0 !important;
+    }
+    .icons-menu-baixo svg {
+        fill: #fff;
+        position: relative;
+        top: 5px;
     }
     /* Redes Sociais */
     #redes-sociais-menu p {
