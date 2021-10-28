@@ -24,7 +24,7 @@
         display: none !important;
     }
     img.mobile {
-        width: 110px !important;
+        width: 105px !important;
         height: min-content !important;
         margin: 0px 0 0 0px !important;
     }
@@ -37,6 +37,7 @@
         flex-direction: center !important;
         justify-content: center !important;
         align-items: center !important;
+        width: 100% !important;
     }
     .mobile_header.menuLeft {
         width: 72% !important;
