@@ -274,6 +274,10 @@
         position: relative;
         top: 5px;
     }
+    .icons-menu svg{
+        fill: #fff;
+    }
+
     .topoMenuMobile{
         text-align: center;
         padding: 10px 0px;
