@@ -1,9 +1,9 @@
 @media screen and (max-width: 700px) {
-    .user_info_container{
+    .user_info_container {
         margin-top: 0px !important;
         width: 95% !important;
     }
-    .userinfo_login{
+    .userinfo_login {
         width: 100%;
     }
 }
