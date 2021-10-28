@@ -291,7 +291,11 @@
         padding: 10px 0px;
     }       
     .user_info_container{
-        margin-top: 0px;
+        margin-top: 0px !important;
+        width: 95% !important;
+    }
+    .userinfo_login{
+        width: 100%;
     }
     /* Redes Sociais */
     #redes-sociais-menu p {
