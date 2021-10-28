@@ -274,6 +274,11 @@
         position: relative;
         top: 5px;
     }
+    .topoMenuMobile{
+        text-align: center;
+        padding: 10px 0px;
+    }       
+    
     /* Redes Sociais */
     #redes-sociais-menu p {
         text-align: center !important;
