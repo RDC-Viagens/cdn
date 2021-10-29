@@ -62,11 +62,11 @@ ul.tabs li {
         color: #777 !important;
     }
     .search_engine_v2 .tabs li.service a .ico:before{
-        color: #777;
-        margin-bottom: 7px;
+        color: #777 !important;
+        margin-bottom: 7px !important;
     }
     .search_engine_v2 .tabs li.flight a .ico:before, .search_engine_v2 .tabs li.hotel a .ico:before, .search_engine_v2 .tabs li.package a .ico:before{
-        color: #777;
-        margin-bottom: 7px;
+        color: #777 !important;
+        margin-bottom: 7px !important;
     }
 }
