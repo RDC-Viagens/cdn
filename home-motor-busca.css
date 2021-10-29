@@ -55,4 +55,18 @@ ul.tabs li {
     li.flight.searchEngineSel.active{
         width: 22% !important;
     }
+    .search_engine_v2.custom_engine .tabs li a {
+        padding: 10px 7px !important;
+        font-size: 12px !important;
+        font-weight: 400 !important;
+        color: #777 !important;
+    }
+    .search_engine_v2 .tabs li.service a .ico:before{
+        color: #777;
+        margin-bottom: 7px;
+    }
+    .search_engine_v2 .tabs li.flight a .ico:before, .search_engine_v2 .tabs li.hotel a .ico:before, .search_engine_v2 .tabs li.package a .ico:before{
+        color: #777;
+        margin-bottom: 7px;
+    }
 }
