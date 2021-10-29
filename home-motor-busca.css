@@ -42,13 +42,13 @@ ul.tabs li {
     }
     #searchEngine.motor_tab_top.show_tabs .tabs {
         margin: 0px 0px 0px 0px !important;
-        padding: 0;
-        border-radius: 0px;
-        width: 100%;
-        display: inline-flex;
-        height: 65px;
+        padding: 0 !important;
+        border-radius: 0px !important;
+        width: 100% !important;
+        display: inline-flex !important;
+        height: 65px !important;
     }
     li.flight.searchEngineSel.active{
-        width: 22%;
+        width: 22% !important;
     }
 }
