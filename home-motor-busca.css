@@ -95,4 +95,12 @@ ul.tabs li {
         height: 100% !important;
         color: #fff !important;
     }
+
+    /* Aereo */
+    .search_engine_v2 >.content .radio.way label *{
+        color: #777;
+    }
+    .search_engine_v2 >.content label p {
+        color: #777;
+    }
 }
