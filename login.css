@@ -23,4 +23,7 @@
     label.labelline a{
         color: #fff !important;
     }
+    div#userinfo_login .userinfo_login_container .extra span.balance.item2{
+        padding-left: 68px; 
+    }
 }
