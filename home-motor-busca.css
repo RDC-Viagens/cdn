@@ -148,7 +148,10 @@ ul.tabs li {
                 position: relative;
                 top: -500px;
             }
-    
+            .menu_open{
+                visibility: hidden;
+                width: 0px;
+            }
             .touch.menu_open::after {
                 top: 19px !important;
                 left: auto !important;
@@ -158,7 +161,7 @@ ul.tabs li {
                 height: 39px !important;
                 width: 41px !important;
                 background-color: #fff !important;
-                content: "=" !important;
+                content:'='; 
                 visibility: visible;
             }
     
