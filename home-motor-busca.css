@@ -32,9 +32,6 @@ ul.tabs li {
 }
 
 @media screen and (max-width: 700px) {
-    .vc_row.wpb_row.vc_row-fluid.NewMotors {
-        
-    }
     div#searchEngine {
         margin-top: 0px;
     }
@@ -43,5 +40,15 @@ ul.tabs li {
         width: 100%;
         padding: 0 0px 0px 0px !important;
     }
-
+    #searchEngine.motor_tab_top.show_tabs .tabs {
+        margin: 0px 0px 0px 0px !important;
+        padding: 0;
+        border-radius: 0px;
+        width: 100%;
+        display: inline-flex;
+        height: 65px;
+    }
+    li.flight.searchEngineSel.active{
+        width: 22%;
+    }
 }
