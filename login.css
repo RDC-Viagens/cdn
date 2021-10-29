@@ -14,4 +14,13 @@
     .userinfo_login_container.w-100 {
         width: 100% !important;
     }
+    .userinfo_login_container.w-100 {
+        width: 83% !important;
+    }
+    label.labelline {
+        color: #fff !important;
+    }
+    label.labelline a{
+        color: #fff !important;
+    }
 }
