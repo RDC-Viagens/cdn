@@ -1,4 +1,3 @@
-
 div#searchEngine {
     margin-top: -47px;
 }
@@ -17,19 +16,22 @@ div#searchEngine {
     font-size: 12px !important;
     font-weight: 900 !important;
 }
+
 ul.tabs li {
     background-color: rgba(255, 255, 255, 0.6);
     color: #595959;
 }
+
 .search_engine_v2>.content {
     padding: 20px;
 }
-.comments{
+
+.comments {
     width: 0px !important;
     margin: 0px !important;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 700px) {
     .vc_row.wpb_row.vc_row-fluid.NewMotors {
         margin: 10px;
     }
@@ -51,119 +53,113 @@ ul.tabs li {
         width: 100% !important;
         position: initial;
     }
-
-    @media screen and (max-width: 700px){
-        #searchEngine.motor_tab_top.show_tabs .tabs li {
-            height: 40px;
-            background: #2400f6 !important;
-            font-size: 0;
-            margin: 0;
-            padding: 10px;
-            width: 100% !important;
-            display: inline-block !important;
-            text-align: left;
-        }
-        #searchEngine.motor_tab_top.show_tabs .tabs {
-            margin: 0px !important;
-            padding: 0px !important;
-            border-radius: 10px !important;
-            width: 100% !important;
-            border: 1px solid #777 !important;
-            box-shadow: 0 4px 5px 0 rgba(63,63,63,.6) !important;
-        }
-        #searchEngine .tabs li a span.ico {
-            color: #fff !important;
-        }
-        #searchEngine .tabs li a {
-            color: #fff !important;
-            font-size: 12px;
-            margin-right: 10px !important;
-        }
-        #searchEngine .tabs li a span.ico {
-            color: #fff !important;
-            float: left;
-            margin-right: 10px !important;
-            text-align: center;
-            width: 15px;
-        }
-        .search_engine_v2 >.content .radio.way label * {
-            color: #666  !important;
-        }
-        .search_engine_v2 >.content label p {
-            color: #666  !important;
-        }
-        .search_engine_v2.air.label_top .passengers label small, .search_engine_v2.hotel>.content .rooms>li label p small {
-            color: #777  !important;
-        }
-        
-        #searchEngine.motor_tab_top.show_tabs > .content {
-            padding-top: 10px  !important;
-        }
-        
-        /* Aéreo */
-            #searchEngine li.flight.searchEngineSel.active{
-                margin-bottom: 475px !important;
-            }
-            #searchEngine >.content.flight {
-                position: relative !important;
-                top: -675px !important;
-            }
-        /* Hotel */
-            #searchEngine li.hotel.searchEngineSel.active{
-                margin-bottom: 475px !important;
-            }
-            #searchEngine >.content.hotel {
-                position: relative !important;
-                top: -632px !important;
-            }
-        /* Serviço */
-            #searchEngine li.service.searchEngineSel.active{
-                margin-bottom: 280px !important;
-            }
-            #searchEngine >.content.service{
-                position: relative !important;
-                top: -400px !important;
-            }
-        /* Pacote */
-            #searchEngine li.package.searchEngineSel.active{
-                margin-bottom: 290px !important;
-            }
-            #searchEngine >.content.package{
-                position: relative;
-                top: -374px;
-            }
-        /* Circuito */
-            #searchEngine li.tour.searchEngineSel.active{
-                margin-bottom: 381px !important;
-            }
-            #searchEngine >.content.tour{
-                position: relative;
-                top: -422px;
-            }
-        /* Monte seu Pacote */
-            #searchEngine li.dynamicpackage.searchEngineSel.active{
-                margin-bottom: 500px !important;
-            }
-            #searchEngine >.content.dynamicpackage{
-                position: relative;
-                top: -500px;
-            }
-            .menu_open{
-                visibility: hidden;
-                width: 0px;
-            }
-            .touch.menu_open::after {
-                top: 19px !important;
-                left: auto !important;
-                right: 25px !important;
-                border: 1px solid #fff !important;
-                border-radius: 21px !important;
-                height: 39px !important;
-                width: 41px !important;
-                background-color: #fff !important;
-                content:'='; 
-                visibility: visible;
-            }
-    
+    #searchEngine.motor_tab_top.show_tabs .tabs li {
+        height: 40px;
+        background: #2400f6 !important;
+        font-size: 0;
+        margin: 0;
+        padding: 10px;
+        width: 100% !important;
+        display: inline-block !important;
+        text-align: left;
+    }
+    #searchEngine.motor_tab_top.show_tabs .tabs {
+        margin: 0px !important;
+        padding: 0px !important;
+        border-radius: 10px !important;
+        width: 100% !important;
+        border: 1px solid #777 !important;
+        box-shadow: 0 4px 5px 0 rgba(63, 63, 63, .6) !important;
+    }
+    #searchEngine .tabs li a span.ico {
+        color: #fff !important;
+    }
+    #searchEngine .tabs li a {
+        color: #fff !important;
+        font-size: 12px;
+        margin-right: 10px !important;
+    }
+    #searchEngine .tabs li a span.ico {
+        color: #fff !important;
+        float: left;
+        margin-right: 10px !important;
+        text-align: center;
+        width: 15px;
+    }
+    .search_engine_v2>.content .radio.way label * {
+        color: #666 !important;
+    }
+    .search_engine_v2>.content label p {
+        color: #666 !important;
+    }
+    .search_engine_v2.air.label_top .passengers label small, .search_engine_v2.hotel>.content .rooms>li label p small {
+        color: #777 !important;
+    }
+    #searchEngine.motor_tab_top.show_tabs>.content {
+        padding-top: 10px !important;
+    }
+    /* Aéreo */
+    #searchEngine li.flight.searchEngineSel.active {
+        margin-bottom: 475px !important;
+    }
+    #searchEngine>.content.flight {
+        position: relative !important;
+        top: -675px !important;
+    }
+    /* Hotel */
+    #searchEngine li.hotel.searchEngineSel.active {
+        margin-bottom: 475px !important;
+    }
+    #searchEngine>.content.hotel {
+        position: relative !important;
+        top: -632px !important;
+    }
+    /* Serviço */
+    #searchEngine li.service.searchEngineSel.active {
+        margin-bottom: 280px !important;
+    }
+    #searchEngine>.content.service {
+        position: relative !important;
+        top: -400px !important;
+    }
+    /* Pacote */
+    #searchEngine li.package.searchEngineSel.active {
+        margin-bottom: 290px !important;
+    }
+    #searchEngine>.content.package {
+        position: relative;
+        top: -374px;
+    }
+    /* Circuito */
+    #searchEngine li.tour.searchEngineSel.active {
+        margin-bottom: 381px !important;
+    }
+    #searchEngine>.content.tour {
+        position: relative;
+        top: -422px;
+    }
+    /* Monte seu Pacote */
+    #searchEngine li.dynamicpackage.searchEngineSel.active {
+        margin-bottom: 500px !important;
+    }
+    #searchEngine>.content.dynamicpackage {
+        position: relative;
+        top: -500px;
+    }
+    .menu_open {
+        visibility: hidden;
+        width: 0px;
+    }
+    .touch.menu_open::after {
+        top: 19px !important;
+        left: auto !important;
+        right: 25px !important;
+        border: 1px solid #fff !important;
+        border-radius: 21px !important;
+        height: 39px !important;
+        width: 41px !important;
+        background-color: #fff !important;
+        content: '=';
+        visibility: visible;
     }
 }
