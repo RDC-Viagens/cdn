@@ -48,6 +48,10 @@ ul.tabs li {
         display: inline-flex !important;
         height: 65px !important;
     }
+    li.flight.searchEngineSel{
+        width: 22% !important;
+        padding: 0px !important;
+    }
     li.flight.searchEngineSel.active{
         width: 22% !important;
     }
