@@ -32,6 +32,17 @@ ul.tabs li {
 }
 
 @media screen and (max-width: 700px) {
+    .wpb_column.vc_column_container.vc_col-sm-12 {
+        background-color: #ebebeb !important;
+    }
+    #searchEngine.motor_tab_top.show_tabs>.content {
+        background-color: #fff;
+        margin: 0px 15px;
+        width: 100%;
+        display: block !important;
+        padding: 0px !important;
+        float: none;
+    }
     div#searchEngine {
         margin-top: 0px;
     }
@@ -51,11 +62,11 @@ ul.tabs li {
         -moz-box-shadow: 9px 7px 5px rgba(36, 0, 246, 0.77);
         box-shadow: 3px 5px 11px rgb(36 0 246 / 77%);
     }
-    #searchEngine.motor_tab_top.show_tabs .tabs li{
+    #searchEngine.motor_tab_top.show_tabs .tabs li {
         width: 22% !important;
         padding: 0px !important;
     }
-    li.flight.searchEngineSel.active{
+    li.flight.searchEngineSel.active {
         width: 22% !important;
     }
     .search_engine_v2.custom_engine .tabs li a {
@@ -64,15 +75,15 @@ ul.tabs li {
         font-weight: 400 !important;
         color: #777 !important;
     }
-    .search_engine_v2 .tabs li.service a .ico:before{
+    .search_engine_v2 .tabs li.service a .ico:before {
         color: #777 !important;
         margin-bottom: 7px !important;
     }
-    .search_engine_v2 .tabs li.flight a .ico:before, .search_engine_v2 .tabs li.hotel a .ico:before, .search_engine_v2 .tabs li.package a .ico:before{
+    .search_engine_v2 .tabs li.flight a .ico:before, .search_engine_v2 .tabs li.hotel a .ico:before, .search_engine_v2 .tabs li.package a .ico:before {
         color: #777 !important;
         margin-bottom: 7px !important;
     }
-    .search_engine_v2 .tabs li.dynamicpackage a .ico:before{
+    .search_engine_v2 .tabs li.dynamicpackage a .ico:before {
         color: #777 !important;
         margin-bottom: 7px !important;
     }
