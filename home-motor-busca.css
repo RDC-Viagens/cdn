@@ -47,6 +47,9 @@ ul.tabs li {
         width: 100% !important;
         display: inline-flex !important;
         height: 65px !important;
+        -webkit-box-shadow: 9px 7px 5px rgb(36 0 246 / 77%);
+        -moz-box-shadow: 9px 7px 5px rgba(36, 0, 246, 0.77);
+        box-shadow: 3px 5px 11px rgb(36 0 246 / 77%);
     }
     #searchEngine.motor_tab_top.show_tabs .tabs li{
         width: 22% !important;
