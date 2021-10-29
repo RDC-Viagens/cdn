@@ -33,7 +33,7 @@ ul.tabs li {
 
 @media screen and (max-width: 700px) {
     .vc_row.wpb_row.vc_row-fluid.NewMotors {
-        margin: 10px;
+        
     }
     div#searchEngine {
         margin-top: 0px;
@@ -43,4 +43,5 @@ ul.tabs li {
         width: 100%;
         padding: 0 0px 0px 0px !important;
     }
+
 }
