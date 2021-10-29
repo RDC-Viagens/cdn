@@ -69,4 +69,8 @@ ul.tabs li {
         color: #777 !important;
         margin-bottom: 7px !important;
     }
+    .search_engine_v2 .tabs li.dynamicpackage a .ico:before{
+        color: #777 !important;
+        margin-bottom: 7px !important;
+    }
 }
