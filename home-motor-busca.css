@@ -98,9 +98,9 @@ ul.tabs li {
 
     /* Aereo */
     .search_engine_v2 >.content .radio.way label *{
-        color: #777;
+        color: #777 !important;
     }
     .search_engine_v2 >.content label p {
-        color: #777;
+        color: #777 !important;
     }
 }
