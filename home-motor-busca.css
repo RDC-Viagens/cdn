@@ -48,7 +48,7 @@ ul.tabs li {
         display: inline-flex !important;
         height: 65px !important;
     }
-    li.flight.searchEngineSel{
+    #searchEngine.motor_tab_top.show_tabs .tabs li{
         width: 22% !important;
         padding: 0px !important;
     }
