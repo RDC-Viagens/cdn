@@ -9,6 +9,7 @@
     ul.promotions.horizontal.precos-imbativeis li {
         flex: none;
         width: 300px !important;
+        margin-left: 15px;
     }
     ul.promotions.horizontal.precos-imbativeis li a {
         width: 300px;
