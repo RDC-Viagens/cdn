@@ -32,6 +32,9 @@ ul.tabs li {
 }
 
 @media screen and (max-width: 700px) {
+    .vc_empty_space {
+        height: 10px !important;
+    }
     h2.tg_title.full_width{
         margin: 0px !important;
     }
