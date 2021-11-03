@@ -155,6 +155,9 @@ ul.tabs li {
     #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label.package-hotel{
         display: none;
     }
+    .search_engine_v2.dynamicpackage .travelers > .content .travelers_ages p {
+        color: #777 !important;
+    }
     .search_engine_v2.dynamicpackage .travelers > .content .travelers_ages p{
         color: #777 !important;
     }
