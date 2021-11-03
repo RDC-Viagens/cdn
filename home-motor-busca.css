@@ -102,8 +102,9 @@ ul.tabs li {
         background-color: #fff;
         width: 400px;
         display: block !important;
-        margin: 0px auto !important;
+        margin: 65px auto !important;
         float: none;
+        padding: 10px !important;
     }
     
     /* Aereo */
