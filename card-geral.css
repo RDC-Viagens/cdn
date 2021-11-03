@@ -1,0 +1,6 @@
+
+@media screen and (max-width: 700px) {
+    ul.promotions.horizontal.precos-imbativeis li {
+        width: 300px !important;
+    }
+}
