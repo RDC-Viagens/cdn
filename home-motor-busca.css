@@ -98,7 +98,7 @@ ul.tabs li {
 
 
     /* Preparação Campos dos Buscadores*/
-    .search_engine_v2 >.content{
+    #searchEngine.motor_tab_top.show_tabs>.content{
         background-color: #fff;
         width: 400px;
         display: block !important;
