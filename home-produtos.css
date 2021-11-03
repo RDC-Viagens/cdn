@@ -1,7 +1,13 @@
-.vc_empty_space {
-    height: 10px !important;
-}
-.card-list__subtitle{
-    text-align: justify;
-    padding: 0px 10px !important;
+
+@media screen and (max-width: 700px) {
+    .vc_empty_space {
+        height: 10px !important;
+    }
+    .card-list__subtitle{
+        text-align: justify;
+        padding: 0px 10px !important;
+    }
+    h2.tg_title.full_width {
+        margin: 0px !important;
+    }
 }
