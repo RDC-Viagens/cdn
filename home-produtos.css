@@ -6,6 +6,7 @@
     .card-list__subtitle{
         text-align: justify;
         padding: 0px 10px !important;
+        margin-left: 10px;
     }
     h2.tg_title.full_width {
         margin: 0px !important;
