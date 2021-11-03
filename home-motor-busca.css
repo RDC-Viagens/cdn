@@ -102,16 +102,16 @@ ul.tabs li {
         height: 21px !important;
         line-height: inherit !important;
         padding: 8px 0px !important;
-        text-indent: 5px;
-        text-indent: 0px;
-        -webkit-border-radius: 2px;
-        -moz-border-radius: 2px;
-        border-radius: 2px;
-        float: right;
-        margin: 15px 0 0;
-        text-align: center;
-        width: 30%;
-        border-radius: 5px;
+        text-indent: 5px !important;
+        text-indent: 0px !important;
+        -webkit-border-radius: 2px !important;
+        -moz-border-radius: 2px !important;
+        border-radius: 2px !important;
+        float: right !important;
+        margin: 15px 0 0 !important;
+        text-align: center !important;
+        width: 30% !important;
+        border-radius: 5px !important;
     }
 
     /* Preparação Campos dos Buscadores*/
