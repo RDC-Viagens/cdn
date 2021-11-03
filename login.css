@@ -14,6 +14,9 @@
     .userinfo_login_container.w-100 {
         width: 100% !important;
         padding: 0px !important;
+        border: 1px solid #fff;
+        padding: 5px !important;
+        border-radius: 10px;
     }
     label.labelline {
         color: #fff !important;
