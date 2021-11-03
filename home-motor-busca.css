@@ -96,6 +96,16 @@ ul.tabs li {
         color: #fff !important;
     }
 
+
+    /* Preparação Campos dos Buscadores*/
+    .search_engine_v2 >.content{
+        background-color: #fff;
+        width: 400px;
+        display: block !important;
+        margin: 0px auto !important;
+        float: none;
+    }
+    
     /* Aereo */
     .search_engine_v2 >.content .radio.way label *{
         color: #777 !important;
