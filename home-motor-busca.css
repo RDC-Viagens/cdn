@@ -106,6 +106,10 @@ ul.tabs li {
         float: none;
         padding: 10px !important;
     }
+    .search_engine_v2.air.label_top .passengers label small, .search_engine_v2.hotel>.content .rooms>li label p small {
+        color: #777;
+        font-size: 10px;
+    }
     
     /* Aereo */
     .search_engine_v2 >.content .radio.way label *{
@@ -113,5 +117,18 @@ ul.tabs li {
     }
     .search_engine_v2 >.content label p {
         color: #777 !important;
+    }
+    .radio.way {
+        display: inline-flex;
+        flex-direction: center;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .search_engine_v2.custom_engine.air .destination {
+        width: 100% !important;
+    }
+    label.children.select {
+        font-size: 12px;
     }
 }
