@@ -1,7 +1,7 @@
 @media screen and (max-width: 700px) {
     .user_info_container {
         margin-top: 0px !important;
-        width: 95% !important;
+        width: 80% !important;
         display: inline-flex;
         flex-direction: center !important;
         justify-content: center !important;
