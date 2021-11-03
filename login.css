@@ -27,4 +27,9 @@
     div#userinfo_login .userinfo_login_container .extra span.balance.item2{
         padding-left: 40px;
     }
+
+    .popuplogin {
+        width: 95%;
+        margin: 0px 10px;
+    }
 }
