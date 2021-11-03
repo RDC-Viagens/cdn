@@ -32,9 +32,6 @@ ul.tabs li {
 }
 
 @media screen and (max-width: 700px) {
-    h2.tg_title.full_width {
-        margin: 0px !important;
-    }
     .NewMotors .wpb_column.vc_column_container.vc_col-sm-12 {
         background-color: #ebebeb !important;
         padding-bottom: 15px !important;
