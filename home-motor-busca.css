@@ -32,10 +32,7 @@ ul.tabs li {
 }
 
 @media screen and (max-width: 700px) {
-    .vc_empty_space {
-        height: 10px !important;
-    }
-    h2.tg_title.full_width{
+    h2.tg_title.full_width {
         margin: 0px !important;
     }
     .NewMotors .wpb_column.vc_column_container.vc_col-sm-12 {
