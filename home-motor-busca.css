@@ -111,7 +111,7 @@ ul.tabs li {
     #searchEngine.motor_tab_top.show_tabs>.content {
         background-color: #fff !important;
         width: 400px !important;
-        display: block !important;
+        display: table !important;
         margin: 0px auto !important;
         float: none !important;
         padding: 10px !important;
