@@ -113,7 +113,9 @@ ul.tabs li {
         width: 30% !important;
         border-radius: 5px !important;
     }
-
+    .search_engine_v2 >.content .advanced.settings {
+        display: none;
+    }
     /* Preparação Campos dos Buscadores*/
     #searchEngine.motor_tab_top.show_tabs>.content{
         background-color: #fff !important;
@@ -148,5 +150,9 @@ ul.tabs li {
     }
     label.children.select {
         font-size: 12px !important;
+    }
+    /* Monte seu Pacote */
+    #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label.package-hotel{
+        display: none;
     }
 }
