@@ -1,13 +1,7 @@
 
 @media screen and (max-width: 700px) {
-    ul.promotions.horizontal.precos-imbativeis li {
-        width: 300px !important;
-    }
-
-    div#pacotes_em_destaque>.wpb_column>.vc_column-inner>.wpb_wrapper {
-        width: 100vw !important;
-    }
     ul.promotions.horizontal.precos-imbativeis {
+        width: 100vw !important;
         display: flex !important;
         overflow-x: auto;
         justify-content: left;
