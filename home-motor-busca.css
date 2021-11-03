@@ -36,12 +36,12 @@ ul.tabs li {
         background-color: #ebebeb !important;
     }
     #searchEngine.motor_tab_top.show_tabs>.content {
-        background-color: #fff;
-        margin: 0px 15px;
-        width: 383px;
+        background-color: #fff !important;
+        width: 400px !important;
         display: block !important;
-        padding: 6px !important;
-        float: none;
+        margin: 0px auto !important;
+        float: none !important;
+        padding: 10px !important;
     }
     div#searchEngine {
         margin-top: 0px;
@@ -89,13 +89,12 @@ ul.tabs li {
         color: #777 !important;
         margin-bottom: 7px !important;
     }
-
-    .search_engine_v2.custom_engine .tabs li.active a{
+    .search_engine_v2.custom_engine .tabs li.active a {
         background-color: #2400f6 !important;
         height: 100% !important;
         color: #fff !important;
     }
-    #searchEngine .send{
+    #searchEngine .send {
         width: 30% !important;
     }
     a.clearSearchParams.clear {
@@ -113,11 +112,11 @@ ul.tabs li {
         width: 30% !important;
         border-radius: 5px !important;
     }
-    .search_engine_v2 >.content .advanced.settings {
+    .search_engine_v2>.content .advanced.settings {
         display: none;
     }
     /* Preparação Campos dos Buscadores*/
-    #searchEngine.motor_tab_top.show_tabs>.content{
+    #searchEngine.motor_tab_top.show_tabs>.content {
         background-color: #fff !important;
         width: 400px !important;
         display: block !important;
@@ -129,12 +128,11 @@ ul.tabs li {
         color: #777 !important;
         font-size: 10px !important;
     }
-
     /* Aereo */
-    .search_engine_v2 >.content .radio.way label *{
+    .search_engine_v2>.content .radio.way label * {
         color: #777 !important;
     }
-    .search_engine_v2 >.content label p {
+    .search_engine_v2>.content label p {
         color: #777 !important;
     }
     .radio.way {
@@ -152,19 +150,19 @@ ul.tabs li {
         font-size: 12px !important;
     }
     /* Monte seu Pacote */
-    #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label.package-hotel{
+    #searchEngine>.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label.package-hotel {
         display: none;
     }
-    .search_engine_v2.dynamicpackage .travelers > .content .travelers_ages p {
+    .search_engine_v2.dynamicpackage .travelers>.content .travelers_ages p {
         color: #777 !important;
     }
-    .search_engine_v2.dynamicpackage .travelers > .content .travelers_ages p{
+    .search_engine_v2.dynamicpackage .travelers>.content .travelers_ages p {
         color: #777 !important;
     }
-    #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label{
+    #searchEngine>.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label {
         width: 50px !important;
     }
-    #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li {
+    #searchEngine>.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li {
         width: max-content !important;
     }
 }
