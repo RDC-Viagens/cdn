@@ -35,8 +35,9 @@ ul.tabs li {
     h2.tg_title.full_width{
         margin: 0px !important;
     }
-    .wpb_column.vc_column_container.vc_col-sm-12 {
+    .NewMotors .wpb_column.vc_column_container.vc_col-sm-12 {
         background-color: #ebebeb !important;
+        padding-bottom: 15px !important;
     }
     div#searchEngine {
         margin-top: 0px;
