@@ -1,6 +1,10 @@
 .vc_separator.vc_sep_double {
-    margin-top: 10px;
+    margin-top: 10px !important;
     height: 20px;
+}
+
+.vc_row.wpb_row.vc_row-fluid.fullsection.precos-imperdiveis {
+    padding: 20px 0px !important;
 }
 
 @media screen and (max-width: 700px) {
