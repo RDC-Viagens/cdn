@@ -11,5 +11,6 @@
     h2.tg_title.full_width {
         margin: 0px !important;
         text-align: center !important;
+        font-size: 29px !important;
     }
 }
