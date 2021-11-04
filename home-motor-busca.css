@@ -44,6 +44,9 @@ ul.tabs li {
         width: 100%;
         padding: 0 0px 0px 0px !important;
     }
+    .search_engine_v2 .tabs li.active a .ico:before {
+        color: #fff !important;
+    }
     #searchEngine.motor_tab_top.show_tabs .tabs {
         margin: 0px 0px 0px 0px !important;
         padding: 0 !important;
