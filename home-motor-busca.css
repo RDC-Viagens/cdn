@@ -31,6 +31,11 @@ div#rev_slider_10_1_wrapper {
 
 /* *********************** */
 
+.Ofertas-Especiais .vc_column-inner .wpb_wrapper {
+    width: 80%;
+    margin: 0px auto;
+}
+
 div#searchEngine {
     margin-top: -47px;
 }
