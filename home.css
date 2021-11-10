@@ -22,3 +22,7 @@ ul.promotions.horizontal.precos-imbativeis li a {
     width: 300px;
     height: 100%;
 }
+ul.promotions.horizontal.precos-imbativeis li {
+    margin-left: 0px !important;
+    margin-right: 8px !important;
+}
