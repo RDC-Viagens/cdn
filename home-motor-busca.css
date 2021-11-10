@@ -35,9 +35,7 @@ div#rev_slider_10_1_wrapper {
     width: 80%;
     margin: 0px auto;
 }
-.search_engine_v2.custom_engine.air .destination {
-    width: 100% !important;
-}
+
 div#searchEngine {
     margin-top: -47px;
 }
@@ -70,7 +68,14 @@ ul.tabs li {
     width: 0px !important;
     margin: 0px !important;
 }
+/* Aéreo */
+.search_engine_v2.custom_engine.air .destination {
+    width: 100% !important;
+}
 
+.search_engine_v2.custom_engine.air > .content .date{
+    width: 50% !important;
+}
 @media screen and (max-width: 700px) {
     .NewMotors .wpb_column.vc_column_container.vc_col-sm-12 {
         background-color: #ebebeb !important;
