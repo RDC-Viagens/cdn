@@ -45,15 +45,7 @@ div#searchEngine {
     background: #2400f6 !important;
 }
 
-.search_engine_v2.custom_engine .tabs li {
-    border-radius: 15px 15px 1px 1px;
-}
-
-li.searchEngineSel.active {
-    border-radius: 19px 19px 1px 1px;
-}
-
-li.searchEngineSel.active a {
+.search_engine_v2.custom_engine .tabs li, li.searchEngineSel.active, li.searchEngineSel.active a {
     border-radius: 19px 19px 1px 1px;
 }
 
@@ -79,6 +71,10 @@ ul.tabs li {
 .comments {
     width: 0px !important;
     margin: 0px !important;
+}
+
+a#btnSearch, a.clearSearchParams.clear {
+    border-radius: 5px;
 }
 
 /* Aéreo */
