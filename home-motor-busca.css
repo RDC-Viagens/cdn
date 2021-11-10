@@ -35,7 +35,9 @@ div#rev_slider_10_1_wrapper {
     width: 80%;
     margin: 0px auto;
 }
-
+.search_engine_v2.custom_engine.air .destination {
+    width: 100% !important;
+}
 div#searchEngine {
     margin-top: -47px;
 }
