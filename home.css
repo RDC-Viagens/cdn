@@ -1,3 +1,9 @@
 .controller-sections .vc_column-inner .wpb_wrapper {
     display: flex;
 }
+.controller-sections .vc_column-inner .wpb_wrapper h2.tg_title {
+    width: 30%;
+}
+.controller-sections .vc_column-inner .wpb_wrapper ul {
+    width: 70%;
+}
