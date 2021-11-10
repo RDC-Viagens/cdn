@@ -6,19 +6,23 @@
 }
 
 div#rev_slider_10_1_forcefullwidth {
-    height: 334px !important;
-}
-
-div#rev_slider_10_1_wrapper {
-    height: 334px !important;
-}
-
-#rev_slider_10_1 {
-    height: 344px !important;
+    height: 100% !important;
 }
 
 .slotholder {
     height: 334px !important;
+}
+
+.tp-fullwidth-forcer {
+    height: 100% !important;
+}
+
+#rev_slider_10_1 {
+    height: 100% !important;
+}
+
+div#rev_slider_10_1_wrapper {
+    height: 100% !important;
 }
 
 /* *********************** */
