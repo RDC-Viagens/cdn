@@ -1,10 +1,17 @@
 /* Banner Rotativo */
+
 .tp-bgimg.defaultimg {
     background-size: contain !important;
 }
-div#rev_slider_10_1_forcefullwidth{
+
+div#rev_slider_10_1_forcefullwidth {
     height: 334px !important;
 }
+
+div#rev_slider_10_1_wrapper {
+    height: 334px !important;
+}
+
 /* */
 
 div#searchEngine {
