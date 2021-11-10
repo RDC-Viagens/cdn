@@ -44,6 +44,12 @@ div#searchEngine {
     max-width: 100% !important;
     background: #2400f6 !important;
 }
+.search_engine_v2.custom_engine .tabs li {
+    border-radius: 15px 15px 1px 1px;
+}
+.search_engine_v2 .tabs li.active{
+    border-radius: 15px 15px 1px 1px;
+}
 
 .search_engine_v2 .tabs li {
     margin: 0px 1px;
