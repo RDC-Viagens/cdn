@@ -44,11 +44,17 @@ div#searchEngine {
     max-width: 100% !important;
     background: #2400f6 !important;
 }
+
 .search_engine_v2.custom_engine .tabs li {
     border-radius: 15px 15px 1px 1px;
 }
-.search_engine_v2 .tabs li.active{
-    border-radius: 15px 15px 1px 1px;
+
+li.flight.searchEngineSel.active {
+    border-radius: 19px 19px 1px 1px;
+}
+
+li.flight.searchEngineSel.active a {
+    border-radius: 19px 19px 1px 1px;
 }
 
 .search_engine_v2 .tabs li {
@@ -91,7 +97,7 @@ ul.tabs li {
     display: none;
 }
 
-.search_engine_v2.dynamicpackage .travelers > .content .travelers_ages .ages .passenger-container label.room {
+.search_engine_v2.dynamicpackage .travelers>.content .travelers_ages .ages .passenger-container label.room {
     display: none;
 }
 
