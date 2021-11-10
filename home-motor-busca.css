@@ -25,6 +25,10 @@ div#rev_slider_10_1_wrapper {
     height: 100% !important;
 }
 
+.vc_row.wpb_row.vc_row-fluid.fullsize.banner-rotativo {
+    height: 295 px !important;
+}
+
 /* *********************** */
 
 div#searchEngine {
