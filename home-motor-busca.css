@@ -11,7 +11,9 @@ div#rev_slider_10_1_forcefullwidth {
 div#rev_slider_10_1_wrapper {
     height: 334px !important;
 }
-
+.tp-bgimg.defaultimg {
+    height: 334px !important;
+}
 /* */
 
 div#searchEngine {
