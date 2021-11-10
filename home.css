@@ -7,3 +7,18 @@
 .controller-sections .vc_column-inner .wpb_wrapper ul {
     width: 70%;
 }
+ul.promotions.horizontal.precos-imbativeis {
+    width: 100vw !important;
+    display: flex !important;
+    overflow-x: auto;
+    justify-content: left;
+}
+ul.promotions.horizontal.precos-imbativeis li {
+    flex: none;
+    width: 300px !important;
+    margin-left: 15px;
+}
+ul.promotions.horizontal.precos-imbativeis li a {
+    width: 300px;
+    height: 100%;
+}
