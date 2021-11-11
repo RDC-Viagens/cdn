@@ -4,3 +4,9 @@
     align-items: center;
     justify-content: center;
 }
+.section-ofertas-promocionais .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2{
+    width: 30%;
+}
+ul.ofertas-promocionais{
+    width: 70%;
+}
