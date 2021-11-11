@@ -15,15 +15,15 @@
 }
 
 ul.ofertas-promocionais {
-    height: 250px;
-    width: auto;
-    overflow: hidden;
-    white-space: nowrap;
-    display: inline-block;
-    text-align: center;
+    height: 250px !important;
+    width: auto !important;
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    display: inline-block !important;
+    text-align: center !important;
     padding-bottom: 10px !important;
-    display: flex;
-    align-items: center;
+    display: flex !important;
+    align-items: center !important;
 }
 
 ul.ofertas-promocionais li {
