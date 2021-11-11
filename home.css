@@ -1,21 +1,39 @@
 /* ESTRUTURA DA SECTION */
-.section-ofertas-promocionais .article-ofertas-promocionais .vc_column-inner .wpb_wrapper{
+
+.section-ofertas-promocionais .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
     display: flex;
     object-fit: cover;
     align-items: center;
     justify-content: center;
 }
-.section-ofertas-promocionais .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2{
+
+.section-ofertas-promocionais .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
     width: 25%;
     font-size: 60px;
     font-weight: 500 !important;
     color: #777;
 }
-ul.ofertas-promocionais{
-    display: inline-flex !important;
-    width: 70%;
-    overflow: scroll;
+
+ul.ofertas-promocionais {
+    height: 250px;
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 10px !important;
+    display: flex;
+    align-items: center;
 }
-ul.ofertas-promocionais li{
-    width: 300px !important;
+
+ul.ofertas-promocionais li {
+    min-width: 300 px;
+    max-width: 300 px;
+    height: 279 px;
+    background-size: cover;
+    background-color: limegreen;
+    margin: 5 px 10 px;
+    cursor: pointer;
+    transition: 0.5s ease;
+    z-index: 2;
 }
