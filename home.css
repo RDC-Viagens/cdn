@@ -38,7 +38,7 @@ ul.ofertas-promocionais li {
     z-index: 2;
 }
 
-ul.ofertas-promocionais li a:hover {
+ul.ofertas-promocionais li a:hover~figure {
     transform: scale(1.0);
     z-index: 9;
 }
