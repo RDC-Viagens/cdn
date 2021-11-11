@@ -15,8 +15,8 @@
 }
 
 ul.ofertas-promocionais {
-    height: 250px !important;
-    width: auto !important;
+    height: min-content !important;
+    width: 70% !important;
     overflow: hidden !important;
     white-space: nowrap !important;
     display: inline-block !important;
