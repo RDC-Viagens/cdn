@@ -1,8 +1,12 @@
 .vc_row.wpb_row.vc_row-fluid.fullsection.precos-imperdiveis{
     padding: 20px !important;
 }
+.vc_row.wpb_row.vc_row-fluid.fullsection.precos-imperdiveis .wpb_column .vc_column-inner .wpb_wrapper {
+    width: 100%;
+    margin: 0px 10px;
+}
 
-.controller-sections .vc_column-inner .wpb_wrapper {
+.controller-sections .vc_column-inner .wpb_wrapper  {
     width: 70%;
     display: flex;
     flex-direction: center !important;
@@ -26,6 +30,8 @@ ul.promotions.horizontal.precos-imbativeis li {
     flex: none;
     width: 300px !important;
     margin-left: 15px;
+    margin-left: 0px !important;
+    margin-right: 8px !important;
 }
 
 ul.promotions.horizontal.precos-imbativeis li a {
@@ -33,7 +39,3 @@ ul.promotions.horizontal.precos-imbativeis li a {
     height: 100%;
 }
 
-ul.promotions.horizontal.precos-imbativeis li {
-    margin-left: 0px !important;
-    margin-right: 8px !important;
-}
