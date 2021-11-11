@@ -1,3 +1,4 @@
+/* ESTRUTURA DA SECTION */
 .section-ofertas-promocionais .article-ofertas-promocionais .vc_column-inner .wpb_wrapper{
     display: flex;
     object-fit: cover;
@@ -12,4 +13,7 @@
 }
 ul.ofertas-promocionais{
     width: 70%;
+}
+ul.ofertas-promocionais li{
+    width: 300px;
 }
