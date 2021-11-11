@@ -12,7 +12,7 @@
     color: #777;
 }
 ul.ofertas-promocionais{
-    display: flex;
+    display: inline-flex !important;
     width: 70%;
     overflow: scroll;
 }
