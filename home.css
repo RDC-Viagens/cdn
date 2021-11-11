@@ -13,6 +13,7 @@
 }
 ul.ofertas-promocionais{
     width: 70%;
+    overflow: scroll;
 }
 ul.ofertas-promocionais li{
     width: 300px;
