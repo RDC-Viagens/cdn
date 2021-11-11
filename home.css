@@ -1,3 +1,6 @@
 .section-ofertas-promocionais .article-ofertas-promocionais .vc_column-inner .wpb_wrapper{
     display: flex;
+    object-fit: cover;
+    align-items: center;
+    justify-content: center;
 }
