@@ -16,5 +16,5 @@ ul.ofertas-promocionais{
     overflow: scroll;
 }
 ul.ofertas-promocionais li{
-    width: 300px;
+    width: 300px !important;
 }
