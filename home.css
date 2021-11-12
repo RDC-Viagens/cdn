@@ -32,13 +32,13 @@ ul.ofertas-promocionais li {
     height: 279px;
     background-size: cover;
     background-color: limegreen;
-    margin: 5px 10px;
+    margin: 20px 5px !important;
     cursor: pointer;
     transition: 0.5s ease;
     z-index: 2;
 }
 
-ul.ofertas-promocionais li a:hover~figure {
+ul.ofertas-promocionais li a:hover {
     transform: scale(1.0);
     z-index: 9;
 }
