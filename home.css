@@ -1,8 +1,8 @@
 .article-ofertas-promocionais{
-    display: inline-flex !important;
+    display: block !important;
     max-width: 1140px !important;
-    align-items: center !important;
-    justify-content: center !important;
+    margin: 0px auto !important;
+    float: none;
 }
 
 .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
