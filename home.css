@@ -12,6 +12,7 @@
 }
 .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2{
     font-size: 50px !important;
+    color: #333 !important;
 }
 .article-ofertas-promocionais section {
     display: inline-flex !important;
