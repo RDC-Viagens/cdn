@@ -4,6 +4,12 @@
 .titulo_Pagina{
     padding: 20px 20px 0px 20px;
 }
+.titulo_Pagina .wpb_column.vc_column_container.vc_col-sm-12{
+    display: block !important;
+    max-width: 1140px !important;
+    margin: 0px auto !important;
+    float: none;
+}
 .article-ofertas-promocionais{
     display: block !important;
     max-width: 1140px !important;
