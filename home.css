@@ -65,7 +65,8 @@ a.link-aereo figure span img {
     margin: 15px 0px !important;
 }
 
-span {
+.corpo span,
+a.link-aereo figure span{
     color: #333 !important;
     font-style: normal !important;
     display: block !important;
