@@ -1,3 +1,11 @@
+/* Inicio Preços Imperdiveis */
+.subtitle-precosImperdiveis{
+    position: absolute;
+    width: 250px;
+    top: 266px;
+    padding: 0px 13px;
+}
+/* Fim Preços Imperdiveis */
 .article-ofertas-promocionais .vc_column-inner .wpb_wrapper .wpb_raw_code.wpb_content_element.wpb_raw_html{
     margin-bottom: 0px;
 }
