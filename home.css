@@ -34,7 +34,7 @@ a.link-aereo:hover {
     z-index: 5 !important;
 }
 
-figure {
+a.link-aereo figure {
     width: calc(100% + 32px) !important;
     display: block !important;
     position: relative !important;
@@ -46,7 +46,7 @@ figure {
     left: -15px !important;
 }
 
-figure span {
+a.link-aereo figure span {
     height: 185px !important;
     display: block !important;
     overflow: hidden !important;
@@ -54,7 +54,7 @@ figure span {
     background: rgba(0, 0, 0, .3) !important;
 }
 
-img {
+a.link-aereo figure span img {
     position: absolute !important;
     transform: translate(-50%, -50%) !important;
     transition: transform .2s !important;
