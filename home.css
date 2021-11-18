@@ -201,6 +201,9 @@ span.byPrice {
     width: 250px;
 }
 
+section#pacotesNacionais {
+    display: inline-flex;
+}
 
 
 /* Termino Pacotes Preços Imperdiveis */
