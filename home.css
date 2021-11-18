@@ -192,6 +192,7 @@ span.byPrice {
     display: inline-block !important;
     margin: 0px 0px 15px 0px !important;
     align-items: center !important;
+    width: 100%;
 }
 
 .article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper h2 {
