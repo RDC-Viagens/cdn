@@ -205,6 +205,8 @@ span.byPrice {
 
 section#pacotesNacionais {
     display: inline-flex;
+    width: 100%;
+    justify-content: center;
 }
 
 .card-list__subtitle_pacotes {
