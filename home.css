@@ -198,7 +198,7 @@ span.byPrice {
     font-size: 33px !important;
     color: #333 !important;
     padding: 15px;
-    width: 250px;
+    width: 100%;
 }
 
 section#pacotesNacionais {
