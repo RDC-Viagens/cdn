@@ -205,5 +205,8 @@ section#pacotesNacionais {
     display: inline-flex;
 }
 
+.card-list__subtitle_pacotes{
+    padding-left: 15px;
+}
 
 /* Termino Pacotes Preços Imperdiveis */
