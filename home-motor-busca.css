@@ -1,9 +1,6 @@
 /* Banner Rotativo */
 
-.tp-bgimg.defaultimg {
-    background-size: contain !important;
-    height: 334px !important;
-}
+
 
 div#rev_slider_10_1_forcefullwidth {
     height: 100% !important;
