@@ -169,6 +169,25 @@ span.byPrice {
 }
 
 /* Inicio Pacotes Preços Imperdiveis */
+.article-ofertas-promocionais-pacotesNacionais{
+    display: block !important;
+    max-width: 1140px !important;
+    margin: 0px auto !important;
+    float: none;
+}
+
+.article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper {
+    display: inline-flex !important;
+    margin: 15px 0px !important;
+    align-items: center !important;
+}
+.article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper h2{
+    font-size: 33px !important;
+    color: #333 !important;
+    padding: 15px;
+    width: 250px;
+}
+
 .article-ofertas-promocionais-pacotesNacionais .vc_column-inner{
     padding-left: 0px !important;
     padding-right: 0px !important;
