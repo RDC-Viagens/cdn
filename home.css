@@ -186,13 +186,14 @@ span.byPrice {
 .article-ofertas-promocionais-pacotesNacionais .vc_column-inner {
     padding-left: 0px !important;
     padding-right: 0px !important;
+    width: 100% !important;
 }
 
 .article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper {
     display: inline-block !important;
     margin: 0px 0px 15px 0px !important;
     align-items: center !important;
-    width: 100%;
+    width: 100% !important;
 }
 
 .article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper h2 {
