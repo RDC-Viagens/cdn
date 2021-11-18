@@ -213,5 +213,7 @@ section#pacotesNacionais {
     padding-left: 15px;
     margin-bottom: 0px;
 }
-
+section#pacotesNacionais a.link-aereo .corpo span.cidade{
+    background-color: #f90c51;
+}
 /* Termino Pacotes Preços Imperdiveis */
