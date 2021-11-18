@@ -1,29 +1,33 @@
 /* Inicio Preços Imperdiveis */
-.subtitle-precosImperdiveis{
+.subtitle-precosImperdiveis {
     position: absolute;
     width: 250px;
     top: 266px;
     padding: 0px 13px;
 }
+
 /* Fim Preços Imperdiveis */
 
-.article-ofertas-promocionais .vc_column-inner .wpb_wrapper .wpb_raw_code.wpb_content_element.wpb_raw_html{
+.article-ofertas-promocionais .vc_column-inner .wpb_wrapper .wpb_raw_code.wpb_content_element.wpb_raw_html {
     margin-bottom: 0px;
 }
 
 .wpb_text_column.wpb_content_element.card-list__subtitle {
     margin-bottom: 0px;
 }
-.titulo_Pagina{
+
+.titulo_Pagina {
     padding: 20px 20px 0px 20px;
 }
-.titulo_Pagina .wpb_column.vc_column_container.vc_col-sm-12{
+
+.titulo_Pagina .wpb_column.vc_column_container.vc_col-sm-12 {
     display: block !important;
     max-width: 1140px !important;
     margin: 0px auto !important;
     float: none;
 }
-.article-ofertas-promocionais{
+
+.article-ofertas-promocionais {
     display: block !important;
     max-width: 1140px !important;
     margin: 0px auto !important;
@@ -35,12 +39,14 @@
     margin: 15px 0px !important;
     align-items: center !important;
 }
-.article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2{
+
+.article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
     font-size: 33px !important;
     color: #333 !important;
     padding: 15px;
     width: 250px;
 }
+
 .article-ofertas-promocionais section {
     display: inline-flex !important;
 }
@@ -94,7 +100,7 @@ a.link-aereo figure span img {
 }
 
 .corpo span,
-a.link-aereo figure span{
+a.link-aereo figure span {
     color: #333 !important;
     font-style: normal !important;
     display: block !important;
@@ -169,11 +175,17 @@ span.byPrice {
 }
 
 /* Inicio Pacotes Preços Imperdiveis */
-.article-ofertas-promocionais-pacotesNacionais{
+
+.article-ofertas-promocionais-pacotesNacionais {
     display: block !important;
     max-width: 1140px !important;
     margin: 0px auto !important;
     float: none;
+}
+
+.article-ofertas-promocionais-pacotesNacionais .vc_column-inner {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
 }
 
 .article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper {
@@ -181,15 +193,14 @@ span.byPrice {
     margin: 15px 0px !important;
     align-items: center !important;
 }
-.article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper h2{
+
+.article-ofertas-promocionais-pacotesNacionais .vc_column-inner .wpb_wrapper h2 {
     font-size: 33px !important;
     color: #333 !important;
     padding: 15px;
     width: 250px;
 }
 
-.article-ofertas-promocionais-pacotesNacionais .vc_column-inner{
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
+
+
 /* Termino Pacotes Preços Imperdiveis */
