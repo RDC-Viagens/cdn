@@ -139,6 +139,7 @@ a#btnSearch, a.clearSearchParams.clear {
         font-size: 12px !important;
         font-weight: 400 !important;
         color: #777 !important;
+        border-radius: 0px 0px 0px 0px !important
     }
     .search_engine_v2 .tabs li.service a .ico:before {
         color: #777 !important;
@@ -156,6 +157,7 @@ a#btnSearch, a.clearSearchParams.clear {
         background-color: #2400f6 !important;
         height: 100% !important;
         color: #fff !important;
+        border-radius: 0px 0px 0px 0px !important
     }
     #searchEngine .send {
         width: 30% !important;
