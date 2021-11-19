@@ -8,24 +8,27 @@
 }
 
 @media screen and (max-width: 700px) {
+    
     .vc_separator.vc_sep_double {
         margin-top: 10px !important;
     }
-    ul.promotions.horizontal.precos-imbativeis {
+    .article-ofertas-promocionais section {
         width: 100vw !important;
         display: flex !important;
         overflow-x: auto;
         justify-content: left;
     }
-    ul.promotions.horizontal.precos-imbativeis li {
+    .article-ofertas-promocionais section a {
         flex: none;
         width: 300px !important;
         margin-left: 15px;
     }
-    ul.promotions.horizontal.precos-imbativeis li a {
+    /*
+    .article-ofertas-promocionais section li a {
         width: 300px;
         height: 100%;
     }
+    */
     .ofertas-pacotes-home h3.obs {
         font-size: 14px !important;
         font-weight: normal !important;
