@@ -23,7 +23,6 @@
     }
     .article-ofertas-promocionais section a {
         flex: none;
-        width: 300px !important;
         margin-left: 15px;
     }
     .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
