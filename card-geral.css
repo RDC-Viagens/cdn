@@ -8,7 +8,9 @@
 }
 
 @media screen and (max-width: 700px) {
-    
+    html .vc_row-fluid.fullsize{
+        padding: 0px !important;
+    }
     .vc_separator.vc_sep_double {
         margin-top: 10px !important;
     }
