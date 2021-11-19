@@ -130,6 +130,7 @@ a#btnSearch, a.clearSearchParams.clear {
         padding: 0px !important;
         height: 100% !important;
         background-color: #fff !important;
+        border-radius: 0px 0px 0px 0px;
     }
     li.flight.searchEngineSel.active {
         width: 22% !important;
