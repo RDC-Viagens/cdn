@@ -30,6 +30,7 @@
     }
     .article-ofertas-promocionais .vc_column-inner .wpb_wrapper{
         margin: 1px 0px !important;
+        width: 95% !important;
     }
     .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
         font-size: 20px !important;
