@@ -41,7 +41,7 @@
 }
 
 .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
-    display: inline-flex !important;
+    display: inline-flex ;
     margin: 15px 0px !important;
     align-items: center !important;
 }
