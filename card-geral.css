@@ -31,11 +31,16 @@
     .article-ofertas-promocionais .vc_column-inner .wpb_wrapper{
         margin: 1px 0px !important;
         width: 95% !important;
+        display: inline-block !important;
     }
     .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
         font-size: 20px !important;
         padding: 0px !important;
         width: 140px !important;
+    }
+    .subtitle-precosImperdiveis{
+        position: relative;
+        width: 100%;
     }
     /*
     .article-ofertas-promocionais section li a {
