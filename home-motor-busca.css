@@ -99,6 +99,10 @@ a#btnSearch, a.clearSearchParams.clear {
         background-color: #ebebeb !important;
         padding-bottom: 15px !important;
     }
+    .NewMotors .vc_column_container>.vc_column-inner{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
     div#searchEngine {
         margin-top: 0px;
     }
