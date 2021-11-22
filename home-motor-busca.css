@@ -27,6 +27,14 @@ div#rev_slider_10_1_wrapper {
 }
 
 /* *********************** */
+.NewMotors .vc_column_container>.vc_column-inner{
+    display: inline-flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: center !important;
+    justify-content: center !important;
+    width: 100%;
+}
 
 .Ofertas-Especiais .vc_column-inner .wpb_wrapper {
     width: 80%;
