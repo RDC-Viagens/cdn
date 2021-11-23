@@ -1,3 +1,40 @@
+/* CONFIGURAÇÃO PAGINA */
+.vc_column_container>.vc_column-inner {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/* BANNER */
 label.label.name_hotel {
     display: none;
 }
+
+.fullTopoPage-banner {
+    max-height: 424px;
+    margin-bottom: 0px !important;
+}
+
+.fullTopoPage-banner figure img {
+    max-height: 424px;
+}
+
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
+    margin-bottom: 0px;
+}
+
+code {
+    position: absolute;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: 600;
+    width: 100%;
+    font-size: 85px;
+    text-shadow: 2px 2px 2px #000;
+    top: 24%;
+    display: block;
+    text-align: center;
+}
+
+/* MOTOR DE BUSCA */
