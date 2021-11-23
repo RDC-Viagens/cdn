@@ -92,3 +92,35 @@ label small {
     align-items: flex-end;
     display: inline-flex;
 }
+
+
+/* CARDS PADRÃO */
+
+
+.article-ofertas-promocionais {
+    display: block !important;
+    max-width: 1140px !important;
+    margin: 0px auto !important;
+    float: none;
+}
+
+.article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
+    display: inline-flex;
+    margin: 15px 0px;
+    align-items: center !important;
+}
+
+.article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
+    font-size: 33px;
+    color: #333 !important;
+    padding: 15px;
+    width: 250px;
+}
+
+.article-ofertas-promocionais .wpb_raw_code.wpb_content_element.wpb_raw_html.cards-promocionais {
+    margin-bottom: 0px;
+}
+
+.cards-promocionais section {
+    display: inline-flex !important;
+}
