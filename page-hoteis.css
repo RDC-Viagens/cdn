@@ -38,3 +38,51 @@ code {
 }
 
 /* MOTOR DE BUSCA */
+div#searchEngine {
+    margin-top: 0px !important;
+}
+
+.destinationContainer {
+    width: 100%;
+}
+
+.search_engine_v2>.content>h2 {
+    color: #fff;
+    font-weight: 600;
+    width: auto;
+    font-size: 22px;
+    right: 632px;
+    text-shadow: 2px 2px 2px #000;
+    padding: 0px 0px 20px 0px;
+}
+
+.destination {
+    width: 100%;
+}
+
+label.going_to, label.from, label.date {
+    width: 50%;
+}
+
+label small {
+    display: none;
+}
+
+.search_engine_v2>.content .advanced.settings {
+    display: none;
+}
+
+.section-promocao-aereo h2.vc_custom_heading {
+    padding: 15px 0px;
+    text-align: justify !important;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.advanced.travelers.passengers {
+    width: 100% !important;
+}
+
+.content {
+    margin-bottom: 20px;
+}
