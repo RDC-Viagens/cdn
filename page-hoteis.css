@@ -86,3 +86,9 @@ label small {
 .content {
     margin-bottom: 20px;
 }
+
+.select_box.child_years_old.child-ages {
+    height: 63px;
+    align-items: flex-end;
+    display: inline-flex;
+}
