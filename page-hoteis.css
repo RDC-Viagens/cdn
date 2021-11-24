@@ -120,7 +120,8 @@ label small {
     margin-bottom: 0px;
 }
 
-.cards-promocionais section {
+.cards-promocionais section,
+.cards-promocionais section span {
     display: inline-flex !important;
 }
 
