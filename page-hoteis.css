@@ -226,7 +226,8 @@ span.ou {
 }
 
 .valorPontos span::after {
-    content: " pontos" !important;
+    content: "pontos" !important;
+    white-space: pre;
     font-size: 20px !important;
     color: #333 !important;
     font-weight: 300 !important;
