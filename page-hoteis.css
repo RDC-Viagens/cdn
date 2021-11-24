@@ -190,7 +190,6 @@ span.cidade {
     padding: 0 16px !important;
     width: 90px !important;
     color: #FFF !important;
-    background: #038EAD !important;
     height: 24px !important;
     overflow: hidden !important;
     font-size: 12px !important;
@@ -247,4 +246,9 @@ span.byPrice {
     text-align: center !important;
     padding: 15px 0px !important;
     border-top: 1px solid #DDD !important;
+}
+
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - HOTEL */
+span.cidade {
+    background-color: #fe7000;
 }
