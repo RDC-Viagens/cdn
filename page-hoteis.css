@@ -104,8 +104,13 @@ label small {
 }
 
 .hoteisDestaque .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
+    display: inline-block !important;
     margin: 15px 0px;
     align-items: center !important;
+}
+
+.hoteisDestaque .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
+    width: 100% !important;
 }
 
 .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
