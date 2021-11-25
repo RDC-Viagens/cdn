@@ -113,7 +113,7 @@ label small {
     font-size: 33px;
     color: #333 !important;
     padding: 15px;
-    width: 250px;
+    width: 100%;
 }
 
 .article-ofertas-promocionais .wpb_raw_code.wpb_content_element.wpb_raw_html.cards-promocionais {
