@@ -136,6 +136,8 @@ hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
     display: inline-flex !important;
     width: 100%;
     justify-content: center !important;
+    align-items: center;
+    align-content: center;
 }
 
 a.link-cardPromocao {
