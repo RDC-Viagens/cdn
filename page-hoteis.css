@@ -134,6 +134,8 @@ hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
 .cards-promocionais section,
 .cards-promocionais section span {
     display: inline-flex !important;
+    width: 100%;
+    justify-content: center !important;
 }
 
 a.link-cardPromocao {
