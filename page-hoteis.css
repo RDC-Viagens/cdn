@@ -107,6 +107,7 @@ label small {
     display: inline-block;
     margin: 15px 0px;
     align-items: center !important;
+    width: 100%;
 }
 
 .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
