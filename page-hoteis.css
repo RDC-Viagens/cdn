@@ -122,8 +122,8 @@ label small {
 }
 
 
-hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
-    width: 100% !important;
+.hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper h2.vc_custom_heading {
+    width: 200px;
 }
 
 .hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper {
