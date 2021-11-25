@@ -121,14 +121,16 @@ label small {
     margin-bottom: 0px;
 }
 
-hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper {
-    display: inline-block !important;
-    margin: 15px 0px;
-    align-items: center !important;
+
+.hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
+    width: 100% !important;
 }
 
-hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
-    width: 100% !important;
+.hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper {
+    display: flex;
+    align-items: center;
+    height: 430px;
+    justify-content: center;
 }
 
 .cards-promocionais section,
