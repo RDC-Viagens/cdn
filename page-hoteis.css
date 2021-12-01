@@ -133,8 +133,8 @@ label small {
     height: 430px;
     justify-content: center;
 }
+
 .cards-promocionais section article,
-.cards-promocionais section,
 .cards-promocionais section span {
     display: inline-flex !important;
     width: 100%;
