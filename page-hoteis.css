@@ -143,6 +143,10 @@ label small {
     align-content: center;
 }
 
+.cards-promocionais section p.valorPontos span{
+    justify-content: left !important;
+}
+
 a.link-cardPromocao {
     width: 194px !important;
     height: 390px !important;
