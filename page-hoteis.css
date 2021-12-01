@@ -138,13 +138,13 @@ label small {
 .cards-promocionais section span {
     display: inline-flex !important;
     width: 100%;
-    justify-content: center !important;
+    justify-content: center;
     align-items: center;
     align-content: center;
 }
 
-.cards-promocionais section p.valorPontos span{
-    justify-content: left !important;
+a.link-cardPromocao span {
+    justify-content: left;
 }
 
 a.link-cardPromocao {
