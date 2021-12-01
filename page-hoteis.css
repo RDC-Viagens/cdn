@@ -114,6 +114,7 @@ label small {
     font-size: 33px;
     color: #333 !important;
     padding: 15px;
+    display: inline-block !important;
     width: 100%;
 }
 
@@ -132,7 +133,7 @@ label small {
     height: 430px;
     justify-content: center;
 }
-
+.cards-promocionais section article,
 .cards-promocionais section,
 .cards-promocionais section span {
     display: inline-flex !important;
