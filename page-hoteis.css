@@ -223,9 +223,12 @@ span.cidade {
     justify-content: center !important;
     left: 11% !important;
 }
-
+span.pass-air{
+    justify-content: left !important;
+}
 .aPartirDe {
     margin-bottom: 20px !important;
+    justify-content: left !important;
 }
 
 p.valorReais, p.valorPontos {
