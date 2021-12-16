@@ -21,13 +21,11 @@
     justify-content: left;
     height: 444px;
 }
+
 .article-ofertas-promocionais section a {
     flex: none;
     margin-left: 15px;
 }
-
-
-
 
 a.link-cardPromocao span {
     justify-content: left;
@@ -109,15 +107,18 @@ span.cidade {
     justify-content: center !important;
     left: 11% !important;
 }
-span.pass-air{
+
+span.pass-air {
     justify-content: left !important;
 }
+
 .aPartirDe {
     margin-bottom: 20px !important;
     justify-content: left !important;
 }
 
-p.valorReais, p.valorPontos {
+p.valorReais,
+p.valorPontos {
     display: inline-flex !important;
     height: 30px !important;
     width: 100% !important;
@@ -160,26 +161,37 @@ span.byPrice {
     border-top: 1px solid #DDD !important;
 }
 
+
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - HOTEL */
+
 section#Hotel a .corpo span.cidade {
     background-color: #fe7000 !important;
 }
+
+
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - AEREO */
+
 section#Aereo a .corpo span.cidade {
     background-color: #038EAD !important;
 }
+
+
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - SERVIÇO */
+
 section#Servico a .corpo span.cidade {
     background-color: #6f42c1 !important;
 }
+
+
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - PACOTE */
+
 section#Pacotes a .corpo span.cidade {
     background-color: #f90c51 !important;
 }
 
 @media screen and (max-width: 700px) {
     html .vc_row-fluid.fullsize,
-    .titulo_Pagina{
+    .titulo_Pagina {
         padding: 0px !important;
     }
     .vc_separator.vc_sep_double {
@@ -198,7 +210,7 @@ section#Pacotes a .corpo span.cidade {
     a.link-aereo {
         margin: 15px 10px !important;
     }
-    .article-ofertas-promocionais .vc_column-inner .wpb_wrapper{
+    .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
         margin: 1px 0px !important;
         width: 100% !important;
         display: inline-block !important;
@@ -208,7 +220,7 @@ section#Pacotes a .corpo span.cidade {
         padding: 0px !important;
         width: 100% !important;
     }
-    .subtitle-precosImperdiveis{
+    .subtitle-precosImperdiveis {
         position: relative !important;
         width: 100% !important;
         top: 0px !important;
