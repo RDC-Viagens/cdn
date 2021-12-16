@@ -19,6 +19,7 @@
     display: flex !important;
     overflow-x: auto;
     justify-content: left;
+    height: 444px;
 }
 .article-ofertas-promocionais section a {
     flex: none;
