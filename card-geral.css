@@ -34,21 +34,6 @@
     width: 100%;
 }
 
-.article-ofertas-promocionais .wpb_raw_code.wpb_content_element.wpb_raw_html.cards-promocionais {
-    margin-bottom: 0px;
-}
-
-
-.hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper h2.vc_custom_heading {
-    width: 200px;
-}
-
-.hoteis-ofertas-promocionais .vc_column-inner .wpb_wrapper {
-    display: flex;
-    align-items: center;
-    height: 430px;
-    justify-content: center;
-}
 
 .cards-promocionais section article,
 .cards-promocionais section span {
