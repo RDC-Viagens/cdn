@@ -162,7 +162,19 @@ span.byPrice {
 
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - HOTEL */
 span.cidade {
-    background-color: #fe7000;
+    background-color: #fe7000 !important;
+}
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - AEREO */
+span.cidade {
+    background-color: #fe7000 !important;
+}
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - SERVIÇO */
+span.cidade {
+    background-color: #fe7000 !important;
+}
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - PACOTE */
+span.cidade {
+    background-color: #fe7000 !important;
 }
 
 @media screen and (max-width: 700px) {
