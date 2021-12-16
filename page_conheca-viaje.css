@@ -1,7 +1,9 @@
 /* RESET PAGINA */
+
 html .vc_row-fluid {
     z-index: 2;
 }
+
 .vc_column-inner {
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -16,18 +18,22 @@ html .vc_row-fluid {
     text-align: justify;
 }
 
+
 /* SEPARADORES */
 
 .vc_separator.vc_separator_align_left h4 {
     padding: 0 .8em 0 0;
     font-size: 25px;
 }
+
 .vc_separator.vc_separator_align_center h4 {
     padding: 0 .8em;
     font-size: 25px;
 }
 
+
 /* BANNER */
+
 .wpb_single_image img {
     height: 380px;
     max-width: 100%;
@@ -47,7 +53,7 @@ html .vc_row-fluid {
 
 .h1_banner {
     position: absolute;
-    top: 163px;
+    top: 130px;
     flex-direction: center;
     justify-content: center;
     align-items: center;
@@ -55,14 +61,13 @@ html .vc_row-fluid {
     font-weight: 600;
     width: auto;
     font-size: 115px;
-    left: 95px;
+    left: 100px;
     text-shadow: 2px 2px 2px #000;
 }
 
 .h2_banner {
     position: absolute;
-    top: 131px;
-    /* display: flex; */
+    top: 100px;
     flex-direction: center;
     justify-content: center;
     align-items: center;
@@ -72,6 +77,7 @@ html .vc_row-fluid {
     font-size: 45px;
     left: 100px;
 }
+
 
 /* MENU */
 
@@ -123,16 +129,20 @@ ul#topico_menu li a:hover {
     color: #f90c51;
 }
 
+
 /*  */
+
 .flexslider .slides>li {
     display: flex !important;
     -webkit-backface-visibility: visible !important;
 }
+
 .flexslider .slides img {
     display: block;
     width: 570px;
     height: 352;
 }
+
 
 /* PACOTES */
 
@@ -142,13 +152,16 @@ div#pacotes_em_destaque {
     border-bottom: 1px solid #002B97;
 }
 
+
 /* HISTORIA DESTINO */
 
 .wpb_video_widget.wpb_content_element.vc_clearfix.vc_video-aspect-ratio-169.vc_video-el-width-100.vc_video-align-left {
     margin-bottom: 0px;
 }
 
-.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
+.wpb_button,
+.wpb_content_element,
+ul.wpb_thumbnails-fluid>li {
     margin-bottom: 0px;
 }
 
@@ -192,6 +205,7 @@ code {
 .fullwidthbanner-container .fullwidthabanner ul li {
     visibility: visible !important;
 }
+
 
 /* ONDE FICAR */
 
@@ -253,7 +267,7 @@ ul#card-promocoes {
     width: 100%;
     flex-direction: center;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
 }
 
 #card-promocoes li {
@@ -276,6 +290,7 @@ ul#card-promocoes {
     color: #428cca;
     font-weight: 600;
 }
+
 span.price_conection {
     display: table-cell !important;
     vertical-align: middle;
@@ -283,6 +298,7 @@ span.price_conection {
     width: 80px;
     padding-left: 10px;
 }
+
 #card-promocoes>li .price {
     width: 100%;
     display: table !important;
@@ -294,6 +310,7 @@ span.price_conection {
 .master_title {
     padding: 5px;
 }
+
 #card-promocoes>li span.preco {
     color: #fe7000;
 }
@@ -348,15 +365,18 @@ p.obs {
     color: #7d7d7d !important;
     padding: 5px;
 }
+
 #passeio_destino .titulo {
     top: 0px;
 }
+
 #parcelamento span {
     width: 100%;
     display: block;
     text-align: center;
     color: #f90c51;
 }
+
 
 /* Regionalidade */
 
