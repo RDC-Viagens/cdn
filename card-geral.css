@@ -14,7 +14,19 @@
     width: 100%;
 }
 
-.article-ofertas-promocionais .wpb_wrapper h2 {
+.article-ofertas-promocionais section {
+    width: 100vw !important;
+    display: flex !important;
+    overflow-x: auto;
+    justify-content: left;
+}
+.article-ofertas-promocionais section a {
+    flex: none;
+    margin-left: 15px;
+}
+
+
+.article-ofertas-promocionais section a h2 {
     font-size: 33px;
     color: #333 !important;
     padding: 15px;
