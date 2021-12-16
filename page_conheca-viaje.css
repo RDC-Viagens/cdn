@@ -187,6 +187,23 @@ div#pacotes_em_destaque {
 }
 
 
+/* *** CV_QUANDO_VIAJAR *** */
+
+.cv_quando_viajar .wpb_column .vc_column-inner {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.cv_quando_viajar .wpb_column .vc_column-inner .wpb_wrapper {
+    text-align: center;
+    margin: 0px auto;
+    display: inline-block;
+    width: 70%;
+}
+
+
 /* HISTORIA DESTINO */
 
 .wpb_video_widget.wpb_content_element.vc_clearfix.vc_video-aspect-ratio-169.vc_video-el-width-100.vc_video-align-left {
