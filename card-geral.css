@@ -15,7 +15,7 @@
 }
 
 .article-ofertas-promocionais section {
-    width: 86vw !important;
+    width: 100vw;
     display: flex !important;
     overflow-x: auto;
     justify-content: left;
