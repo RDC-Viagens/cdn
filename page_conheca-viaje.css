@@ -18,6 +18,12 @@ html .vc_row-fluid {
     text-align: justify;
 }
 
+.h2.vc_custom_heading {
+    color: #333;
+    font-size: 33px;
+    font-weight: 600;
+}
+
 
 /* SEPARADORES */
 
