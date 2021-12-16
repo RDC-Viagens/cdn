@@ -1,0 +1,241 @@
+/* *** ESTRUTURA DO CARD "BASICO" *** */
+
+.article-ofertas-promocionais {
+    display: block !important;
+    max-width: 1140px !important;
+    margin: 0px auto !important;
+    float: none;
+}
+
+.article-ofertas-promocionais .wpb_wrapper {
+    display: inline-block;
+    margin: 15px 0px;
+    align-items: center !important;
+    width: 100%;
+}
+
+.article-ofertas-promocionais section {
+    width: 100vw;
+    display: flex !important;
+    overflow-x: auto;
+    justify-content: left;
+    height: 444px;
+    align-items: center !important;
+    vertical-align: center !important;
+    justify-content: center !important;
+}
+
+.article-ofertas-promocionais section a {
+    flex: none;
+    margin-left: 15px;
+}
+
+a.link-cardPromocao span {
+    justify-content: left;
+}
+
+a.link-cardPromocao {
+    width: 194px !important;
+    height: 390px !important;
+    box-shadow: 0px 0px 16px 0px rgb(0 0 0 / 16%) !important;
+    padding: 16px !important;
+    border-radius: 16px !important;
+    box-sizing: border-box !important;
+    position: relative !important;
+    margin: 20px 10px !important;
+    text-decoration: none !important;
+}
+
+a.link-cardPromocao:hover {
+    transform: scale(1.1) !important;
+    z-index: 5 !important;
+}
+
+a.link-cardPromocao figure {
+    width: calc(100% + 32px) !important;
+    display: block !important;
+    position: relative !important;
+    border-radius: 16px 16px 0 0 !important;
+    background-clip: padding-box !important;
+    -webkit-mask-image: -webkit-radial-gradient(white, black) !important;
+    -webkit-border-radius: 16px 16px 0 0 !important;
+    top: -15px !important;
+    left: -15px !important;
+}
+
+a.link-cardPromocao figure span {
+    height: 185px !important;
+    display: block !important;
+    overflow: hidden !important;
+    position: relative !important;
+    background: rgba(0, 0, 0, .3) !important;
+}
+
+a.link-cardPromocao figure span img {
+    position: absolute !important;
+    transition: transform .2s !important;
+    display: block !important;
+    object-fit: cover !important;
+    height: 100%;
+}
+
+.corpo {
+    margin: 15px 0px !important;
+}
+
+.corpo span,
+a.link-cardPromocao figure span {
+    color: #333 !important;
+    font-style: normal !important;
+    display: block !important;
+    width: 100% !important;
+    line-height: 16px !important;
+    font-size: 12px !important;
+}
+
+span.cidade {
+    top: 174px !important;
+    position: absolute !important;
+    padding: 0 16px !important;
+    width: 100px !important;
+    color: #FFF !important;
+    height: 24px !important;
+    overflow: hidden !important;
+    font-size: 12px !important;
+    border-radius: 100px !important;
+    display: inline-flex !important;
+    outline: 0 !important;
+    align-items: center !important;
+    vertical-align: middle !important;
+    justify-content: center !important;
+    left: 11% !important;
+}
+
+span.pass-air {
+    justify-content: left !important;
+}
+
+.aPartirDe {
+    margin-bottom: 20px !important;
+    justify-content: left !important;
+}
+
+p.valorReais,
+p.valorPontos {
+    display: inline-flex !important;
+    height: 30px !important;
+    width: 100% !important;
+    align-items: center !important;
+}
+
+.valorPontos span {
+    font-size: 24px !important;
+    color: #fe7000 !important;
+    font-weight: 600 !important;
+}
+
+span.ou {
+    font-size: 20px !important;
+    color: #333 !important;
+    font-weight: 300 !important;
+}
+
+.valorPontos span::after {
+    content: " pontos" !important;
+    white-space: pre;
+    font-size: 20px !important;
+    color: #333 !important;
+    font-weight: 300 !important;
+}
+
+span.byPrice {
+    font-size: 24px !important;
+    margin-right: 5px !important;
+    color: #fe7000 !important;
+    font-weight: 600 !important;
+}
+
+.parcelamento {
+    position: absolute !important;
+    width: 100% !important;
+    left: 0 !important;
+    text-align: center !important;
+    padding: 15px 0px !important;
+    border-top: 1px solid #DDD !important;
+}
+
+
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - HOTEL */
+
+section#Hotel a .corpo span.cidade {
+    background-color: #fe7000 !important;
+}
+
+
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - AEREO */
+
+section#Aereo a .corpo span.cidade {
+    background-color: #038EAD !important;
+}
+
+
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - SERVIÇO */
+
+section#Servico a .corpo span.cidade {
+    background-color: #6f42c1 !important;
+}
+
+
+/* CONFIGURAÇÃO CARDS PROMOÇÃO - PACOTE */
+
+section#Pacotes a .corpo span.cidade {
+    background-color: #f90c51 !important;
+}
+
+@media screen and (max-width: 700px) {
+    html .vc_row-fluid.fullsize,
+    .titulo_Pagina {
+        padding: 0px !important;
+    }
+    .vc_separator.vc_sep_double {
+        margin-top: 10px !important;
+    }
+    .article-ofertas-promocionais section {
+        width: 100vw;
+        display: flex !important;
+        overflow-x: auto;
+        justify-content: left;
+    }
+    .article-ofertas-promocionais section a {
+        flex: none;
+        margin-left: 15px;
+    }
+    a.link-aereo {
+        margin: 15px 10px !important;
+    }
+    .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
+        margin: 1px 0px !important;
+        width: 100% !important;
+        display: inline-block !important;
+    }
+    .article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
+        font-size: 20px !important;
+        padding: 0px !important;
+        width: 100% !important;
+    }
+    .subtitle-precosImperdiveis {
+        position: relative !important;
+        width: 100% !important;
+        top: 0px !important;
+        margin-bottom: 0px !important;
+        padding: 0px !important;
+    }
+    .ofertas-pacotes-home h3.obs {
+        font-size: 14px !important;
+        font-weight: normal !important;
+        height: 85px !important;
+        display: table-cell;
+        padding: 0px !important;
+        top: 0px !important;
+    }
+}
