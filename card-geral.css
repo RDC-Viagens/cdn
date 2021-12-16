@@ -1,3 +1,5 @@
+/* *** ESTRUTURA DO CARD "BASICO" *** */
+
 .article-ofertas-promocionais {
     display: block !important;
     max-width: 1140px !important;
@@ -5,14 +7,14 @@
     float: none;
 }
 
-.article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
+.article-ofertas-promocionais .wpb_wrapper {
     display: inline-block;
     margin: 15px 0px;
     align-items: center !important;
     width: 100%;
 }
 
-.article-ofertas-promocionais .vc_column-inner .wpb_wrapper h2 {
+.article-ofertas-promocionais .wpb_wrapper h2 {
     font-size: 33px;
     color: #333 !important;
     padding: 15px;
