@@ -161,20 +161,20 @@ span.byPrice {
 }
 
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - HOTEL */
-span.cidade {
+section#Hotel a .corpo span.cidade {
     background-color: #fe7000 !important;
 }
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - AEREO */
-span.cidade {
-    background-color: #fe7000 !important;
+section#Aereo a .corpo span.cidade {
+    background-color: #038EAD !important;
 }
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - SERVIÇO */
-span.cidade {
-    background-color: #fe7000 !important;
+section#Servico a .corpo span.cidade {
+    background-color: #6f42c1 !important;
 }
 /* CONFIGURAÇÃO CARDS PROMOÇÃO - PACOTE */
-span.cidade {
-    background-color: #fe7000 !important;
+section#Pacotes a .corpo span.cidade {
+    background-color: #f90c51 !important;
 }
 
 @media screen and (max-width: 700px) {
