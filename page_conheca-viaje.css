@@ -41,6 +41,13 @@ code.cvTitle {
     padding: 15px 0px !important;
 }
 
+.cv_pacotes_em_destaque .conheca_viaje .vc_column-inner .wpb_wrapper {
+    display: inline-flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
 
 /* SEPARADORES */
 
