@@ -1,6 +1,33 @@
-/* Banner Rotativo */
+/* inicio do codigo para customizar o slider da home */
 
+.sliderPersonalizado {
+    margin-bottom: 0 !important;
+}
 
+.sliderPersonalizado .hesperiden.tparrows {
+    background: #428cca80;
+}
+
+.sliderPersonalizado .tp-bullets {
+    left: auto !important;
+    right: 0;
+}
+
+.sliderPersonalizado .tp-bullets .tp-bullet {
+    background: transparent;
+    border: solid 2px #ffffff;
+}
+
+.sliderPersonalizado .tp-bullets .selected {
+    background: #e7b402;
+    border: solid 2px #e7b402;
+}
+
+.sliderPersonalizado .tp-fullwidth-forcer,
+.sliderPersonalizado #rev_slider_10_1_wrapper,
+.sliderPersonalizado #rev_slider_10_1_wrapper #rev_slider_10_1 {
+    height: 400px !important;
+}
 
 div#rev_slider_10_1_forcefullwidth {
     height: 100% !important;
@@ -26,8 +53,10 @@ div#rev_slider_10_1_wrapper {
     height: 334px !important;
 }
 
+
 /* *********************** */
-.NewMotors .vc_column_container>.vc_column-inner{
+
+.NewMotors .vc_column_container>.vc_column-inner {
     display: inline-flex;
     align-content: center;
     align-items: center;
@@ -51,7 +80,9 @@ div#searchEngine {
     background: #2400f6 !important;
 }
 
-.search_engine_v2.custom_engine .tabs li, li.searchEngineSel.active, li.searchEngineSel.active a {
+.search_engine_v2.custom_engine .tabs li,
+li.searchEngineSel.active,
+li.searchEngineSel.active a {
     border-radius: 19px 19px 1px 1px;
 }
 
@@ -79,9 +110,11 @@ ul.tabs li {
     margin: 0px !important;
 }
 
-a#btnSearch, a.clearSearchParams.clear {
+a#btnSearch,
+a.clearSearchParams.clear {
     border-radius: 5px;
 }
+
 
 /* Aéreo */
 
@@ -92,6 +125,7 @@ a#btnSearch, a.clearSearchParams.clear {
 .search_engine_v2.custom_engine.air>.content .date {
     width: 50% !important;
 }
+
 
 /* Monte sua viagem */
 
@@ -108,7 +142,7 @@ a#btnSearch, a.clearSearchParams.clear {
         background-color: #ebebeb !important;
         padding-bottom: 15px !important;
     }
-    .NewMotors .vc_column_container>.vc_column-inner{
+    .NewMotors .vc_column_container>.vc_column-inner {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
@@ -155,7 +189,9 @@ a#btnSearch, a.clearSearchParams.clear {
         color: #777 !important;
         margin-bottom: 7px !important;
     }
-    .search_engine_v2 .tabs li.flight a .ico:before, .search_engine_v2 .tabs li.hotel a .ico:before, .search_engine_v2 .tabs li.package a .ico:before {
+    .search_engine_v2 .tabs li.flight a .ico:before,
+    .search_engine_v2 .tabs li.hotel a .ico:before,
+    .search_engine_v2 .tabs li.package a .ico:before {
         color: #777 !important;
         margin-bottom: 7px !important;
     }
@@ -199,7 +235,8 @@ a#btnSearch, a.clearSearchParams.clear {
         float: none !important;
         padding: 10px !important;
     }
-    .search_engine_v2.air.label_top .passengers label small, .search_engine_v2.hotel>.content .rooms>li label p small {
+    .search_engine_v2.air.label_top .passengers label small,
+    .search_engine_v2.hotel>.content .rooms>li label p small {
         color: #777 !important;
         font-size: 10px !important;
     }
