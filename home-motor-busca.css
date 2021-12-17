@@ -54,7 +54,16 @@ div#rev_slider_10_1_wrapper {
 }
 
 
-/* *********************** */
+/* ** INICIO CODIGO PARA CUSTOM MOTOR DE BUSCA ** */
+
+.NewMotors {
+    max-width: 100% !important;
+    background: #2400f6 !important;
+}
+
+.NewMotors .wpb_column.vc_column_container.vc_col-sm-12 {
+    background-color: #2400f6 !important;
+}
 
 .NewMotors .vc_column_container>.vc_column-inner {
     display: inline-flex;
@@ -73,11 +82,6 @@ div#rev_slider_10_1_wrapper {
 div#searchEngine {
     margin-top: -47px;
     max-width: 1140px;
-}
-
-.NewMotors {
-    max-width: 100% !important;
-    background: #2400f6 !important;
 }
 
 .search_engine_v2.custom_engine .tabs li,
