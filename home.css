@@ -1,16 +1,20 @@
 /* Bnner Rotativo */
+
 .banner-rotativo .vc_column_container>.vc_column-inner {
     padding-left: 0px !important;
     padding-right: 0px !important;
 }
 
+
 /* Inicio Preços Imperdiveis */
+
 .subtitle-precosImperdiveis {
     position: absolute;
     width: 250px;
     top: 266px;
     padding: 0px 13px;
 }
+
 
 /* Fim Preços Imperdiveis */
 
@@ -41,8 +45,8 @@
 }
 
 .article-ofertas-promocionais .vc_column-inner .wpb_wrapper {
-    display: inline-flex ;
-    margin: 15px 0px ;
+    display: inline-flex;
+    margin: 15px 0px;
     align-items: center !important;
 }
 
@@ -82,8 +86,8 @@ a.link-aereo figure {
     background-clip: padding-box !important;
     -webkit-mask-image: -webkit-radial-gradient(white, black) !important;
     -webkit-border-radius: 16px 16px 0 0 !important;
-    top: -15px !important;
-    left: -15px !important;
+    top: -30px !important;
+    left: -56px !important;
 }
 
 a.link-aereo figure span {
@@ -139,7 +143,8 @@ span.cidade {
     margin-bottom: 20px !important;
 }
 
-p.valorReais, p.valorPontos {
+p.valorReais,
+p.valorPontos {
     display: inline-flex !important;
     height: 30px !important;
     width: 100% !important;
@@ -180,6 +185,7 @@ span.byPrice {
     padding: 15px 0px !important;
     border-top: 1px solid #DDD !important;
 }
+
 
 /* Inicio Pacotes Preços Imperdiveis */
 
@@ -238,5 +244,6 @@ span.descricaoOfertasPacotes {
 section#pacotesNacionais a.link-aereo {
     height: 465px !important;
 }
+
 
 /* Termino Pacotes Preços Imperdiveis */
