@@ -61,6 +61,10 @@ a.clearSearchParams.clear {
     border-radius: 5px;
 }
 
+.search_engine_v2 label {
+    color: #FFF;
+}
+
 
 /* Aéreo */
 
