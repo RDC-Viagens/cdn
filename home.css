@@ -234,6 +234,7 @@ section#pacotesNacionais a.link-aereo .corpo span.cidade {
 span.tituloOfertasPacotes {
     font-size: 15px !important;
     font-weight: 600;
+    height: 32px;
 }
 
 span.descricaoOfertasPacotes {
