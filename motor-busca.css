@@ -71,3 +71,14 @@ a.clearSearchParams.clear {
 .search_engine_v2.custom_engine.air>.content .date {
     width: 50% !important;
 }
+
+
+/* Monte sua viagem */
+
+.search_engine_v2>.content .advanced.settings {
+    display: none;
+}
+
+.search_engine_v2.dynamicpackage .travelers>.content .travelers_ages .ages .passenger-container label.room {
+    display: none;
+}
