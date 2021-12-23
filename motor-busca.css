@@ -26,12 +26,13 @@ div#searchEngine {
     max-width: 1140px;
 }
 
-.search_engine_v2.custom_engine .tabs li,
+.search_engine_v2.custom_engine .tabs li {}
+
 li.searchEngineSel.active,
 li.searchEngineSel.active a {
     border-radius: 19px 19px 1px 1px;
     background-color: #2400f6;
-    color: #fff;
+    color: #fff !important;
 }
 
 .search_engine_v2 .tabs li {
