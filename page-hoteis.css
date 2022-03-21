@@ -172,8 +172,8 @@ a.link-cardPromocao figure {
     background-clip: padding-box !important;
     -webkit-mask-image: -webkit-radial-gradient(white, black) !important;
     -webkit-border-radius: 16px 16px 0 0 !important;
-    top: -15px !important;
-    left: -15px !important;
+    top: -29px !important;
+    left: -56px !important;
 }
 
 a.link-cardPromocao figure span {
